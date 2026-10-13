@@ -1,0 +1,452 @@
+cpc_code,commodity,year,geo_level,governorate,food_supply_stage,measurement_scope,treatment,loss_percentage,loss_percentage_clean,loss_percentage_original,loss_tonnes,has_loss_tonnes,loss_tonnes_per_ha,has_loss_tonnes_per_ha,is_reliable,is_suspect_year,is_lit_outlier,is_new_valley_copy,is_suspect_value,is_zero_loss,method_data_collection,reference,notes
+0111,Wheat,2021,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2021,National,Not applicable,,Unknown,Not specified,1.32,1.32,1.32,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2021,National,Not applicable,,Unknown,Not specified,3.13714,3.13714,3.13714,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0114,Sorghum,2021,National,Not applicable,,Unknown,Not specified,3.6,3.6,3.6,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0118,Millet,2021,National,Not applicable,,Unknown,Not specified,2.0,2.0,2,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0111,Wheat,2020,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2020,National,Not applicable,,Unknown,Not specified,1.32,1.32,1.32,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2020,National,Not applicable,,Unknown,Not specified,3.13714,3.13714,3.13714,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0114,Sorghum,2020,National,Not applicable,,Unknown,Not specified,3.6,3.6,3.6,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0118,Millet,2020,National,Not applicable,,Unknown,Not specified,2.0,2.0,2,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0111,Wheat,2019,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2019,National,Not applicable,,Unknown,Not specified,1.32,1.32,1.32,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2019,National,Not applicable,,Unknown,Not specified,3.13714,3.13714,3.13714,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0114,Sorghum,2019,National,Not applicable,,Unknown,Not specified,3.6,3.6,3.6,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0118,Millet,2019,National,Not applicable,,Unknown,Not specified,2.0,2.0,2,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0111,Wheat,2018,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2018,National,Not applicable,,Unknown,Not specified,1.32,1.32,1.32,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2018,National,Not applicable,,Unknown,Not specified,3.13714,3.13714,3.13714,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0114,Sorghum,2018,National,Not applicable,,Unknown,Not specified,3.6,3.6,3.6,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0118,Millet,2018,National,Not applicable,,Unknown,Not specified,2.0,2.0,2,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0111,Wheat,2017,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2017,National,Not applicable,,Unknown,Not specified,1.32,1.32,1.32,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2017,National,Not applicable,,Unknown,Not specified,3.13714,3.13714,3.13714,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0114,Sorghum,2017,National,Not applicable,,Unknown,Not specified,3.6,3.6,3.6,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0118,Millet,2017,National,Not applicable,,Unknown,Not specified,2.0,2.0,2,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0111,Wheat,2016,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2016,National,Not applicable,,Unknown,Not specified,1.32,1.32,1.32,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2016,National,Not applicable,,Unknown,Not specified,3.13714,3.13714,3.13714,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0114,Sorghum,2016,National,Not applicable,,Unknown,Not specified,3.6,3.6,3.6,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0118,Millet,2016,National,Not applicable,,Unknown,Not specified,2.0,2.0,2,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0111,Wheat,2015,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2015,National,Not applicable,,Unknown,Not specified,1.32,1.32,1.32,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2015,National,Not applicable,,Unknown,Not specified,3.13714,3.13714,3.13714,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0114,Sorghum,2015,National,Not applicable,,Unknown,Not specified,3.6,3.6,3.6,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0118,Millet,2015,National,Not applicable,,Unknown,Not specified,2.0,2.0,2,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0111,Wheat,2014,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2014,National,Not applicable,,Unknown,Not specified,1.32,1.32,1.32,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2014,National,Not applicable,,Unknown,Not specified,3.13714,3.13714,3.13714,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0114,Sorghum,2014,National,Not applicable,,Unknown,Not specified,3.6,3.6,3.6,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0118,Millet,2014,National,Not applicable,,Unknown,Not specified,2.0,2.0,2,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0111,Wheat,2013,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2013,National,Not applicable,,Unknown,Not specified,1.32,1.32,1.32,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2013,National,Not applicable,,Unknown,Not specified,3.13714,3.13714,3.13714,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0114,Sorghum,2013,National,Not applicable,,Unknown,Not specified,3.6,3.6,3.6,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0118,Millet,2013,National,Not applicable,,Unknown,Not specified,2.0,2.0,2,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0111,Wheat,2012,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2012,National,Not applicable,,Unknown,Not specified,1.32,1.32,1.32,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2012,National,Not applicable,,Unknown,Not specified,3.13714,3.13714,3.13714,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0114,Sorghum,2012,National,Not applicable,,Unknown,Not specified,3.6,3.6,3.6,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0118,Millet,2012,National,Not applicable,,Unknown,Not specified,2.0,2.0,2,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0111,Wheat,2011,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2011,National,Not applicable,,Unknown,Not specified,1.32,1.32,1.32,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2011,National,Not applicable,,Unknown,Not specified,3.13714,3.13714,3.13714,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0114,Sorghum,2011,National,Not applicable,,Unknown,Not specified,3.6,3.6,3.6,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0118,Millet,2011,National,Not applicable,,Unknown,Not specified,2.0,2.0,2,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0111,Wheat,2010,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2010,National,Not applicable,,Unknown,Not specified,1.32,1.32,1.32,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2010,National,Not applicable,,Unknown,Not specified,3.13714,3.13714,3.13714,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0114,Sorghum,2010,National,Not applicable,,Unknown,Not specified,3.6,3.6,3.6,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0118,Millet,2010,National,Not applicable,,Unknown,Not specified,2.0,2.0,2,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0111,Wheat,2009,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2009,National,Not applicable,,Unknown,Not specified,1.32,1.32,1.32,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2009,National,Not applicable,,Unknown,Not specified,3.13714,3.13714,3.13714,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0114,Sorghum,2009,National,Not applicable,,Unknown,Not specified,3.6,3.6,3.6,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0118,Millet,2009,National,Not applicable,,Unknown,Not specified,2.0,2.0,2,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0111,Wheat,2008,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2008,National,Not applicable,,Unknown,Not specified,1.32,1.32,1.32,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2008,National,Not applicable,,Unknown,Not specified,3.13714,3.13714,3.13714,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0114,Sorghum,2008,National,Not applicable,,Unknown,Not specified,3.6,3.6,3.6,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0118,Millet,2008,National,Not applicable,,Unknown,Not specified,2.0,2.0,2,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0111,Wheat,2007,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2007,National,Not applicable,,Unknown,Not specified,1.32,1.32,1.32,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2007,National,Not applicable,,Unknown,Not specified,3.13714,3.13714,3.13714,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0114,Sorghum,2007,National,Not applicable,,Unknown,Not specified,3.6,3.6,3.6,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0118,Millet,2007,National,Not applicable,,Unknown,Not specified,2.0,2.0,2,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0111,Wheat,2006,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2006,National,Not applicable,,Unknown,Not specified,1.32,1.32,1.32,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2006,National,Not applicable,,Unknown,Not specified,3.13714,3.13714,3.13714,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0114,Sorghum,2006,National,Not applicable,,Unknown,Not specified,3.6,3.6,3.6,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0118,Millet,2006,National,Not applicable,,Unknown,Not specified,2.0,2.0,2,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0111,Wheat,2005,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2005,National,Not applicable,,Unknown,Not specified,1.32,1.32,1.32,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2005,National,Not applicable,,Unknown,Not specified,3.13714,3.13714,3.13714,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0114,Sorghum,2005,National,Not applicable,,Unknown,Not specified,3.6,3.6,3.6,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0118,Millet,2005,National,Not applicable,,Unknown,Not specified,2.0,2.0,2,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0111,Wheat,2004,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2004,National,Not applicable,,Unknown,Not specified,1.32,1.32,1.32,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2004,National,Not applicable,,Unknown,Not specified,3.13714,3.13714,3.13714,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0114,Sorghum,2004,National,Not applicable,,Unknown,Not specified,3.6,3.6,3.6,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0118,Millet,2004,National,Not applicable,,Unknown,Not specified,2.0,2.0,2,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0111,Wheat,2003,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2003,National,Not applicable,,Unknown,Not specified,1.32,1.32,1.32,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2003,National,Not applicable,,Unknown,Not specified,3.13714,3.13714,3.13714,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0114,Sorghum,2003,National,Not applicable,,Unknown,Not specified,3.6,3.6,3.6,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0118,Millet,2003,National,Not applicable,,Unknown,Not specified,2.0,2.0,2,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0111,Wheat,2002,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2002,National,Not applicable,,Unknown,Not specified,1.32,1.32,1.32,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2002,National,Not applicable,,Unknown,Not specified,3.13714,3.13714,3.13714,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0114,Sorghum,2002,National,Not applicable,,Unknown,Not specified,3.6,3.6,3.6,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0118,Millet,2002,National,Not applicable,,Unknown,Not specified,2.0,2.0,2,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0111,Wheat,2001,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2001,National,Not applicable,,Unknown,Not specified,1.32,1.32,1.32,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2001,National,Not applicable,,Unknown,Not specified,3.13714,3.13714,3.13714,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0114,Sorghum,2001,National,Not applicable,,Unknown,Not specified,3.6,3.6,3.6,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0118,Millet,2001,National,Not applicable,,Unknown,Not specified,2.0,2.0,2,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0111,Wheat,2000,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2000,National,Not applicable,,Unknown,Not specified,1.32,1.32,1.32,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2000,National,Not applicable,,Unknown,Not specified,3.13714,3.13714,3.13714,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0114,Sorghum,2000,National,Not applicable,,Unknown,Not specified,3.6,3.6,3.6,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0118,Millet,2000,National,Not applicable,,Unknown,Not specified,2.0,2.0,2,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+01193,Fonio,2021,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+01193,Fonio,2020,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+01193,Fonio,2019,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+01193,Fonio,2018,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+01193,Fonio,2017,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+01193,Fonio,2016,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+01193,Fonio,2015,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+01193,Fonio,2014,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+01193,Fonio,2013,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+01193,Fonio,2012,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+01193,Fonio,2011,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+01193,Fonio,2010,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+01193,Fonio,2009,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+01193,Fonio,2008,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+01193,Fonio,2007,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+01193,Fonio,2006,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+01193,Fonio,2005,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+01193,Fonio,2004,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+01193,Fonio,2003,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+01193,Fonio,2002,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+01193,Fonio,2001,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2000,National,Not applicable,,Unknown,Not specified,17.8,17.8,2.1-33.5,,False,,False,True,False,False,False,False,False,No Data Collection Specified,Affogon et al 2000,No note
+01193,Fonio,2000,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2013,National,Not applicable,,Unknown,Not specified,20.0,20.0,10.0-30,,False,,False,True,False,False,False,False,False,Expert Opinion,,url not found
+0115,Barley,2021,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0115,Barley,2020,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0115,Barley,2019,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0115,Barley,2018,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0115,Barley,2017,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0115,Barley,2016,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0115,Barley,2015,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0115,Barley,2014,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0115,Barley,2013,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0115,Barley,2012,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0115,Barley,2011,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0115,Barley,2010,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0115,Barley,2009,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0115,Barley,2008,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0115,Barley,2007,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0115,Barley,2006,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0115,Barley,2005,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0115,Barley,2004,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0115,Barley,2003,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0115,Barley,2002,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0115,Barley,2001,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0115,Barley,2000,National,Not applicable,,Unknown,Not specified,3.5,3.5,3.5,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2021,National,Not applicable,,Unknown,Not specified,1.52186,1.52186,1.52186,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2021,National,Not applicable,,Unknown,Not specified,2.95173,2.95173,2.95173,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2020,National,Not applicable,,Unknown,Not specified,1.50662,1.50662,1.50662,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2020,National,Not applicable,,Unknown,Not specified,3.04432,3.04432,3.04432,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2019,National,Not applicable,,Unknown,Not specified,1.50252,1.50252,1.50252,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2019,National,Not applicable,,Unknown,Not specified,2.89134,2.89134,2.89134,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2018,National,Not applicable,,Unknown,Not specified,1.49789,1.49789,1.49789,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2018,National,Not applicable,,Unknown,Not specified,2.89224,2.89224,2.89224,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2017,National,Not applicable,,Unknown,Not specified,1.52186,1.52186,1.52186,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2017,National,Not applicable,,Unknown,Not specified,2.95173,2.95173,2.95173,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2016,National,Not applicable,,Unknown,Not specified,1.52186,1.52186,1.52186,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2016,National,Not applicable,,Unknown,Not specified,2.95173,2.95173,2.95173,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2015,National,Not applicable,,Unknown,Not specified,1.52186,1.52186,1.52186,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2015,National,Not applicable,,Unknown,Not specified,2.95173,2.95173,2.95173,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2014,National,Not applicable,,Unknown,Not specified,1.612,1.612,1.612,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2014,National,Not applicable,,Unknown,Not specified,2.98763,2.98763,2.98763,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2013,National,Not applicable,,Unknown,Not specified,1.63696,1.63696,1.63696,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2013,National,Not applicable,,Unknown,Not specified,2.98598,2.98598,2.98598,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2012,National,Not applicable,,Unknown,Not specified,1.6536,1.6536,1.6536,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2012,National,Not applicable,,Unknown,Not specified,2.96915,2.96915,2.96915,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2011,National,Not applicable,,Unknown,Not specified,1.48998,1.48998,1.48998,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2011,National,Not applicable,,Unknown,Not specified,2.91151,2.91151,2.91151,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2010,National,Not applicable,,Unknown,Not specified,1.48649,1.48649,1.48649,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2010,National,Not applicable,,Unknown,Not specified,2.91839,2.91839,2.91839,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2009,National,Not applicable,,Unknown,Not specified,1.48879,1.48879,1.48879,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2009,National,Not applicable,,Unknown,Not specified,2.93212,2.93212,2.93212,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2008,National,Not applicable,,Unknown,Not specified,1.49093,1.49093,1.49093,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2008,National,Not applicable,,Unknown,Not specified,2.93051,2.93051,2.93051,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2007,National,Not applicable,,Unknown,Not specified,1.49833,1.49833,1.49833,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2007,National,Not applicable,,Unknown,Not specified,2.95682,2.95682,2.95682,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2006,National,Not applicable,,Unknown,Not specified,1.49785,1.49785,1.49785,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2006,National,Not applicable,,Unknown,Not specified,2.9606,2.9606,2.9606,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2005,National,Not applicable,,Unknown,Not specified,1.50152,1.50152,1.50152,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2005,National,Not applicable,,Unknown,Not specified,2.96457,2.96457,2.96457,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2004,National,Not applicable,,Unknown,Not specified,1.49864,1.49864,1.49864,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2004,National,Not applicable,,Unknown,Not specified,2.93697,2.93697,2.93697,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2003,National,Not applicable,,Unknown,Not specified,1.49743,1.49743,1.49743,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2003,National,Not applicable,,Unknown,Not specified,2.93383,2.93383,2.93383,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2002,National,Not applicable,,Unknown,Not specified,1.49577,1.49577,1.49577,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2002,National,Not applicable,,Unknown,Not specified,2.9379,2.9379,2.9379,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2001,National,Not applicable,,Unknown,Not specified,1.49897,1.49897,1.49897,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2001,National,Not applicable,,Unknown,Not specified,2.93669,2.93669,2.93669,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2000,National,Not applicable,,Unknown,Not specified,1.52186,1.52186,1.52186,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2000,National,Not applicable,,Unknown,Not specified,2.95173,2.95173,2.95173,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+022290,Dairy products n.e.c.,2011,National,Not applicable,,Unknown,Not specified,2.15,2.15,0.9-3.4,,False,,False,True,False,False,False,False,False,No Data Collection Specified,EHI 2011,Not found
+01233,Eggplants (aubergines),2002,National,Not applicable,,Unknown,Not specified,19.4,19.4,19.4,,False,,False,True,False,False,False,False,False,Literature Review,"Lisa Kitinoja, (2010), Identification Of Appropriate Postharvest Technologies For Improving Market Access And Incomes For Small Horticultural Farmers In Sub-Saharan Africa And South Asia",No note
+01234,Tomatoes,2002,National,Not applicable,,Unknown,Not specified,18.0,18.0,18,,False,,False,True,False,False,False,False,False,Literature Review,"Lisa Kitinoja, (2010), Identification Of Appropriate Postharvest Technologies For Improving Market Access And Incomes For Small Horticultural Farmers In Sub-Saharan Africa And South Asia",No note
+01235,"Pumpkins, squash and gourds",2002,National,Not applicable,,Unknown,Not specified,21.9,21.9,21.9,,False,,False,True,False,False,False,False,False,Literature Review,"Lisa Kitinoja, (2010), Identification Of Appropriate Postharvest Technologies For Improving Market Access And Incomes For Small Horticultural Farmers In Sub-Saharan Africa And South Asia",No note
+01651,"Pepper (<i>Piper</i> spp.), raw",2002,National,Not applicable,,Unknown,Not specified,23.0,23.0,23,,False,,False,True,False,True,False,False,False,Literature Review,"Lisa Kitinoja, (2010), Identification Of Appropriate Postharvest Technologies For Improving Market Access And Incomes For Small Horticultural Farmers In Sub-Saharan Africa And South Asia",No note
+0112,Maize (corn),2012,National,Not applicable,,Unknown,Not specified,15.15,15.15,9.7-20.6,,False,,False,True,False,False,False,False,False,No Data Collection Specified,Mutambuki and Ngatia,No note
+0112,Maize (corn),2006,National,Not applicable,,Unknown,Not specified,5.75,5.75,3.9-7.6,,False,,False,True,False,False,False,False,False,No Data Collection Specified,Komen Mutoko Wanyama Rono and Mose,No note
+0112,Maize (corn),2006,National,Not applicable,,Unknown,Not specified,24.2,24.2,19.3-29.1,,False,,False,True,False,False,False,False,False,No Data Collection Specified,Mutambuki and Ngatia,No note
+0112,Maize (corn),2004,National,Not applicable,,Unknown,Not specified,14.25,14.25,13.5-15,,False,,False,True,False,False,False,False,False,Expert Opinion,,No note
+0112,Maize (corn),2021,National,Not applicable,,Unknown,Not specified,1.3551,1.3551,1.3551,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2021,National,Not applicable,,Unknown,Not specified,3.13708,3.13708,3.13708,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2020,National,Not applicable,,Unknown,Not specified,1.35661,1.35661,1.35661,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2019,National,Not applicable,,Unknown,Not specified,1.35798,1.35798,1.35798,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2018,National,Not applicable,,Unknown,Not specified,1.35527,1.35527,1.35527,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2017,National,Not applicable,,Unknown,Not specified,1.36075,1.36075,1.36075,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2016,National,Not applicable,,Unknown,Not specified,1.36061,1.36061,1.36061,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2015,National,Not applicable,,Unknown,Not specified,1.35519,1.35519,1.35519,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2014,National,Not applicable,,Unknown,Not specified,1.36272,1.36272,1.36272,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2013,National,Not applicable,,Unknown,Not specified,1.36331,1.36331,1.36331,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2012,National,Not applicable,,Unknown,Not specified,1.36781,1.36781,1.36781,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2011,National,Not applicable,,Unknown,Not specified,1.36829,1.36829,1.36829,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2010,National,Not applicable,,Unknown,Not specified,1.3722,1.3722,1.3722,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2009,National,Not applicable,,Unknown,Not specified,1.3671,1.3671,1.3671,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2008,National,Not applicable,,Unknown,Not specified,1.36931,1.36931,1.36931,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2007,National,Not applicable,,Unknown,Not specified,1.37911,1.37911,1.37911,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2006,National,Not applicable,,Unknown,Not specified,1.36936,1.36936,1.36936,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2005,National,Not applicable,,Unknown,Not specified,1.3727,1.3727,1.3727,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2004,National,Not applicable,,Unknown,Not specified,1.38189,1.38189,1.38189,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2004,National,Not applicable,,Unknown,Not specified,3.13691,3.13691,3.13691,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2003,National,Not applicable,,Unknown,Not specified,1.36465,1.36465,1.36465,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2003,National,Not applicable,,Unknown,Not specified,3.13713,3.13713,3.13713,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2002,National,Not applicable,,Unknown,Not specified,1.36465,1.36465,1.36465,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2002,National,Not applicable,,Unknown,Not specified,3.13713,3.13713,3.13713,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2001,National,Not applicable,,Unknown,Not specified,1.36465,1.36465,1.36465,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2001,National,Not applicable,,Unknown,Not specified,3.13713,3.13713,3.13713,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2000,National,Not applicable,,Unknown,Not specified,1.36465,1.36465,1.36465,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2000,National,Not applicable,,Unknown,Not specified,3.13713,3.13713,3.13713,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2007,National,Not applicable,,Unknown,Not specified,6.0,6.0,6,,False,,False,True,False,False,False,False,False,Literature Review,"Julian Parfitt; Mark Barthel; Sarah Macnaughton, (2010), Food Waste Within Food Supply Chains: Quantification And Potential For Change To 2050",No note
+0112,Maize (corn),2016,National,Not applicable,,Unknown,Not specified,1.5,1.5,1.5,263.0,True,,False,True,False,False,False,False,False,Expert Opinion,ESS,No note
+0112,Maize (corn),2016,National,Not applicable,,Unknown,Not specified,7.3,7.3,7.3,1.673,True,,False,True,False,False,False,False,False,Expert Opinion,"FAO Technical Assistance Project TCP/MEX/3601/C1- TCPF; Stakeholder meetings, rapid assessment",No note
+01234,Tomatoes,2016,National,Not applicable,,Unknown,Not specified,13.9,13.9,13.9,400859.0,True,,False,True,False,False,False,False,False,Expert Opinion,ESS,No note
+0112,Maize (corn),2021,National,Not applicable,,Unknown,Not specified,1.3837,1.3837,1.3837,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2021,National,Not applicable,,Unknown,Not specified,3.10178,3.10178,3.10178,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2020,National,Not applicable,,Unknown,Not specified,1.3837,1.3837,1.3837,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2020,National,Not applicable,,Unknown,Not specified,3.10178,3.10178,3.10178,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2019,National,Not applicable,,Unknown,Not specified,1.3837,1.3837,1.3837,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2019,National,Not applicable,,Unknown,Not specified,3.10178,3.10178,3.10178,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2018,National,Not applicable,,Unknown,Not specified,1.3837,1.3837,1.3837,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2018,National,Not applicable,,Unknown,Not specified,3.10178,3.10178,3.10178,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2017,National,Not applicable,,Unknown,Not specified,1.3837,1.3837,1.3837,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2017,National,Not applicable,,Unknown,Not specified,3.10178,3.10178,3.10178,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2016,National,Not applicable,,Unknown,Not specified,1.3837,1.3837,1.3837,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2016,National,Not applicable,,Unknown,Not specified,3.10178,3.10178,3.10178,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2015,National,Not applicable,,Unknown,Not specified,1.51776,1.51776,1.51776,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2015,National,Not applicable,,Unknown,Not specified,3.00603,3.00603,3.00603,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2014,National,Not applicable,,Unknown,Not specified,1.38015,1.38015,1.38015,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2014,National,Not applicable,,Unknown,Not specified,3.10246,3.10246,3.10246,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2013,National,Not applicable,,Unknown,Not specified,1.3837,1.3837,1.3837,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2013,National,Not applicable,,Unknown,Not specified,3.10178,3.10178,3.10178,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2012,National,Not applicable,,Unknown,Not specified,1.38866,1.38866,1.38866,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2012,National,Not applicable,,Unknown,Not specified,3.08588,3.08588,3.08588,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2011,National,Not applicable,,Unknown,Not specified,1.3837,1.3837,1.3837,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2011,National,Not applicable,,Unknown,Not specified,3.10178,3.10178,3.10178,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2010,National,Not applicable,,Unknown,Not specified,1.3837,1.3837,1.3837,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2010,National,Not applicable,,Unknown,Not specified,3.10178,3.10178,3.10178,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2009,National,Not applicable,,Unknown,Not specified,1.3837,1.3837,1.3837,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2009,National,Not applicable,,Unknown,Not specified,3.10178,3.10178,3.10178,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2008,National,Not applicable,,Unknown,Not specified,1.3837,1.3837,1.3837,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2008,National,Not applicable,,Unknown,Not specified,3.10178,3.10178,3.10178,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2007,National,Not applicable,,Unknown,Not specified,1.36172,1.36172,1.36172,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2007,National,Not applicable,,Unknown,Not specified,3.11127,3.11127,3.11127,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2006,National,Not applicable,,Unknown,Not specified,1.3508,1.3508,1.3508,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2006,National,Not applicable,,Unknown,Not specified,3.12663,3.12663,3.12663,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2005,National,Not applicable,,Unknown,Not specified,1.36583,1.36583,1.36583,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2005,National,Not applicable,,Unknown,Not specified,3.1101,3.1101,3.1101,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2004,National,Not applicable,,Unknown,Not specified,1.35926,1.35926,1.35926,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2004,National,Not applicable,,Unknown,Not specified,3.12042,3.12042,3.12042,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2003,National,Not applicable,,Unknown,Not specified,1.35853,1.35853,1.35853,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2003,National,Not applicable,,Unknown,Not specified,3.12042,3.12042,3.12042,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2002,National,Not applicable,,Unknown,Not specified,1.3837,1.3837,1.3837,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2002,National,Not applicable,,Unknown,Not specified,3.10178,3.10178,3.10178,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2001,National,Not applicable,,Unknown,Not specified,1.3837,1.3837,1.3837,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2001,National,Not applicable,,Unknown,Not specified,3.10178,3.10178,3.10178,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2000,National,Not applicable,,Unknown,Not specified,1.3837,1.3837,1.3837,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0113,Rice,2000,National,Not applicable,,Unknown,Not specified,3.10178,3.10178,3.10178,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2021,National,Not applicable,,Unknown,Not specified,1.79542,1.79542,1.79542,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2020,National,Not applicable,,Unknown,Not specified,1.79542,1.79542,1.79542,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2019,National,Not applicable,,Unknown,Not specified,1.79542,1.79542,1.79542,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2018,National,Not applicable,,Unknown,Not specified,1.79542,1.79542,1.79542,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2017,National,Not applicable,,Unknown,Not specified,1.79542,1.79542,1.79542,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2016,National,Not applicable,,Unknown,Not specified,1.79542,1.79542,1.79542,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2015,National,Not applicable,,Unknown,Not specified,1.79542,1.79542,1.79542,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2014,National,Not applicable,,Unknown,Not specified,1.79542,1.79542,1.79542,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2013,National,Not applicable,,Unknown,Not specified,1.79542,1.79542,1.79542,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2012,National,Not applicable,,Unknown,Not specified,1.79542,1.79542,1.79542,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2011,National,Not applicable,,Unknown,Not specified,1.79542,1.79542,1.79542,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2010,National,Not applicable,,Unknown,Not specified,1.79542,1.79542,1.79542,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2009,National,Not applicable,,Unknown,Not specified,1.79542,1.79542,1.79542,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2008,National,Not applicable,,Unknown,Not specified,1.84514,1.84514,1.84514,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2007,National,Not applicable,,Unknown,Not specified,1.7446,1.7446,1.7446,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2006,National,Not applicable,,Unknown,Not specified,1.79542,1.79542,1.79542,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2005,National,Not applicable,,Unknown,Not specified,1.79542,1.79542,1.79542,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2004,National,Not applicable,,Unknown,Not specified,1.79542,1.79542,1.79542,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2003,National,Not applicable,,Unknown,Not specified,1.79542,1.79542,1.79542,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2002,National,Not applicable,,Unknown,Not specified,1.79542,1.79542,1.79542,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2001,National,Not applicable,,Unknown,Not specified,1.79542,1.79542,1.79542,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2000,National,Not applicable,,Unknown,Not specified,1.79542,1.79542,1.79542,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2013,National,Not applicable,,Unknown,Not specified,15.0,15.0,15,,False,,False,True,False,False,False,False,False,Expert Opinion,,url not found
+0113,Rice,2013,National,Not applicable,,Unknown,Not specified,15.0,15.0,15,,False,,False,True,False,False,False,False,False,,,No note
+01701,"Beans, dry",2013,National,Not applicable,,Unknown,Not specified,15.0,15.0,15,,False,,False,True,False,False,False,False,False,Expert Opinion,,url not found
+022290,Dairy products n.e.c.,2012,National,Not applicable,,Unknown,Not specified,1.6,1.6,1.6,,False,,False,True,False,False,False,False,False,No Data Collection Specified,Hanssen and Moller 2013,No note
+01234,Tomatoes,2007,National,Not applicable,,Unknown,Not specified,20.0,20.0,20,,False,,False,True,False,False,False,False,False,Literature Review,"Lisa Kitinoja, (2010), Identification Of Appropriate Postharvest Technologies For Improving Market Access And Incomes For Small Horticultural Farmers In Sub-Saharan Africa And South Asia",No note
+01253.01,"Onions and shallots, green",2005,National,Not applicable,,Unknown,Not specified,9.0,9.0,9,,False,,False,True,False,False,False,False,False,Literature Review,"Lisa Kitinoja, (2010), Identification Of Appropriate Postharvest Technologies For Improving Market Access And Incomes For Small Horticultural Farmers In Sub-Saharan Africa And South Asia",No note
+01510,Potatoes,2005,National,Not applicable,,Unknown,Not specified,12.0,12.0,12,,False,,False,True,False,False,False,False,False,Literature Review,"Lisa Kitinoja, (2010), Identification Of Appropriate Postharvest Technologies For Improving Market Access And Incomes For Small Horticultural Farmers In Sub-Saharan Africa And South Asia",No note
+0112,Maize (corn),2013,National,Not applicable,,Unknown,Not specified,20.0,20.0,20,,False,,False,True,False,False,False,False,False,Expert Opinion,,url not found
+01212,Cabbages,2013,Governorate/Area,Chiriqui,,Unknown,Not specified,24.0,24.0,18-30,,False,,False,True,False,False,False,False,False,Expert Opinion,,url not found
+01214,Lettuce and chicory,2013,Governorate/Area,Chiriqui,,Unknown,Not specified,24.0,24.0,18-30,,False,,False,True,False,False,False,False,False,Expert Opinion,,url not found
+01234,Tomatoes,2013,Governorate/Area,Chiriqui,,Unknown,Not specified,24.0,24.0,18-30,,False,,False,True,False,False,False,False,False,,,No note
+01253.01,"Onions and shallots, green",2013,Governorate/Area,Chiriqui,,Unknown,Not specified,24.0,24.0,18-30,,False,,False,True,False,False,False,False,False,Expert Opinion,,url not found
+01510,Potatoes,2013,Governorate/Area,Chiriqui,,Unknown,Not specified,24.0,24.0,18-30,,False,,False,True,False,False,False,False,False,Expert Opinion,,url not found
+01701,"Beans, dry",2013,National,Not applicable,,Unknown,Not specified,20.0,20.0,20,,False,,False,True,False,False,False,False,False,Expert Opinion,,url not found
+0111,Wheat,2013,National,Not applicable,,Unknown,Not specified,20.0,20.0,15-25,,False,,False,True,False,False,False,False,False,Expert Opinion,,url not found
+0112,Maize (corn),2013,National,Not applicable,,Unknown,Not specified,20.0,20.0,15-25,,False,,False,True,False,False,False,False,False,Expert Opinion,,url not found
+0112,Maize (corn),2013,Governorate/Area,Selva and Coast Region,,Unknown,Not specified,25.0,25.0,25,,False,,False,True,False,False,False,False,False,Expert Opinion,,url not found
+01701,"Beans, dry",2013,National,Not applicable,,Unknown,Not specified,20.0,20.0,15-25,,False,,False,True,False,False,False,False,False,Expert Opinion,,url not found
+0113,Rice,2007,National,Not applicable,,Unknown,Not specified,6.5,6.5,3.0-10,,False,,False,True,False,False,False,False,False,Literature Review,"Julian Parfitt; Mark Barthel; Sarah Macnaughton, (2010), Food Waste Within Food Supply Chains: Quantification And Potential For Change To 2050",No note
+01312,Bananas,2013,National,Not applicable,,Unknown,Not specified,30.0,30.0,30,,False,,False,True,False,False,False,False,False,Expert Opinion,,url not found
+01318,Pineapples,2013,National,Not applicable,,Unknown,Not specified,30.0,30.0,30,,False,,False,True,False,False,False,False,False,Expert Opinion,,url not found
+01520.01,"Cassava, fresh",2013,National,Not applicable,,Unknown,Not specified,30.0,30.0,30,,False,,False,True,False,False,False,False,False,Expert Opinion,,url not found
+01640,Cocoa beans,2013,National,Not applicable,,Unknown,Not specified,30.0,30.0,30,,False,,False,True,False,False,False,False,False,Expert Opinion,,url not found
+0112,Maize (corn),2021,National,Not applicable,,Unknown,Not specified,2.043,2.043,2.043,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2020,National,Not applicable,,Unknown,Not specified,2.043,2.043,2.043,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2019,National,Not applicable,,Unknown,Not specified,2.043,2.043,2.043,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2018,National,Not applicable,,Unknown,Not specified,2.043,2.043,2.043,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2017,National,Not applicable,,Unknown,Not specified,2.043,2.043,2.043,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2016,National,Not applicable,,Unknown,Not specified,2.043,2.043,2.043,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2015,National,Not applicable,,Unknown,Not specified,2.043,2.043,2.043,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2014,National,Not applicable,,Unknown,Not specified,2.043,2.043,2.043,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2013,National,Not applicable,,Unknown,Not specified,2.19647,2.19647,2.19647,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2012,National,Not applicable,,Unknown,Not specified,2.04294,2.04294,2.04294,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2011,National,Not applicable,,Unknown,Not specified,2.19954,2.19954,2.19954,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2010,National,Not applicable,,Unknown,Not specified,1.3391,1.3391,1.3391,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2009,National,Not applicable,,Unknown,Not specified,1.337,1.337,1.337,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2008,National,Not applicable,,Unknown,Not specified,1.33888,1.33888,1.33888,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2007,National,Not applicable,,Unknown,Not specified,1.33322,1.33322,1.33322,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2006,National,Not applicable,,Unknown,Not specified,1.33578,1.33578,1.33578,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2005,National,Not applicable,,Unknown,Not specified,1.35107,1.35107,1.35107,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2004,National,Not applicable,,Unknown,Not specified,1.34997,1.34997,1.34997,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2003,National,Not applicable,,Unknown,Not specified,1.33648,1.33648,1.33648,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2002,National,Not applicable,,Unknown,Not specified,1.33707,1.33707,1.33707,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2001,National,Not applicable,,Unknown,Not specified,1.33319,1.33319,1.33319,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2000,National,Not applicable,,Unknown,Not specified,1.33925,1.33925,1.33925,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2021,National,Not applicable,,Unknown,Not specified,1.47563,1.47563,1.47563,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2020,National,Not applicable,,Unknown,Not specified,1.49057,1.49057,1.49057,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2019,National,Not applicable,,Unknown,Not specified,1.51336,1.51336,1.51336,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2018,National,Not applicable,,Unknown,Not specified,1.41954,1.41954,1.41954,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2017,National,Not applicable,,Unknown,Not specified,1.40035,1.40035,1.40035,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2016,National,Not applicable,,Unknown,Not specified,1.58491,1.58491,1.58491,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2015,National,Not applicable,,Unknown,Not specified,1.52039,1.52039,1.52039,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2014,National,Not applicable,,Unknown,Not specified,1.4355,1.4355,1.4355,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2013,National,Not applicable,,Unknown,Not specified,1.51412,1.51412,1.51412,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2012,National,Not applicable,,Unknown,Not specified,1.48178,1.48178,1.48178,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2011,National,Not applicable,,Unknown,Not specified,1.43452,1.43452,1.43452,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2010,National,Not applicable,,Unknown,Not specified,1.4438,1.4438,1.4438,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2009,National,Not applicable,,Unknown,Not specified,1.45107,1.45107,1.45107,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2008,National,Not applicable,,Unknown,Not specified,1.60086,1.60086,1.60086,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2007,National,Not applicable,,Unknown,Not specified,1.536,1.536,1.536,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2006,National,Not applicable,,Unknown,Not specified,1.83734,1.83734,1.83734,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2005,National,Not applicable,,Unknown,Not specified,1.47563,1.47563,1.47563,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2004,National,Not applicable,,Unknown,Not specified,1.47563,1.47563,1.47563,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2003,National,Not applicable,,Unknown,Not specified,1.47563,1.47563,1.47563,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2002,National,Not applicable,,Unknown,Not specified,1.47563,1.47563,1.47563,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2001,National,Not applicable,,Unknown,Not specified,1.47563,1.47563,1.47563,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2000,National,Not applicable,,Unknown,Not specified,1.47563,1.47563,1.47563,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2021,National,Not applicable,,Unknown,Not specified,1.6964,1.6964,1.6964,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2020,National,Not applicable,,Unknown,Not specified,1.6964,1.6964,1.6964,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2019,National,Not applicable,,Unknown,Not specified,2.13961,2.13961,2.13961,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2018,National,Not applicable,,Unknown,Not specified,1.6964,1.6964,1.6964,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2017,National,Not applicable,,Unknown,Not specified,1.66539,1.66539,1.66539,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2016,National,Not applicable,,Unknown,Not specified,1.6964,1.6964,1.6964,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2015,National,Not applicable,,Unknown,Not specified,2.0808,2.0808,2.0808,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2014,National,Not applicable,,Unknown,Not specified,1.50995,1.50995,1.50995,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2013,National,Not applicable,,Unknown,Not specified,1.92187,1.92187,1.92187,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2012,National,Not applicable,,Unknown,Not specified,1.71339,1.71339,1.71339,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2011,National,Not applicable,,Unknown,Not specified,1.57098,1.57098,1.57098,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2010,National,Not applicable,,Unknown,Not specified,1.68777,1.68777,1.68777,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2009,National,Not applicable,,Unknown,Not specified,1.79458,1.79458,1.79458,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2008,National,Not applicable,,Unknown,Not specified,1.74021,1.74021,1.74021,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2007,National,Not applicable,,Unknown,Not specified,2.04589,2.04589,2.04589,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2006,National,Not applicable,,Unknown,Not specified,1.60043,1.60043,1.60043,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2005,National,Not applicable,,Unknown,Not specified,1.67427,1.67427,1.67427,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2004,National,Not applicable,,Unknown,Not specified,1.71586,1.71586,1.71586,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2003,National,Not applicable,,Unknown,Not specified,2.05045,2.05045,2.05045,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2002,National,Not applicable,,Unknown,Not specified,1.85547,1.85547,1.85547,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2001,National,Not applicable,,Unknown,Not specified,1.84785,1.84785,1.84785,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2000,National,Not applicable,,Unknown,Not specified,1.52354,1.52354,1.52354,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2021,National,Not applicable,,Unknown,Not specified,1.50366,1.50366,1.50366,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2020,National,Not applicable,,Unknown,Not specified,1.50366,1.50366,1.50366,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2019,National,Not applicable,,Unknown,Not specified,1.50366,1.50366,1.50366,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2018,National,Not applicable,,Unknown,Not specified,1.50366,1.50366,1.50366,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2017,National,Not applicable,,Unknown,Not specified,1.50366,1.50366,1.50366,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2016,National,Not applicable,,Unknown,Not specified,1.50366,1.50366,1.50366,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2015,National,Not applicable,,Unknown,Not specified,1.50366,1.50366,1.50366,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2014,National,Not applicable,,Unknown,Not specified,1.50366,1.50366,1.50366,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2013,National,Not applicable,,Unknown,Not specified,1.50366,1.50366,1.50366,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2012,National,Not applicable,,Unknown,Not specified,1.50366,1.50366,1.50366,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2011,National,Not applicable,,Unknown,Not specified,1.50366,1.50366,1.50366,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2010,National,Not applicable,,Unknown,Not specified,1.50366,1.50366,1.50366,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2009,National,Not applicable,,Unknown,Not specified,1.50366,1.50366,1.50366,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2008,National,Not applicable,,Unknown,Not specified,1.50366,1.50366,1.50366,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2007,National,Not applicable,,Unknown,Not specified,1.47268,1.47268,1.47268,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2006,National,Not applicable,,Unknown,Not specified,1.4451,1.4451,1.4451,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2005,National,Not applicable,,Unknown,Not specified,1.58105,1.58105,1.58105,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2004,National,Not applicable,,Unknown,Not specified,1.54522,1.54522,1.54522,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2003,National,Not applicable,,Unknown,Not specified,1.46383,1.46383,1.46383,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2002,National,Not applicable,,Unknown,Not specified,1.50366,1.50366,1.50366,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2001,National,Not applicable,,Unknown,Not specified,1.50366,1.50366,1.50366,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2000,National,Not applicable,,Unknown,Not specified,1.50366,1.50366,1.50366,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+022251.01,Cheese from whole cow milk,2011,National,Not applicable,,Unknown,Not specified,0.5,0.5,0.5,,False,,False,True,False,False,False,False,False,No Data Collection Specified,Eriksson 2012,No note
+022290,Dairy products n.e.c.,2011,National,Not applicable,,Unknown,Not specified,0.3,0.3,0.3,,False,,False,True,False,False,False,False,False,No Data Collection Specified,Eriksson 2012,No note
+0113,Rice,2007,National,Not applicable,,Unknown,Not specified,10.0,10.0,10,,False,,False,True,False,False,False,False,False,Literature Review,"Julian Parfitt; Mark Barthel; Sarah Macnaughton, (2010), Food Waste Within Food Supply Chains: Quantification And Potential For Change To 2050",No note
+01234,Tomatoes,2013,National,Not applicable,,Unknown,Not specified,29.5,29.5,24-35,,False,,False,True,False,False,False,False,False,,,No note
+01651,"Pepper (<i>Piper</i> spp.), raw",2013,National,Not applicable,,Unknown,Not specified,45.5,45.5,39-52,,False,,False,True,False,False,False,False,False,Expert Opinion,,url not found
+01253.01,"Onions and shallots, green",2011,National,Not applicable,,Unknown,Not specified,0.75,0.75,0.5-1,,False,,False,True,False,False,False,False,False,No Data Collection Specified,"WRAP, 2011",No note
+01253.01,"Onions and shallots, green",2011,National,Not applicable,,Unknown,Not specified,0.75,0.75,0.5-1,,False,,False,True,False,False,False,False,False,,"WRAP, 2011",No note
+01311,Avocados,2011,National,Not applicable,,Unknown,Not specified,3.75,3.75,2.5-5,,False,,False,True,False,False,False,False,False,No Data Collection Specified,"WRAP, 2011",No note
+01311,Avocados,2011,National,Not applicable,,Unknown,Not specified,3.75,3.75,2.5-5,,False,,False,True,False,False,False,False,False,,"WRAP, 2011",No note
+01530,Sweet potatoes,2007,National,Not applicable,,Unknown,Not specified,45.3,45.3,23.7-66.9,,False,,False,True,False,False,False,False,False,,Tomlins et al.,No note
+01530,Sweet potatoes,2003,National,Not applicable,,Unknown,Not specified,34.15,34.15,32.5-35.8,,False,,False,True,False,False,False,False,False,,Rees et al.,No note
+0112,Maize (corn),2021,National,Not applicable,,Unknown,Not specified,1.42165,1.42165,1.42165,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2020,National,Not applicable,,Unknown,Not specified,1.42165,1.42165,1.42165,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2019,National,Not applicable,,Unknown,Not specified,1.42165,1.42165,1.42165,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2018,National,Not applicable,,Unknown,Not specified,1.36201,1.36201,1.36201,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2017,National,Not applicable,,Unknown,Not specified,1.37612,1.37612,1.37612,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2016,National,Not applicable,,Unknown,Not specified,1.37447,1.37447,1.37447,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2015,National,Not applicable,,Unknown,Not specified,1.38622,1.38622,1.38622,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2014,National,Not applicable,,Unknown,Not specified,1.39074,1.39074,1.39074,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2013,National,Not applicable,,Unknown,Not specified,1.37531,1.37531,1.37531,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2012,National,Not applicable,,Unknown,Not specified,1.36785,1.36785,1.36785,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2011,National,Not applicable,,Unknown,Not specified,1.39401,1.39401,1.39401,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2010,National,Not applicable,,Unknown,Not specified,1.42502,1.42502,1.42502,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2009,National,Not applicable,,Unknown,Not specified,1.4376,1.4376,1.4376,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2008,National,Not applicable,,Unknown,Not specified,1.4472,1.4472,1.4472,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2007,National,Not applicable,,Unknown,Not specified,1.52133,1.52133,1.52133,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2006,National,Not applicable,,Unknown,Not specified,1.53031,1.53031,1.53031,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2005,National,Not applicable,,Unknown,Not specified,1.6,1.6,1.6,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2004,National,Not applicable,,Unknown,Not specified,1.59599,1.59599,1.59599,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2003,National,Not applicable,,Unknown,Not specified,1.66736,1.66736,1.66736,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2002,National,Not applicable,,Unknown,Not specified,1.57279,1.57279,1.57279,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2001,National,Not applicable,,Unknown,Not specified,1.54336,1.54336,1.54336,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
+0112,Maize (corn),2000,National,Not applicable,,Unknown,Not specified,1.5056,1.5056,1.5056,,False,,False,True,False,False,False,False,False,Modelled Estimates,"APHLIS, (2021), APHLIS",No note
