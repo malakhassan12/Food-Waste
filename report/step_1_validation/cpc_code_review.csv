@@ -1,0 +1,197 @@
+﻿cpc_code,commodities,records,official_cpc_title,reference_match
+0111,['Wheat'],2379,Wheat,both
+0112,['Maize (corn)'],6090,Maize (corn),both
+0113,['Rice'],4880,Rice,both
+0114,['Sorghum'],3531,Sorghum,both
+0115,['Barley'],869,Barley,both
+0116,['Rye'],156,Rye,both
+0117,['Oats'],220,Oats,both
+0118,['Millet'],3686,Millet,both
+01191,['Triticale'],67,Triticale,both
+01192,['Buckwheat'],11,Buckwheat,both
+01193,['Fonio'],968,Fonio,both
+01194,['Quinoa'],11,Quinoa,both
+01195,['Canary seed'],4,Canary seed,both
+01199.02,['Mixed grain'],57,,left_only
+01199.90,"['Cereals n.e.c.', 'Other cereals n.e.']",30,,left_only
+01211,['Asparagus'],38,Asparagus,both
+01212,['Cabbages'],277,Cabbages,both
+01213,['Cauliflowers and broccoli'],188,Cauliflowers and broccoli,both
+01214,['Lettuce and chicory'],119,Lettuce and chicory,both
+01215,['Spinach'],30,Spinach,both
+01216,['Artichokes'],28,Artichokes,both
+01221,['Watermelons'],77,Watermelons,both
+01229,['Cantaloupes and other melons'],77,Cantaloupes and other melons,both
+01231,"['Chillies and peppers, green (<i>Capsicum</i> spp. and <i>Pimenta</i> spp.)', 'Chillies and peppers, green (Capsicum spp. and Pimenta spp.)']",57,"Chillies and peppers, green (<i>Capsicum</i> spp. and <i>Pimenta</i> spp.)",both
+01232,['Cucumbers and gherkins'],108,Cucumbers and gherkins,both
+01233,['Eggplants (aubergines)'],87,Eggplants (aubergines),both
+01234,['Tomatoes'],482,Tomatoes,both
+01235,"['Pumpkins, squash and gourds']",82,"Pumpkins, squash and gourds",both
+01239.01,['Okra'],91,,left_only
+01241.90,"['Other beans, green']",78,,left_only
+01242,"['Peas, green']",64,"Peas, green",both
+01243,"['Broad beans and horse beans, green']",2,"Broad beans and horse beans, green",both
+01251,['Carrots and turnips'],144,Carrots and turnips,both
+01252,['Green garlic'],45,Green garlic,both
+01253.01,"['Onions and shallots, green']",141,,left_only
+01253.02,"['Onions and shallots, dry (excluding dehydrated)']",42,,left_only
+01254,['Leeks and other alliaceous vegetables'],21,Leeks and other alliaceous vegetables,both
+01270,['Mushrooms and truffles'],41,Mushrooms and truffles,both
+01290.01,['Green corn (maize)'],29,,left_only
+01290.90,"['Other vegetables, fresh n.e.', 'Other vegetables, fresh n.e.c.']",52,,left_only
+01311,['Avocados'],87,Avocados,both
+01312,['Bananas'],193,Bananas,both
+01313,"['Plantains and cooking bananas', 'Plantains and others']",43,Plantains and cooking bananas,both
+01314,['Dates'],18,Dates,both
+01315,['Figs'],25,Figs,both
+01316,"['Mangoes, guavas and mangosteens', 'Mangoes, guavas, mangosteens']",302,"Mangoes, guavas and mangosteens",both
+01317,['Papayas'],132,Papayas,both
+01318,['Pineapples'],132,Pineapples,both
+01319,"['Other tropical and subtropical fruits, n.e.', 'Other tropical and subtropical fruits, n.e.c.']",60,"Other tropical and subtropical fruits, n.e.c.",both
+01321,['Pomelos and grapefruits'],56,Pomelos and grapefruits,both
+01322,['Lemons and limes'],69,Lemons and limes,both
+01323,['Oranges'],97,Oranges,both
+01324,"['Tangerines, mandarins, clementines']",50,"Tangerines, mandarins, clementines",both
+01329,"['Other citrus fruit, n.e.', 'Other citrus fruit, n.e.c.']",37,"Other citrus fruit, n.e.c.",both
+01330,['Grapes'],256,Grapes,both
+01341,['Apples'],165,Apples,both
+01342.01,['Pears'],95,,left_only
+01342.02,['Quinces'],4,,left_only
+01343,['Apricots'],62,Apricots,both
+01344.01,['Sour cherries'],6,,left_only
+01344.02,['Cherries'],42,,left_only
+01345,['Peaches and nectarines'],59,Peaches and nectarines,both
+01346,['Plums and sloes'],59,Plums and sloes,both
+01349.10,['Other pome fruits'],1,,left_only
+01349.20,['Other stone fruits'],5,,left_only
+01351.01,['Currants'],6,,left_only
+01352,['Kiwi fruit'],41,Kiwi fruit,both
+01353.01,"['Raspberries', 'Raspeberries']",36,,left_only
+01354,['Strawberries'],79,Strawberries,both
+01355.01,['Blueberries'],37,,left_only
+01355.02,"['Cranberries', 'Cranberries and other fruits of the genus Vaccinium']",35,,left_only
+01355.90,['Other berries and fruits of the genus Vaccinium n.e.'],8,,left_only
+01359.01,['Persimmons'],5,,left_only
+01359.90,"['Other fruits, n.e.', 'Other fruits, n.e.c.']",117,,left_only
+01371,"['Almonds, in shell']",15,"Almonds, in shell",both
+01372,"['Cashew nuts, in shell']",28,"Cashew nuts, in shell",both
+01374,"['Hazelnuts, in shell']",14,"Hazelnuts, in shell",both
+01375,"['Pistachios, in shell']",5,"Pistachios, in shell",both
+01376,"['Walnuts, in shell']",22,"Walnuts, in shell",both
+01379.01,['Areca nuts'],31,,left_only
+0141,['Soya beans'],127,Soya beans,both
+0142,"['Groundnuts, excluding shelled']",86,"Groundnuts, excluding shelled",both
+0143,['Cottonseed'],30,Cottonseed,both
+01441,['Linseed'],15,Linseed,both
+01442,['Mustard seed'],38,Mustard seed,both
+01443,"['Rape or colza seed', 'Rapeseed or colza seed']",37,Rape or colza seed,both
+01444,['Sesame seed'],24,Sesame seed,both
+01445,['Sunflower seed'],100,Sunflower seed,both
+01446,['Safflower seed'],28,Safflower seed,both
+01448,['Poppy seed'],9,Poppy seed,both
+01450,['Olives'],13,Olives,both
+01460,"['Coconuts, in shell']",50,"Coconuts, in shell",both
+01491.01,['Oil palm fruit'],17,,left_only
+01492,['Copra'],10,Copra,both
+01510,['Potatoes'],656,Potatoes,both
+01520.01,"['Cassava, fresh']",115,,left_only
+01520.02,"['Cassava, dry']",27,,left_only
+01530,['Sweet potatoes'],87,Sweet potatoes,both
+01540,['Yams'],73,Yams,both
+01550,['Taro'],7,Taro,both
+01591,['Yautia'],25,Yautia,both
+01599.10,"['Edible roots and tubers with high starch or inulin content, n.e., fresh', 'Edible roots and tubers with high starch or inulin content, n.e.c., fresh']",16,,left_only
+01599.20,"['Edible roots and tubers with high starch or inulin content, n.e.c., dry']",5,,left_only
+01610,"['Coffee, green']",8,"Coffee, green",both
+01640,['Cocoa beans'],7,Cocoa beans,both
+01651,"['Pepper (<i>Piper</i> spp.), raw']",46,"Pepper (<i>Piper</i> spp.), raw",both
+01652,"['Chillies and peppers, dry (<i>Capsicum</i> spp., <i>Pimenta</i> spp.), raw']",70,"Chillies and peppers, dry (<i>Capsicum</i> spp., <i>Pimenta</i> spp.), raw",both
+01654,"['Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw']",28,"Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw",both
+01699,"['Other stimulant, spice and aromatic crops, n.e.c.']",26,"Other stimulant, spice and aromatic crops, n.e.c.",both
+01701,"['Beans, dry']",184,"Beans, dry",both
+01702,"['Broad beans and horse beans, dry']",12,"Broad beans and horse beans, dry",both
+01703,"['Chick peas, dry']",44,"Chick peas, dry",both
+01704,"['Lentils, dry']",10,"Lentils, dry",both
+01705,"['Peas, dry']",38,"Peas, dry",both
+01706,"['Cow peas, dry']",100,"Cow peas, dry",both
+01707,"['Pigeon peas, dry']",62,"Pigeon peas, dry",both
+01708,"['Bambara beans, dry']",1,"Bambara beans, dry",both
+01709.02,['Lupins'],13,,left_only
+01709.90,"['Other pulses n.e.c.', 'Pulses n.e.']",35,,left_only
+01801,['Sugar beet'],32,Sugar beet,both
+01802,['Sugar cane'],56,Sugar cane,both
+01919.08,"['Swedes, for forage']",1,,left_only
+01919.92,"['Other legumes, for forage']",1,,left_only
+01921.01,"['Seed cotton, unginned']",7,,left_only
+01929.05,"['Sisal, raw']",1,,left_only
+01930.01,"['Peppermint, spearmint']",1,,left_only
+01990.01,"['Vegetable products, fresh or dry n.e.c.']",2,,left_only
+02111,['Cattle'],11,Cattle,both
+02121.01,['Camels'],6,,left_only
+02122,['Sheep'],22,Sheep,both
+02123,['Goats'],11,Goats,both
+02151,['Chickens'],1,Chickens,both
+02211,['Raw milk of cattle'],138,Raw milk of cattle,both
+02291,['Raw milk of sheep'],23,Raw milk of sheep,both
+02292,['Raw milk of goats'],21,Raw milk of goats,both
+0231,"['Hen eggs in shell, fresh']",208,"Hen eggs in shell, fresh",both
+02910,['Natural honey'],2,Natural honey,both
+02920,"['Snails, fresh, chilled, frozen, dried, salted or in brine, except sea snails']",3,"Snails, fresh, chilled, frozen, dried, salted or in brine, except sea snails",both
+21111.01,"['Meat of cattle with the bone, fresh or chilled', 'Meat of cattle, fresh or chilled']",99,,left_only
+21113.01,"['Meat of pig with the bone, fresh or chilled', 'Meat of pig, fresh or chilled']",62,,left_only
+21113.02,"['Meat of pig boneless (pork), fresh or chilled']",5,,left_only
+21115,"['Meat of sheep, fresh or chilled']",13,"Meat of sheep, fresh or chilled",both
+21116,"['Meat of goat, fresh or chilled']",8,"Meat of goat, fresh or chilled",both
+21116i,"['Meat of goat, fresh or chilled (indigenous)']",1,,left_only
+21121,"['Meat of chickens, fresh or chilled']",36,"Meat of chickens, fresh or chilled",both
+21124,"['Meat of turkeys, fresh or chilled']",2,"Meat of turkeys, fresh or chilled",both
+21151,"['Edible offal of cattle, fresh, chilled or frozen']",5,"Edible offal of cattle, fresh, chilled or frozen",both
+21153,"['Edible offal of pigs, fresh, chilled or frozen']",5,"Edible offal of pigs, fresh, chilled or frozen",both
+21181,"['Pig meat, cuts, salted, dried or smoked (bacon and ham)']",1,"Pig meat, cuts, salted, dried or smoked (bacon and ham)",both
+21182,"['Bovine meat, salted, dried or smoked']",2,"Bovine meat, salted, dried or smoked",both
+21319.01,"['Sweet corn, frozen']",8,,left_only
+21393.90,"['Vegetables, dehydrated']",2,,left_only
+21397.01,['Canned mushrooms'],20,,left_only
+21399.03,"['Sweet corn, prepared or preserved']",3,,left_only
+21411,['Raisins'],1,Raisins,both
+21412,"['Plums, dried']",2,"Plums, dried",both
+21421,"['Groundnuts, shelled']",8,"Groundnuts, shelled",both
+21431.01,['Orange juice'],20,,left_only
+21432,['Grapefruit juice'],21,Grapefruit juice,both
+21433,['Pineapple juice'],20,Pineapple juice,both
+21434,['Grape juice'],20,Grape juice,both
+21435.01,['Apple juice'],19,,left_only
+21439.02,['Juice of lemon'],1,,left_only
+21439.04,['Juice of citrus fruit n.e.c.'],1,,left_only
+21499.01,['Mango pulp'],4,,left_only
+21511.02,"['Pig, Butcher Fat']",5,,left_only
+21512,"['Cattle fat, unrendered']",5,"Cattle fat, unrendered",both
+2161,['Soya bean oil'],4,Soya bean oil,both
+21631.01,"['Sunflower-seed oil, crude']",8,,left_only
+22241.01,['Butter of Cow Milk'],5,,left_only
+22251.01,"['Cheese from Whole Cow Milk', 'Cheese from whole cow milk']",14,,left_only
+22290,['Dairy products n.e.c.'],25,Dairy products n.e.c.,both
+23110,['Wheat and meslin flour'],50,Wheat and meslin flour,both
+23120.03,['Flour of Maize'],14,,left_only
+23120.07,['Flour of buckwheat'],5,,left_only
+23120.09,['Flour of triticale'],6,,left_only
+23140.04,['Pot barley'],2,,left_only
+23140.08,['Cereal preparations'],8,,left_only
+23161.01,"['Rice, Milled (Husked)']",6,,left_only
+23161.02,"['Rice, Milled', 'Rice, milled']",37,,left_only
+23161.03,"['Rice, Broken']",6,,left_only
+23162,['Husked rice'],20,Husked rice,both
+23170.01,['Flour of cassava'],10,,left_only
+23210.04,['Sugar and syrups n.e.c.'],4,,left_only
+23220.05,['Starch of Potatoes'],14,,left_only
+23230.02,['Tapioca of cassava'],3,,left_only
+23511.02,"['Cane sugar, non-centrifugal']",13,,left_only
+2351f,['Raw cane or beet sugar (centrifugal only)'],6,,left_only
+23520,['Refined sugar'],51,Refined sugar,both
+23710,"['Uncooked pasta, not stuffed or otherwise prepared']",9,"Uncooked pasta, not stuffed or otherwise prepared",both
+23911,"['Coffee, decaffeinated or roasted']",2,"Coffee, decaffeinated or roasted",both
+23993.03,"['Eggs, dried']",6,,left_only
+24212.02,['Wine'],1,,left_only
+24320,"['Malt, whether or not roasted']",2,"Malt, whether or not roasted",both
+39120.04,['Bran of Maize'],14,,left_only
+39170.01,['Food wastes'],2,,left_only
