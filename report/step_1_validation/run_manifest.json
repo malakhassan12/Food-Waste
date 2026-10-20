@@ -1,0 +1,24 @@
+{
+  "run_timestamp_utc": "2026-10-20T16:08:46.061036+00:00",
+  "source_file": "D:\\My_projects\\data-engineer\\waste-food-project\\data-set\\World-food-waste.csv",
+  "source_rows": 31465,
+  "source_columns": 18,
+  "exact_duplicate_rows_including_all_copies": 339,
+  "key_columns_used_for_duplicate_candidates": [
+    "country",
+    "region",
+    "cpc_code",
+    "commodity",
+    "year",
+    "activity",
+    "food_supply_stage",
+    "reference"
+  ],
+  "source_modified": false,
+  "reference_links": {
+    "FAO_FLW": "https://www.fao.org/platform-food-loss-waste/flw-data/en/",
+    "FAO_FLW_User_Guide": "https://www.fao.org/platform-food-loss-waste/flw-data/user-guide/en",
+    "UN_M49": "https://unstats.un.org/unsd/methodology/m49/overview/",
+    "UN_CPC_2_1": "https://unstats.un.org/unsd/classifications/Econ/Download/In%20Text/CPC_Ver_2.1_Exp_Notes_Updated_3Apr2025.xlsx"
+  }
+}

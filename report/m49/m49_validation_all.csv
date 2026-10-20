@@ -1,0 +1,160 @@
+country,m49_code,found_in,match_count,status
+World,001,"UN M49 Methodology, UN M49 Overview",2,FOUND
+Myanmar,104,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Burundi,108,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Western Africa,011,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Belarus,112,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Cambodia,116,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Algeria,012,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Cameroon,120,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Canada,124,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Asia,142,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Central Asia,143,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Sri Lanka,144,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Western Asia,145,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Chad,148,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Northern Africa,015,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Europe,150,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Chile,152,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+China,156,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+"Taiwan, Province of China",158,GitHub,1,FOUND
+"China,Taiwan",158,,0,NOT FOUND - REVIEW
+Colombia,170,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Democratic Republic of the Congo,180,"UN M49 Methodology, UN M49 Overview",2,FOUND
+Costa Rica,188,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Croatia,191,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Cuba,192,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Africa,002,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Sub-Saharan Africa,202,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Benin,204,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Denmark,208,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Northern America,021,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Ecuador,218,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+El Salvador,222,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Ethiopia,231,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Eritrea,232,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Estonia,233,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Angola,024,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Fiji,242,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Finland,246,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+France,250,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Gabon,266,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Georgia,268,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Gambia,270,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Palestine,275,,0,NOT FOUND - REVIEW
+Germany,276,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Ghana,288,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Greece,300,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Azerbaijan,031,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Argentina,032,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Guatemala,320,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Guinea,324,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Guyana,328,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Haiti,332,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Southern Asia,034,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Honduras,340,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Hungary,348,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+South-Eastern Asia,035,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+India,356,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Australia,036,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Indonesia,360,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Iran (Islamic Republic of),364,"UN M49 Methodology, UN M49 Overview",2,FOUND
+Ireland,372,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Israel,376,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Italy,380,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Côte d'Ivoire,384,GitHub,1,FOUND
+Jamaica,388,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Japan,392,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Kazakhstan,398,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Afghanistan,004,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Austria,040,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Jordan,400,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Kenya,404,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Democratic People's Republic of Korea,408,"UN M49 Methodology, UN M49 Overview",2,FOUND
+Republic of Korea,410,"UN M49 Methodology, UN M49 Overview",2,FOUND
+Kyrgyzstan,417,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Lao People's Democratic Republic,418,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Latin America and the Caribbean,419,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Lebanon,422,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Lesotho,426,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Latvia,428,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Liberia,430,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Lithuania,440,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Luxembourg,442,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Madagascar,450,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Malawi,454,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Malaysia,458,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Mali,466,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Mauritania,478,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Bahrain,048,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Mauritius,480,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Mexico,484,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Mongolia,496,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Bangladesh,050,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Morocco,504,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Mozambique,508,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Armenia,051,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Oman,512,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Namibia,516,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Nepal,524,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Netherlands,528,,0,NOT FOUND - REVIEW
+Australia and New Zealand,053,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+New Caledonia,540,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+New Zealand,554,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Nicaragua,558,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Belgium,056,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Niger,562,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Nigeria,566,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Norway,578,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Pakistan,586,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Panama,591,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Paraguay,600,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Peru,604,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Philippines,608,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Poland,616,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Portugal,620,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Guinea-Bissau,624,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Timor-Leste,626,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Romania,642,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Russian Federation,643,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Rwanda,646,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Saint Kitts and Nevis,659,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Saint Lucia,662,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Bolivia (Plurinational State of),068,"UN M49 Methodology, UN M49 Overview",2,FOUND
+Saudi Arabia,682,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Senegal,686,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Serbia,688,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Sierra Leone,694,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Slovakia,703,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Viet Nam,704,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Somalia,706,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+South Africa,710,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Zimbabwe,716,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Botswana,072,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Spain,724,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+South Sudan,728,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Sudan,729,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Eswatini,748,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Sweden,752,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Switzerland,756,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Brazil,076,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Syrian Arab Republic,760,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Tajikistan,762,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Thailand,764,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Togo,768,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Trinidad and Tobago,780,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Tunisia,788,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Turkey,792,,0,NOT FOUND - REVIEW
+Albania,008,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Uganda,800,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Ukraine,804,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+The former Yugoslav Republic of Macedonia,807,,0,NOT FOUND - REVIEW
+Egypt,818,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+United Kingdom of Great Britain and Northern Ireland,826,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+United Kingdom,826,,0,NOT FOUND - REVIEW
+United Republic of Tanzania,834,"UN M49 Methodology, UN M49 Overview",2,FOUND
+United States of America,840,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Burkina Faso,854,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Uzbekistan,860,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND
+Venezuela (Bolivarian Republic of),862,"UN M49 Methodology, UN M49 Overview",2,FOUND
+Zambia,894,"GitHub, UN M49 Methodology, UN M49 Overview",3,FOUND

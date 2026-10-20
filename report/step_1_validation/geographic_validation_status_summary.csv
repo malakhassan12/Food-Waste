@@ -1,0 +1,5 @@
+﻿validation,status,records
+country_code_status,PASS,30735
+country_code_status,COUNTRY_NAME_NOT_FOUND_IN_UN_M49,730
+region_review_status,NOT_COMPARABLE,29476
+region_review_status,REVIEW_REGION_LEVEL,1989

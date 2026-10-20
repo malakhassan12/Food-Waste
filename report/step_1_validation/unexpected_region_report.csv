@@ -1,0 +1,379 @@
+﻿region,row_count,country_count,sample_countries,sample_commodities
+Western Cape Province,59,1,South Africa,"Pears, Grapes"
+Comilla,45,1,Bangladesh,"Potatoes, Rice"
+Uttarakhand,42,1,India,"Cabbages, Cauliflowers and broccoli, Tomatoes, Other beans, green, Peas, green"
+Rangpur and Dinazpur district,36,1,Bangladesh,"Wheat, Rice"
+"Bawku, Wa  Tamale, Yendi , Techiman, and Kintampo",36,1,Ghana,"Tomatoes, Yams"
+Mbire District,35,1,Zimbabwe,"Cow peas, dry"
+"North Hwanghae, South Pyongan and Pongyang City",33,1,Republic of Korea,"Wheat, Maize (corn), Rice, Barley"
+Mymensingh,30,1,Bangladesh,Rice
+Guruve District,30,1,Zimbabwe,"Cow peas, dry"
+Dinajpur,29,1,Bangladesh,Rice
+Khulna,29,1,Bangladesh,Rice
+bhabhar,24,1,India,"Cauliflowers and broccoli, Eggplants (aubergines), Tomatoes, Okra, Other beans, green"
+"State of Bahia, Slavador",24,1,Brazil,"Cabbages, Cauliflowers and broccoli, Lettuce and chicory, Watermelons, Eggplants (aubergines)"
+Dodoma and Manyara,23,1,United Republic of Tanzania,"Maize (corn), Rice, Sorghum, Millet, Groundnuts, excluding shelled"
+Qabatiya and Hebron,22,1,Palestine,"Cucumbers and gherkins, Grapes"
+West Java and Bali Province,21,1,Indonesia,"Onions and shallots, green, Bananas, Oranges, Chillies and peppers, dry (<i>Capsicum</i> spp., <i>Pimenta</i> spp.), raw"
+Rajshahi,21,1,Bangladesh,Potatoes
+"Daxing, Tongxian, and Yanqing counties, which are satellite towns of Beijing, and in Jixian County of Hebei Province, which is a suburb very close to Beijing",20,1,China,"Cabbages, Cauliflowers and broccoli, Onions and shallots, green"
+Rangpur,18,1,Bangladesh,"Wheat, Rice"
+East Java Province,17,1,Indonesia,"Chillies and peppers, green (<i>Capsicum</i> spp. and <i>Pimenta</i> spp.), Chillies and peppers, dry (<i>Capsicum</i> spp., <i>Pimenta</i> spp.), raw"
+West Java,17,1,Indonesia,Cabbages
+West Bank,17,1,Palestine,"Cucumbers and gherkins, Grapes"
+Kogi and Niger lowlands,16,1,Nigeria,Rice
+Jessore,16,1,Bangladesh,Potatoes
+Munshigonj,16,1,Bangladesh,Potatoes
+"Bawku, Wa  Tamale, Yendi and Techiman",15,1,Ghana,"Sheep, Goats"
+Oyam district,14,1,Uganda,"Beans, dry"
+"Chiang Mai, Lamphun, Chanthaburi and Sa Kaeo regions",13,1,Thailand,"Other tropical and subtropical fruits, n.e.c."
+forest and coastal ecological zones of Ghana,13,1,Ghana,"Oranges, Cassava, fresh"
+Thakurgaon,13,1,Bangladesh,Potatoes
+Bogra,13,1,Bangladesh,Potatoes
+Karnataka,13,2,"India, Bangladesh","Sorghum, Bananas, Cashew nuts, in shell, Areca nuts, Other pulses n.e.c."
+Mankessim,13,1,Ghana,Pineapples
+Kumasi and Asasetre,12,1,Ghana,"Oranges, Oil palm fruit"
+Yaoundé,12,1,Cameroon,"Watermelons, Avocados, Bananas, Papayas, Pineapples"
+"Subdistricts of Baucau Vila, Vemasse and Laga",12,1,Timor-Leste,Rice
+National average,12,2,"Jordan, Egypt",Wheat
+"Daxing, Tongxian, and Yanqing",11,1,China,Cabbages
+Maharashtra,11,1,India,"Wheat, Sorghum, Cabbages, Onions and shallots, green, Mangoes, guavas and mangosteens"
+Amhara,11,1,Ethiopia,"Wheat, Maize (corn), Beans, dry"
+Laxmipur and Chandana,10,1,Bangladesh,Rice
+Mbozi district,10,1,United Republic of Tanzania,Maize (corn)
+"Bawku, Wa Tamale, Yendi, and Techiman",10,1,Ghana,"Cattle, Sheep"
+Northern region,10,1,Pakistan,"Grapes, Apples, Pears, Apricots, Peaches and nectarines"
+Taraba,10,1,Nigeria,Rice
+Savanna and transition ecological zones of Ghana,10,1,Ghana,Tomatoes
+"Benue, Plateau and Taraba regions",9,1,Nigeria,Rice
+"Mekong Delta- An Giang, Sóc Trăng, Bạc Liêu and Kiên  Giang.",9,1,Viet Nam,Rice
+Gokwe North,9,1,Zimbabwe,Sorghum
+Manica and Zambezia Provinces,9,1,Mozambique,Maize (corn)
+Benue,9,1,Nigeria,Rice
+Mwenezi,9,1,Zimbabwe,Sorghum
+North Eastern,9,1,Iran (Islamic Republic of),Wheat
+Zulu,8,1,Malawi,"Groundnuts, excluding shelled"
+"Amhara, Oromia and the Southern Nations and Nationalities regions",8,1,Ethiopia,"Wheat, Maize (corn), Beans, dry"
+Moisttransitional Zone,8,1,Kenya,Maize (corn)
+Fujian Province,8,1,China,Cabbages
+Dry Mid Altitude Zone,8,1,Kenya,Maize (corn)
+Madhya Pradesh,8,1,India,"Wheat, Maize (corn), Sorghum, Soya beans, Groundnuts, excluding shelled"
+Dry Transitional Zone,8,1,Kenya,Maize (corn)
+Lugari,8,1,Kenya,"Maize (corn), Bananas"
+Lautem District,8,1,Timor-Leste,Maize (corn)
+Highland Tropical Zone,8,1,Kenya,Maize (corn)
+Moistmid Altitude Zone,8,1,Kenya,Maize (corn)
+Plateau,8,1,Nigeria,Rice
+Central Java,8,1,Indonesia,"Onions and shallots, green"
+Oromiya,8,1,Ethiopia,"Wheat, Maize (corn), Beans, dry"
+Sites: transition ecological zone of Ghana,8,1,Ghana,"Groundnuts, excluding shelled"
+Conventional value chain,8,1,Sri Lanka,"Cabbages, Chillies and peppers, green (<i>Capsicum</i> spp. and <i>Pimenta</i> spp.), Tomatoes, Carrots and turnips, Bananas"
+Dakahlia (Lower Egypt),8,1,Egypt,Wheat
+Kamonyi District,8,1,Rwanda,"Tomatoes, Carrots and turnips"
+Kebbi South Region,8,1,Nigeria,"Maize (corn), Sorghum, Millet"
+Gujarat,8,1,India,"Wheat, Millet, Onions and shallots, green, Groundnuts, excluding shelled, Cottonseed"
+Kebbi North Region,8,1,Nigeria,"Maize (corn), Sorghum, Millet"
+Wolaita and KembataTembaro Zones,7,1,Ethiopia,Avocados
+coastal and transition ecological zones of Ghana ,7,1,Ghana,Rice
+Gbarpolu,7,1,Liberia,Rice
+Kebbi Central Region,7,1,Nigeria,"Maize (corn), Sorghum, Millet"
+Mariali and Harinal,7,1,Bangladesh,Rice
+Maryland,7,1,Liberia,Rice
+"Mindanao, Philippines",7,1,Philippines,"Lettuce and chicory, Tomatoes, Papayas"
+Montserrado,7,1,Liberia,Rice
+Grand Cape Mount,7,1,Liberia,Rice
+Grand Gedeh,7,1,Liberia,Rice
+Margibi,7,1,Liberia,Rice
+Lofa,7,1,Liberia,Rice
+Region - 3,7,1,Bangladesh,Rice
+Region - 4,7,1,Bangladesh,Rice
+River Gee,7,1,Liberia,Rice
+Region - 5,7,1,Bangladesh,Rice
+Baucau,7,1,Timor-Leste,Rice
+Settat,7,1,Morocco,Wheat
+Rivercess,7,1,Liberia,Rice
+Sinoe,7,1,Liberia,Rice
+Region - 2,7,1,Bangladesh,Rice
+Northern Areas,7,1,Pakistan,"Grapes, Pears, Peaches and nectarines, Plums and sloes, Other fruits, n.e.c."
+Purba Chandana and Jogitala,7,1,Bangladesh,Rice
+Bomi,7,1,Liberia,Rice
+Bong,7,1,Liberia,Rice
+Nimba,7,1,Liberia,Rice
+Banglore,7,1,India,Bananas
+Suhum Kraboa Coaltar district in the Eastern region,7,1,Ghana,"Cassava, fresh"
+Grand Bassa,7,1,Liberia,Rice
+Grand Kru,7,1,Liberia,Rice
+Apac and Lira districts (2015),6,1,Uganda,Sunflower seed
+Kumasi and its environments (including Ejura) and Tamale,6,1,Ghana,"Tomatoes, Okra"
+Ejisu Juabeng,6,1,Ghana,Rice
+Meknes,6,1,Morocco,Wheat
+Lowland Tropical Zone,6,1,Kenya,Maize (corn)
+Eastern Hills of Nepal,6,1,Nepal,Maize (corn)
+Punjab,6,3,"India, Bangladesh, Pakistan","Rice, Other citrus fruit, n.e.c., Hen eggs in shell, fresh, Wheat, Mangoes, guavas and mangosteens"
+"Southern Nations,  Nationalities and  Peoples",6,1,Ethiopia,"Wheat, Maize (corn), Beans, dry"
+Trans-Nzoia-West District,6,1,Kenya,Maize (corn)
+Morogoro,6,1,United Republic of Tanzania,"Maize (corn), Mangoes, guavas and mangosteens"
+"Choluteca, Copan, El Paraiso, Francisco Morazan, Intibuca, La Paz, Lempira, Ocotepeque, Olancho, Santa Barbara, and Valle.",6,1,Honduras,"Maize (corn), Beans, dry"
+Qena (Upper Egypt),6,1,Egypt,Wheat
+"Chimaltenango, Escuintla, Guatemala, Quetzaltenango, Sacatepequez, San Marcos, Solola, and Totonicapan",6,1,Guatemala,"Maize (corn), Beans, dry"
+"Chittur and Nenmara Regions in Palakkad, Kerala",6,1,India,"Pumpkins, squash and gourds"
+Kiteto District,6,1,United Republic of Tanzania,Maize (corn)
+West Bank and Gaza Strip,5,1,Palestine,"Tomatoes, Chillies and peppers, dry (<i>Capsicum</i> spp., <i>Pimenta</i> spp.), raw"
+Boyo,5,1,Cameroon,Bananas
+"Bawku, Wa  Tamale, Yendi, and Techiman",5,1,Ghana,Cattle
+Assam,5,2,"India, Peru","Mustard seed, Potatoes, Sugar cane, Wheat"
+Tamil Nadu,5,1,India,"Sorghum, Bananas, Cashew nuts, in shell, Other pulses n.e.c., Raw milk of cattle"
+Shandong Province,5,1,China,Cabbages
+Region - 1,5,1,Bangladesh,Rice
+Chiriqui,5,1,Panama,"Cabbages, Lettuce and chicory, Tomatoes, Onions and shallots, green, Potatoes"
+Nyajena District,5,1,Zimbabwe,Maize (corn)
+Laguna,5,1,Philippines,Tomatoes
+Kariakoo Central Market,5,1,United Republic of Tanzania,"Tomatoes, Onions and shallots, green, Bananas, Mangoes, guavas and mangosteens, Oranges"
+Xiasha Town,5,1,China,Cabbages
+Jimma region,5,1,Ethiopia,Papayas
+"Ibadan, Oyo State",5,1,Nigeria,Maize (corn)
+Andhra Pradesh,5,1,India,"Bananas, Papayas, Cashew nuts, in shell, Sugar cane, Hen eggs in shell, fresh"
+Western Ethiopia,4,1,Ethiopia,Maize (corn)
+Yunnan,4,1,China,"Wheat, Maize (corn), Rice"
+Anhui,4,1,China,"Wheat, Maize (corn), Rice"
+Apac and Lira districts,4,1,Uganda,Maize (corn)
+Hubei,4,1,China,"Wheat, Maize (corn), Rice"
+"Kapurkot, Salyan, Nepal to Azadpur market, New Delhi, India",4,1,Nepal,"Cauliflowers and broccoli, Tomatoes, Other beans, green, Chillies and peppers, dry (<i>Capsicum</i> spp., <i>Pimenta</i> spp.), raw"
+"Kapurkot, Shalyan, Nepal to Sitapur market Lucknow, India",4,1,Nepal,"Cauliflowers and broccoli, Tomatoes, Other beans, green, Chillies and peppers, dry (<i>Capsicum</i> spp., <i>Pimenta</i> spp.), raw"
+Hwedza District,4,1,Zimbabwe,Maize (corn)
+KALRO/CIMMYT Kiboko postharvest insect pest laboratory,4,1,Kenya,Maize (corn)
+Jiangxi,4,1,China,"Wheat, Rice"
+Jiangsu,4,1,China,"Wheat, Maize (corn), Rice"
+"Kandal Province, and wholesalers and retailers in wet markets in the capital of Phnom Penh, about 35 km apar",4,1,Cambodia,Tomatoes
+Jiangan district,4,1,China,Cabbages
+Masvingo District,4,1,Zimbabwe,Maize (corn)
+Mithapukur of Rangpur district,4,1,Bangladesh,Rice
+Gamo Gofa zone of Southern Nations Nationalities and Peoples Region (SNNPR); Addis Ababa and Adama cities,4,1,Ethiopia,Bananas
+Guizhou,4,1,China,"Maize (corn), Rice"
+Guruwe District,4,1,Zimbabwe,"Cow peas, dry"
+Kintampo,4,1,Ghana,"Maize (corn), Sorghum, Millet, Rice, milled"
+Kintampo and Sawla,4,1,Ghana,"Maize (corn), Sorghum, Millet, Rice, milled"
+Sichuan,4,1,China,"Wheat, Maize (corn), Rice"
+Site: Kumasi & Tamale.,4,1,Ghana,Okra
+Beni Suef (Middle Egypt),4,1,Egypt,Wheat
+"Birgunj, Nepal to Patna",4,1,Nepal,"Cabbages, Cauliflowers and broccoli, Mangoes, guavas and mangosteens, Apples"
+"Sungai Besar Village, Ketapang Regency",4,1,Indonesia,Rice
+"Southern Nations, Nationalities, and Peoples Region",4,1,Ethiopia,Mixed grain
+"four main potatogrowing counties in Kenya, namely Bomet and Nakuru Counties in the Rift Valley area, Nyandarua County in Central Kenya and Meru County in Eastern Kenya",4,1,Kenya,Potatoes
+"Balochistan - Quetta, Pishin and Mastung districts",4,1,Pakistan,Grapes
+"Bolgatanga Municipal, Kassena Nankana Municipal and Kassena Nankana West",4,1,Ghana,Tomatoes
+Rajasthan,4,1,India,"Maize (corn), Groundnuts, excluding shelled, Mustard seed, Other pulses n.e.c."
+Sawla,4,1,Ghana,"Maize (corn), Sorghum, Millet, Rice, milled"
+Cixi county,4,1,China,Cabbages
+Chittoor - Andhra Pradesh,4,1,India,Mango pulp
+"Mutoko, Harare/Mutare/Chitungwiza markets",4,1,Zimbabwe,Tomatoes
+Namingongo,4,1,Malawi,Maize (corn)
+West Bengal,4,1,India,"Rice, Mangoes, guavas and mangosteens, Beans, dry, Wheat"
+Nairobi,4,1,Kenya,Potatoes
+Jilin,3,1,China,"Maize (corn), Rice"
+Guangxi,3,1,China,"Maize (corn), Rice"
+Kalyanpur,3,1,India,"Wheat, Maize (corn)"
+Maniarpur,3,1,India,"Wheat, Maize (corn)"
+Liaoning,3,1,China,"Maize (corn), Rice"
+Lira District,3,1,Uganda,Maize (corn)
+Fiji Export Market,3,1,New Zealand,"Eggplants (aubergines), Mangoes, guavas and mangosteens, Papayas"
+Gopalpur,3,1,India,"Wheat, Maize (corn)"
+Amhara Region,3,1,Ethiopia,"Other beans, green, Peas, green, Chick peas, dry"
+Ajana,3,1,India,"Wheat, Maize (corn)"
+Dhruvgama,3,1,India,"Wheat, Maize (corn)"
+Fulhara,3,1,India,"Wheat, Maize (corn)"
+Dhankuta District,3,1,Nepal,"Tangerines, mandarins, clementines"
+Mirjapur,3,1,India,"Wheat, Maize (corn)"
+Lower Egypt,3,1,Egypt,Wheat
+Mombasa,3,1,Kenya,Potatoes
+"Mount Lebanon, Akkar, and West Bekaa",3,1,Lebanon,Apples
+Chongqing,3,1,China,"Maize (corn), Rice"
+"Orani, Bataan",3,1,Philippines,"Mangoes, guavas and mangosteens"
+Pratapur,3,1,India,"Wheat, Maize (corn)"
+Offinso North District,3,1,Ghana,Tomatoes
+Odisha,3,1,India,"Mangoes, guavas and mangosteens, Cashew nuts, in shell, Chick peas, dry"
+Chitoor District,3,1,India,Tomatoes
+"Chalinze, Lugoba and Kiwangwa",3,1,United Republic of Tanzania,"Mangoes, guavas and mangosteens"
+Shanxi,3,1,China,"Wheat, Maize (corn), Rice"
+Nubaria,3,1,Egypt,Grapes
+Bogra and Dakha,3,1,Bangladesh,Potatoes
+Rampura,3,1,India,"Wheat, Maize (corn)"
+Sargodha,3,1,Pakistan,"Tangerines, mandarins, clementines"
+"Qalqilya and Tulkarem, West Bank",3,1,Palestine,Avocados
+Middle Egypt,3,1,Egypt,Wheat
+Ladaura,3,1,India,"Wheat, Maize (corn)"
+Kerala,3,1,India,"Bananas, Cashew nuts, in shell, Areca nuts"
+Kabargama,3,1,India,"Wheat, Maize (corn)"
+Apac District,3,1,Uganda,Maize (corn)
+Hunan,3,1,China,"Maize (corn), Rice"
+Basudevpur,3,1,India,"Wheat, Maize (corn)"
+Adami Tulu - Jido Kombolcha and Adama Districts,3,1,Ethiopia,"Maize (corn), Sorghum"
+Bani Suef,3,1,Egypt,Wheat
+Shandong,3,1,China,"Wheat, Maize (corn), Rice"
+"Birtamod, Nepal to Silguri, India",3,1,Nepal,"Cabbages, Cauliflowers and broccoli, Oranges"
+Uttar Pradesh,3,2,"India, Bangladesh","Mangoes, guavas and mangosteens, Wheat"
+Upper Egypt,3,1,Egypt,Wheat
+Teera,3,1,India,"Wheat, Maize (corn)"
+Birsingpur,3,1,India,"Wheat, Maize (corn)"
+"Bhairahwa, Nepal to Gorakhpur, India",3,1,Nepal,"Cabbages, Apples, Potatoes"
+Sharkia and Nubaria,3,1,Egypt,Tomatoes
+Akbarpur,3,1,India,"Wheat, Maize (corn)"
+Henan,3,1,China,"Wheat, Maize (corn), Rice"
+Divisoria,2,1,Philippines,"Mangoes, guavas and mangosteens"
+Midelt,2,1,Morocco,Apples
+Yerer and Kereyu,2,1,Ethiopia,"Other beans, green, Chick peas, dry"
+Ejura,2,1,Ghana,Maize (corn)
+Fujian,2,1,China,Rice
+"Dosso, Maradi, and Zinder regions",2,1,Niger,"Maize (corn), Sesame seed"
+Lima,2,1,Peru,Potatoes
+Makurdi (Benue State) and Awe (Nasarawa State),2,1,Nigeria,Rice
+Kumasi & tamale.,2,1,Ghana,"Mangoes, guavas and mangosteens"
+"Milly and Allfruits are based in Coast Province, while Kevian and Sunny are based in Central Kenya near Thika",2,1,Kenya,"Mangoes, guavas and mangosteens"
+Guangdong,2,1,China,Rice
+Krishi Bazar,2,1,Nepal,"Oranges, Tangerines, mandarins, clementines"
+Gansu,2,1,China,"Wheat, Maize (corn)"
+Kilosa and Kondoa Districts,2,1,United Republic of Tanzania,Maize (corn)
+"Tafka, Nakon Sawan",2,1,Thailand,Maize (corn)
+4 Upazillas of Chapai Nowabgonj and 2 Upazillas of Rajshahi.,2,1,Bangladesh,"Mangoes, guavas and mangosteens"
+"Baneshar Bazar assesmble market of Rajshahi district. In contrast, the losses were lower in the surveyed markets of Chapai Nowabgonj,",2,1,Bangladesh,"Mangoes, guavas and mangosteens"
+Bataan,2,1,Philippines,"Mangoes, guavas and mangosteens"
+Tamale,2,1,Ghana,Yams
+Dhaka and Mymensingh,2,1,Bangladesh,"Mangoes, guavas and mangosteens"
+Mkuyuni ward in Morogoro region,2,1,United Republic of Tanzania,"Mangoes, guavas and mangosteens"
+Heilongjiang,2,1,China,"Maize (corn), Rice"
+Zhejiang,2,1,China,Rice
+Xiasha town,2,1,China,Cabbages
+Addis Ababa and Adama cities,2,1,Ethiopia,Bananas
+Hebei,2,1,China,"Wheat, Maize (corn)"
+Inner Mongolia,2,1,China,"Wheat, Maize (corn)"
+"Ixcan, Polochic and El Peten region",2,1,Guatemala,Maize (corn)
+Jeldu districts of West Shewa Zone,2,1,Ethiopia,Potatoes
+Jharkhand,2,1,India,"Cabbages, Pigeon peas, dry"
+Blumentritt,2,1,Philippines,"Mangoes, guavas and mangosteens"
+Sinkiang,2,1,China,"Wheat, Maize (corn)"
+Bihar,2,1,India,"Mangoes, guavas and mangosteens"
+Bensilmane,2,1,Morocco,Wheat
+Beijing,2,1,China,"Maize (corn), Rice"
+"Tafilalet, Draa",2,1,Morocco,Dates
+Tabora,2,1,United Republic of Tanzania,Maize (corn)
+Processing unit in Meknès,2,1,Morocco,Wheat
+Oromia,2,1,Ethiopia,Maize (corn)
+Parakou (Borgou),2,1,Benin,"Mangoes, guavas and mangosteens"
+Processing unit in Casablanca,2,1,Morocco,Wheat
+Ogun state,2,1,Nigeria,"Cassava, fresh, Sweet potatoes"
+Nueva,2,1,Philippines,Tomatoes
+Oriental Mindoro,2,1,Philippines,"Mangoes, guavas and mangosteens"
+"Chapai Nowabgonj, Dhaka and Mymensingh",2,1,Bangladesh,"Mangoes, guavas and mangosteens"
+New Valley,2,1,Egypt,Wheat
+Shaanxi,2,1,China,"Wheat, Maize (corn)"
+Ningxia,2,1,China,"Wheat, Maize (corn)"
+Region 1,2,1,Bangladesh,Rice
+Calabarzon,2,1,Philippines,"Tomatoes, Mangoes, guavas and mangosteens"
+Casablanca,2,1,Morocco,Wheat
+CAM Meknes,2,1,Morocco,Wheat
+CAM Ben Slimane,2,1,Morocco,Wheat
+Maunabudhuk,1,1,Nepal,"Tangerines, mandarins, clementines"
+"El Carchi, Imbabura, and Pichincha",1,1,Ecuador,Potatoes
+El Carchi,1,1,Ecuador,Potatoes
+Eastern Himalayan,1,1,India,Papayas
+Eastern Nepal,1,1,Nepal,Wheat
+Eastern Ghana,1,1,Ghana,Maize (corn)
+"Dugda Woreda, East Shoa Zone, Oromia",1,1,Ethiopia,Papayas
+Marpha to Pokhara,1,1,Nepal,Apples
+"Maputo, Gaza, Sofala, Tete and Zambezia provinces",1,1,Mozambique,Maize (corn)
+Zambezia province,1,1,Mozambique,Maize (corn)
+West Kalimantan Province - 5 districts,1,1,Indonesia,Rice
+Western Cape,1,1,South Africa,Pears
+Western Uttar Pradesh,1,1,India,Millet
+Anadhra Pradesh,1,1,India,Other pulses n.e.c.
+Jimma,1,1,Ethiopia,Bananas
+Jumla,1,1,Nepal,Apples
+Junin and Ayacucho,1,1,Peru,Potatoes
+Hararghe,1,1,Ethiopia,Sorghum
+Hamelmalo,1,1,Eritrea,Sorghum
+Jumla to Nepalgunj.,1,1,Nepal,Apples
+Haryana,1,1,India,Cauliflowers and broccoli
+"Ait Baamrane, Rhamna",1,1,Morocco,Pears
+"An Giang, Sóc Trăng, Bạc Liêu and Kiên  Giang provinces of Mekong Delta",1,1,Viet Nam,Rice
+Amhara region,1,1,Ethiopia,Maize (corn)
+Apac Districy,1,1,Uganda,Maize (corn)
+"Lower Eastern region (Makueni, Kitui and Machakos counties",1,1,Kenya,"Mangoes, guavas and mangosteens"
+Kwahu North District,1,1,Ghana,"Chillies and peppers, green (<i>Capsicum</i> spp. and <i>Pimenta</i> spp.)"
+Kumasi and Accra-Tema,1,1,Ghana,"Meat of chickens, fresh or chilled"
+"Krishi Bazar, Dharan",1,1,Nepal,"Tangerines, mandarins, clementines"
+Khoku,1,1,Nepal,"Tangerines, mandarins, clementines"
+Ha Tay Province,1,1,Viet Nam,Maize (corn)
+"Kiboko, Embu and Homa Bay",1,1,Kenya,Maize (corn)
+Gaza province,1,1,Mozambique,Maize (corn)
+Madhya Pardesh,1,1,India,Wheat
+Manica and Tete provinces,1,1,Mozambique,Maize (corn)
+Maputo province,1,1,Mozambique,Maize (corn)
+Lusaka ans Southern Province,1,1,Zambia,Maize (corn)
+Himachal Pradesh,1,1,India,Cabbages
+Hot district of Chiang Mai  province,1,1,Thailand,Tomatoes
+Jambi,1,1,Indonesia,Rice
+"Kathmandu from Kapurkot, Salyan (western hills) and Lal Bandi, Sarlahi (Terai)",1,1,Nepal,Tomatoes
+Dong Na Province,1,1,Viet Nam,Maize (corn)
+Dhankuta to Kathmandu,1,1,Nepal,"Tangerines, mandarins, clementines"
+Dhankuta to Kathmandu by bus,1,1,Nepal,Oranges
+Dingxi Prefecture  in Gansu,1,1,China,Potatoes
+Dhankuta,1,1,Nepal,"Tangerines, mandarins, clementines"
+Delta State,1,1,Nigeria,Maize (corn)
+"Dhankuta District,",1,1,Nepal,"Tangerines, mandarins, clementines"
+"Rivers State A(Degema, Bonny, Port Harcourt); B(tai, omuma, oyigboo); C(ahoada West, Emohua)",1,1,Nigeria,Maize (corn)
+Selva and Coast Region,1,1,Peru,Maize (corn)
+"Savanna, transition and coastal ecological zones of Ghana",1,1,Ghana,Yams
+Saiss,1,1,Morocco,Wheat
+Region 3,1,1,Bangladesh,Rice
+Region 4,1,1,Bangladesh,Rice
+Region 5,1,1,Bangladesh,Rice
+Rio Grande do Sul,1,1,Brazil,Wheat
+Pichincha,1,1,Ecuador,Potatoes
+Nerica 1 & Nerica 2,1,1,Ghana,Rice
+"Dak Lak, Gia Lai, Thanh Hoa, and Quang Nam",1,1,Viet Nam,Maize (corn)
+Chhintang,1,1,Nepal,"Tangerines, mandarins, clementines"
+Mount Lebanon - Kesrwan,1,1,Lebanon,Apples
+Nyandarua,1,1,Kenya,Potatoes
+North Patagonia Region,1,1,Chile,Pears
+Niamey,1,1,Niger,"Onions and shallots, green"
+"Mountains, hills and Terai regions",1,1,Nepal,Maize (corn)
+Rampur,1,1,Nepal,Maize (corn)
+California,1,1,United States of America,Tomatoes
+Brong - Ahafo region (highly productive zone),1,1,Ghana,Tomatoes
+Brong-Ahafo Region,1,1,Ghana,Yams
+Budhimorang and Khuaphok,1,1,Nepal,"Tangerines, mandarins, clementines"
+Qinghai,1,1,China,Wheat
+"Channapatna, Ramanagaram and Kanakapura",1,1,India,Bananas
+"Southern Nations,  Nationalities and Peoples",1,1,Ethiopia,Wheat
+Tadla,1,1,Morocco,Wheat
+Syangja (mid hills) to Butwal (markets in the plains),1,1,Nepal,Tomatoes
+Bizerte and Siliana,1,1,Tunisia,Wheat
+Bizerte,1,1,Tunisia,Wheat
+Bhirgaon,1,1,Nepal,"Tangerines, mandarins, clementines"
+"Southern  Nations,  Nationalities  and Peoples",1,1,Ethiopia,Maize (corn)
+Silo at the port of Casablanca,1,1,Morocco,Wheat
+Siliana,1,1,Tunisia,Wheat
+Sites: transitionecological zone ofGhana,1,1,Ghana,"Groundnuts, excluding shelled"
+Sindh,1,1,Pakistan,"Mangoes, guavas and mangosteens"
+Soc Trang Province,1,1,Viet Nam,Maize (corn)
+Sofala province,1,1,Mozambique,Maize (corn)
+Southern Ethiopia,1,1,Ethiopia,Maize (corn)
+"Beijing, Xinfadi and Jinxiudadi",1,1,China,Potatoes
+Asheray,1,1,Eritrea,Sorghum
+Ashanti Region of Ghana,1,1,Ghana,Tomatoes
+Tete province,1,1,Mozambique,Maize (corn)
+Teraemini,1,1,Eritrea,"Chick peas, dry"
+Bahia,1,1,Brazil,"Sisal, raw"
+Taounate,1,1,Morocco,Figs
+Tedla,1,1,Morocco,Wheat
+Arsi,1,1,Ethiopia,Mixed grain
+"Thanh Hoa, Quang Nam, Lam Dong, and Dak Lak Provinces",1,1,Viet Nam,Maize (corn)
+Tiajin,1,1,China,Rice
+"Volta region, Northern region, Brong-Ahafo.",1,1,Ghana,Yams
+"Vinh Phuc, Son La, Ha Giang, Bac Giang and Phu Tho Provinces",1,1,Viet Nam,Maize (corn)
+Tibet and Bangladesh,1,1,Nepal,"Tangerines, mandarins, clementines"
+"Upper Athi River Region; Kilala, Ikanganya,  Kikumbulyu, Kikoko, Nguumo, Kiou, Wote, Kee, Mbiuni, Mwala and Mwani.",1,1,Kenya,"Mangoes, guavas and mangosteens"
+? Sites: coastal and transition ecological zones of Ghana,1,1,Ghana,"Mangoes, guavas and mangosteens"
+coastal and transition ecological zones of Ghana,1,1,Ghana,Rice
+from Jumla,1,1,Nepal,Apples
+"grown in Tupi, South Cotabato, in Mindanao, and distributed in various supermarkets in Metro Manila",1,1,Philippines,Papayas

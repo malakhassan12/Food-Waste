@@ -1,0 +1,162 @@
+column,kind,check,count,pct,example
+m49_code,issue,missing,0,0.0,
+m49_code,issue,not numeric,0,0.0,
+m49_code,issue,<= 0 or non-integer,0,0.0,
+m49_code,issue,"stored with decimals (float in file, e.g. 818.0)",0,0.0,
+m49_code,issue,dtype in your normal read is float,0,0.0,
+m49_code,issue,code used by more than one country name,2,1.27,"158: Taiwan, Province of China, China,Taiwan | 826: United Kingdom of Great Britain and No"
+m49_code,issue,country name with more than one code,0,0.0,
+country,issue,"missing (incl. NA, n/a, -, unknown tokens)",0,0.0,
+country,issue,blank (spaces only),0,0.0,
+country,issue,extra / double spaces,0,0.0,
+country,issue,"same text, different upper/lower case",0,0.0,
+country,issue,HTML tags inside text,0,0.0,
+country,issue,encoding problems (mojibake),0,0.0,
+country,issue,aggregate rows mixed with countries (World / regions),108,0.34,World | Western Africa | Asia | Central Asia | Western Asia
+country,issue,"country names that look like a long official variant (UK, Taiwan...)",2,1.27,
+region,issue,"missing (incl. NA, n/a, -, unknown tokens)",29429,93.53,
+region,issue,blank (spaces only),0,0.0,
+region,issue,extra / double spaces,84,0.27,"Dingxi Prefecture  in Gansu | Southern Nations,  Nationalities and Peoples | Southern Nati"
+region,issue,"same text, different upper/lower case",11,0.03,Xiasha town | Xiasha Town | Amhara region
+region,issue,HTML tags inside text,0,0.0,
+region,issue,encoding problems (mojibake),0,0.0,
+region,issue,national / average written inside region (mixed geographic levels),12,0.04,National average
+region,issue,"several places in one cell (, ; / and)",599,1.9,"Kandal Province, and wholesalers and retailers in wet markets in the capital of Phnom Penh"
+region,issue,region name used under more than one country,5,1.32,
+cpc_code,issue,"missing (incl. NA, n/a, -, unknown tokens)",0,0.0,
+cpc_code,issue,blank (spaces only),0,0.0,
+cpc_code,issue,extra / double spaces,0,0.0,
+cpc_code,issue,"same text, different upper/lower case",0,0.0,
+cpc_code,issue,HTML tags inside text,0,0.0,
+cpc_code,issue,encoding problems (mojibake),0,0.0,
+cpc_code,issue,format not like a CPC code,0,0.0,
+cpc_code,issue,dtype in your normal read is NOT string (leading zeros at risk),0,0.0,
+cpc_code,issue,codes that do not start with 0 (do NOT add a leading zero!),746,2.37,23140.04 | 23140.08 | 24320
+cpc_code,issue,ends with .0 (was float before saving),0,0.0,
+cpc_code,issue,cpc_code with more than one commodity name,17,8.67,"01199.90: Cereals n.e.c., Other cereals n.e. | 01231: Chillies and peppers, green (Capsicu"
+cpc_code,issue,commodity name with more than one cpc_code,0,0.0,
+commodity,issue,"missing (incl. NA, n/a, -, unknown tokens)",0,0.0,
+commodity,issue,blank (spaces only),0,0.0,
+commodity,issue,extra / double spaces,0,0.0,
+commodity,issue,"same text, different upper/lower case",51,0.16,"Rice, milled | Cheese from whole cow milk | Rice, Milled"
+commodity,issue,HTML tags inside text,152,0.48,"Chillies and peppers, green (<i>Capsicum</i> spp. and <i>Pimenta</i> spp.) | Chillies and "
+commodity,issue,encoding problems (mojibake),0,0.0,
+commodity,issue,"generic groups mixed with specific products (n.e.c., other, ...)",609,1.94,"Cereals n.e.c. | Other beans, green | Other tropical and subtropical fruits, n.e.c."
+commodity,issue,singular / plural pairs (same word with and without s),0,0.0,
+year,issue,missing,0,0.0,
+year,issue,not numeric,0,0.0,
+year,issue,non-integer,0,0.0,
+year,issue,before 2000,0,0.0,
+year,issue,after 2025 (future / suspect),5,0.02,2026
+year,issue,same study key repeated with DIFFERENT loss values (conflicting records),504,78.63,
+loss_percentage,issue,missing,0,0.0,
+loss_percentage,issue,not numeric,0,0.0,
+loss_percentage,issue,< 0,0,0.0,
+loss_percentage,issue,> 100,0,0.0,
+loss_percentage,issue,= 0 (real zero or not reported?),60,0.19,
+loss_percentage,issue,"outliers by IQR (> 9.13), may be real studies",3555,11.3,
+loss_percentage,issue,"extreme inside own commodity+stage (> Q3 + 3*IQR, 20+ rows)",1333,4.24,
+loss_percentage,issue,all values in a commodity are < 1 (scale 0-1 vs 0-100?),6,2.82,
+loss_percentage,issue,different from loss_percentage_original (not a range),0,0.0,
+loss_percentage_original,issue,missing,0,0.0,
+loss_percentage_original,issue,not convertible to a number as-is (has % or text),9440,30.0,1% | 0.5% | 2%
+loss_percentage_original,issue,contains % sign,9025,28.68,
+loss_percentage_original,issue,range written as text (a-b),891,2.83,1 -2% | 2 -10% | 10.0-40
+loss_percentage_original,issue,comma as decimal separator,0,0.0,
+loss_percentage_original,issue,starts with '.' (e.g. .49),26,0.08,
+loss_percentage_original,issue,different number of decimals for same value (e.g. 14.8 vs 14.80),178,0.57,28.40% | 1.70% | 2.40%
+loss_quantity,issue,missing,26415,83.95,
+loss_quantity,issue,text with units (not a plain number),691,13.68,60 million metric tons | 44.09kgs | 88.18kgs
+loss_quantity,issue,plain number with NO unit (assumed tonnes),4359,86.32,
+loss_quantity,issue,negative sign,0,0.0,
+loss_quantity,info,zero (not necessarily an error),75,0.24,
+loss_quantity,info,unit: kg,136,2.69,11 kg/ capita | 541-2893 KG
+loss_quantity,info,unit: quintal,125,2.48,165.71 quintals | 9.31 quintal
+loss_quantity,info,unit: thousand,46,0.91,301.9 thousand tonnes | 507.117 Thousand tons
+loss_quantity,info,unit: million,11,0.22,60 million metric tons | 16 Million Ton
+loss_quantity,info,unit: per ha,26,0.51,1.020 ton/ha | 0.224 ton/ ha
+loss_quantity,info,"unit: rate / count (kg/MT, per capita, head...)",59,1.17,52kg/MT | 37kg/MT
+loss_quantity,issue,space used as thousands separator ('36 275'),25,0.08,36 275 | 698 446 MT | 74 466
+loss_quantity,issue,scientific notation (1e+05),6,0.02,1e+05 | 2e+05 | 4e+05
+loss_quantity,issue,"huge values (> 10 million, check the unit)",0,0.0,
+activity,issue,"missing (incl. NA, n/a, -, unknown tokens)",7370,23.42,
+activity,issue,blank (spaces only),0,0.0,
+activity,issue,extra / double spaces,0,0.0,
+activity,issue,"same text, different upper/lower case",0,0.0,
+activity,issue,HTML tags inside text,0,0.0,
+activity,issue,encoding problems (mojibake),0,0.0,
+food_supply_stage,issue,"missing (incl. NA, n/a, -, unknown tokens)",3391,10.78,
+food_supply_stage,issue,blank (spaces only),0,0.0,
+food_supply_stage,issue,extra / double spaces,0,0.0,
+food_supply_stage,issue,"same text, different upper/lower case",0,0.0,
+food_supply_stage,issue,HTML tags inside text,0,0.0,
+food_supply_stage,issue,encoding problems (mojibake),0,0.0,
+activity,issue,several activities in one cell,7819,24.85,"Drying, Harvesting | Shelling, Threshing | Farm, Marketing, Storage, Transportation"
+activity,issue,generic and detailed names mixed (e.g. Farm vs Harvesting),688,2.19,
+activity,issue,same activity labelled with more than one stage,46,25.56,"bagging, packaging | cleaning, collection, distribution, drying, field, harvesting, shelli"
+food_supply_stage,issue,stage missing but activity available (can be filled),3345,10.63,
+food_supply_stage,issue,stage and activity both missing,46,0.15,
+food_supply_stage,issue,"stage names that need merging (farm/harvest, trader/wholesale/market...)",14912,47.39,
+treatment,issue,"missing (incl. NA, n/a, -, unknown tokens)",29678,94.32,
+treatment,issue,blank (spaces only),0,0.0,
+treatment,issue,extra / double spaces,53,0.17,Wet season  ( May to October) | using traditional practices for handling and  marketing | 
+treatment,issue,"same text, different upper/lower case",378,1.2,Indica Rice | Indica rice | Manual harvesting
+treatment,issue,HTML tags inside text,0,0.0,
+treatment,issue,encoding problems (mojibake),0,0.0,
+treatment,issue,"several values in one cell (, ; / and)",338,1.07,"30 days storage, no trapping | 60 days storage, no trapping | 90 days storage, no trapping"
+treatment,info,number of different texts (free text),764,42.75,
+cause_of_loss,issue,"missing (incl. NA, n/a, -, unknown tokens)",30367,96.51,
+cause_of_loss,issue,blank (spaces only),0,0.0,
+cause_of_loss,issue,extra / double spaces,128,0.41,decentralized agricultural system in China  cereal storage losses resulting from insect in
+cause_of_loss,issue,"same text, different upper/lower case",176,0.56,Insect Damage | Pre-Cooling And Packaging | Spreading Out In Sunlight
+cause_of_loss,issue,HTML tags inside text,0,0.0,
+cause_of_loss,issue,encoding problems (mojibake),0,0.0,
+cause_of_loss,issue,"several values in one cell (, ; / and)",438,1.39,Rotting/Decay Over-Ripening | Immaturity Insect Damage Rotting/Decay | Physical Damage Rot
+cause_of_loss,info,number of different texts (free text),406,36.98,
+cause_of_loss,issue,text looks like an effect (loss / waste / damage) not a cause,453,1.44,Immaturity Insect Damage Rotting/Decay | Physical Damage Rotting/Decay | Insect Damage
+sample_size,issue,missing,29609,94.1,
+sample_size,issue,text (not a plain number),1198,3.81,"onsite interviews were conducted involving 30 farmers, 30 collectors, 30 wholesalers from "
+sample_size,issue,zero or negative,0,0.0,
+sample_size,issue,non-integer,2,0.01,1.193
+sample_size,issue,outliers by IQR,2,0.3,
+sample_size,issue,"units written inside the cell (farmers, households, kg...)",1196,3.8,"onsite interviews were conducted involving 30 farmers, 30 collectors, 30 wholesalers from "
+method_data_collection,issue,"missing (incl. NA, n/a, -, unknown tokens)",36,0.11,
+method_data_collection,issue,blank (spaces only),0,0.0,
+method_data_collection,issue,extra / double spaces,0,0.0,
+method_data_collection,issue,"same text, different upper/lower case",0,0.0,
+method_data_collection,issue,HTML tags inside text,0,0.0,
+method_data_collection,issue,encoding problems (mojibake),0,0.0,
+method_data_collection,info,number of different methods,11,100.0,Modelled Estimates | FAO's annual Agriculture Production Questionnaires | Survey | Literat
+method_data_collection,issue,estimation method mixed with collection method (e.g. 'Modelled Estimates'),19497,61.96,Modelled Estimates
+reference,issue,"missing (incl. NA, n/a, -, unknown tokens)",73,0.23,
+reference,issue,blank (spaces only),0,0.0,
+reference,issue,extra / double spaces,113,0.36,"(), (2014), Analysis Of Post-Harvest Loss Estimates And Policy Processes  | (), (2017), An"
+reference,issue,"same text, different upper/lower case",58,0.18,"Saudi Grains Organization, (2019), Saudi Flw Baseline. Food Loss And Food Waste Index In T"
+reference,issue,HTML tags inside text,0,0.0,
+reference,issue,encoding problems (mojibake),0,0.0,
+reference,issue,references that differ only by punctuation / spaces / case,4,1.22,
+reference,issue,same first 40 characters but different full text (near-duplicate),9,2.74,
+reference,issue,no year inside the reference,4232,13.45,FAO Sources | UNFAO | Mulualem Azene Mebratie1* Jema Haji2 Kebede Woldetsadik2 Amare Ayale
+reference,info,number of different references,329,1.05,
+url,issue,"missing (incl. NA, n/a, -, unknown tokens)",9342,29.69,
+url,issue,blank (spaces only),0,0.0,
+url,issue,extra / double spaces,0,0.0,
+url,issue,"same text, different upper/lower case",0,0.0,
+url,issue,HTML tags inside text,0,0.0,
+url,issue,encoding problems (mojibake),0,0.0,
+url,issue,not starting with http:// or https://,1,0.0,IFPRI
+url,issue,contains spaces,13,0.04,
+url,info,"duplicated links (same URL many rows, normal if same study)",21175,95.71,
+url,info,different URLs,948,4.29,
+url,info,links that no longer work: CANNOT be tested offline,0,0.0,needs a web check (requests.head) in a separate step
+notes,issue,"missing (incl. NA, n/a, -, unknown tokens)",29931,95.12,
+notes,issue,blank (spaces only),0,0.0,
+notes,issue,extra / double spaces,262,0.83,"Buckwheat dehulled to  buckwheat flakes | Grains - wheat, corn, rice and soybean  Food was"
+notes,issue,"same text, different upper/lower case",33,0.1,Derived Product is rye flour | Derived Product is oat flakes | Derived Product is millet d
+notes,issue,HTML tags inside text,0,0.0,
+notes,issue,encoding problems (mojibake),0,0.0,
+notes,info,same note repeated many times,948,61.8,
+notes,issue,"note contains structured info (sample, units, year, region, season)",603,1.92,Sourced from FAO 2007 | Sourced from Weinberger et al 2008 | Sourced from Yahia 2005
+(all),issue,fully duplicated rows,180,0.57,
+(all),issue,completely empty rows,0,0.0,
+(all),issue,empty column names or unexpected columns,0,0.0,
