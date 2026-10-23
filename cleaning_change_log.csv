@@ -1,0 +1,32 @@
+﻿step,column,rule,rows_affected
+1. text normalisation,region,NFKC + trim/collapse whitespace + blank/placeholder -> null,84
+1. text normalisation,loss_percentage_original,NFKC + trim/collapse whitespace + blank/placeholder -> null,6
+1. text normalisation,loss_quantity,NFKC + trim/collapse whitespace + blank/placeholder -> null,8
+1. text normalisation,treatment,NFKC + trim/collapse whitespace + blank/placeholder -> null,65
+1. text normalisation,cause_of_loss,NFKC + trim/collapse whitespace + blank/placeholder -> null,129
+1. text normalisation,sample_size,NFKC + trim/collapse whitespace + blank/placeholder -> null,89
+1. text normalisation,reference,NFKC + trim/collapse whitespace + blank/placeholder -> null,147
+1. text normalisation,notes,NFKC + trim/collapse whitespace + blank/placeholder -> null,262
+2. exact duplicates,(all),"dropped exact duplicate rows, kept first occurrence",180
+3. m49_code + country,m49_code,text -> zero-padded 3-character code,31285
+3. m49_code + country,country,aliases renamed to official UN M49 names,201
+3. m49_code + country,"geo_level, is_aggregate",new columns: label M49 aggregates vs countries/areas,107
+4. region,region,"typo fixes, spacing/prefix cleanup, 'National average' -> null, case variants merged",154
+4. region,is_subnational,new column: region present = sub-national study area,2023
+5. cpc_code + commodity,commodity,"strip HTML tags, n.e.->n.e.c., one canonical label per cpc_code",354
+6. year,year,text -> Int64,31285
+7. loss_percentage,loss_percentage,text -> float64,31285
+7. loss_percentage,loss_pct_is_range,"new column: original text was a range, value = midpoint",890
+8. loss_quantity,loss_quantity_tonnes,parse number+unit and convert to tonnes,4931
+8. loss_quantity,loss_quantity_raw,original text preserved (column renamed),5050
+9. activity / stage / treatment / cause,food_supply_stage,derived from component activities (dominant stage >=90%),3342
+9. activity / stage / treatment / cause,activity,null -> 'Not specified',7206
+9. activity / stage / treatment / cause,food_supply_stage,null -> 'Not specified',49
+9. activity / stage / treatment / cause,treatment,merge case/spacing variants into most frequent form,94
+9. activity / stage / treatment / cause,cause_of_loss,merge case/spacing variants into most frequent form,20
+10. sample_size + method,sample_size,numeric counts kept as Int64; text moved to sample_size_description,642
+10. sample_size + method,sample_size_description,new column: non-numeric sample size text,1195
+10. sample_size + method,method_data_collection,null / 'No Data Collection Specified' -> 'Not specified',243
+11. reference / url / notes,url,invalid (non-URL) text -> null,1
+12. duplicates after standardisation,(all),dropped exact duplicates exposed by standardisation,5
+13. dq flags,"dq_flags, dq_flag_count",new review columns (no values changed or removed),1148
