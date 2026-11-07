@@ -1,0 +1,160 @@
+﻿country,m49_code,name_key,code_key,record_type
+World,1,world,001,Region
+Myanmar,104,myanmar,104,Country / Area
+Burundi,108,burundi,108,Country / Area
+Western Africa,11,western africa,011,Region
+Belarus,112,belarus,112,Country / Area
+Cambodia,116,cambodia,116,Country / Area
+Algeria,12,algeria,012,Country / Area
+Cameroon,120,cameroon,120,Country / Area
+Canada,124,canada,124,Country / Area
+Asia,142,asia,142,Region
+Central Asia,143,central asia,143,Region
+Sri Lanka,144,sri lanka,144,Country / Area
+Western Asia,145,western asia,145,Region
+Chad,148,chad,148,Country / Area
+Northern Africa,15,northern africa,015,Region
+Europe,150,europe,150,Region
+Chile,152,chile,152,Country / Area
+China,156,china,156,Country / Area
+"Taiwan, Province of China",158,"taiwan, province of china",158,Unclassified
+"China,Taiwan",158,"china,taiwan",158,Unclassified
+Colombia,170,colombia,170,Country / Area
+Democratic Republic of the Congo,180,democratic republic of the congo,180,Country / Area
+Costa Rica,188,costa rica,188,Country / Area
+Croatia,191,croatia,191,Country / Area
+Cuba,192,cuba,192,Country / Area
+Africa,2,africa,002,Region
+Sub-Saharan Africa,202,sub-saharan africa,202,Region
+Benin,204,benin,204,Country / Area
+Denmark,208,denmark,208,Country / Area
+Northern America,21,northern america,021,Region
+Ecuador,218,ecuador,218,Country / Area
+El Salvador,222,el salvador,222,Country / Area
+Ethiopia,231,ethiopia,231,Country / Area
+Eritrea,232,eritrea,232,Country / Area
+Estonia,233,estonia,233,Country / Area
+Angola,24,angola,024,Country / Area
+Fiji,242,fiji,242,Country / Area
+Finland,246,finland,246,Country / Area
+France,250,france,250,Country / Area
+Gabon,266,gabon,266,Country / Area
+Georgia,268,georgia,268,Country / Area
+Gambia,270,gambia,270,Country / Area
+Palestine,275,palestine,275,Unclassified
+Germany,276,germany,276,Country / Area
+Ghana,288,ghana,288,Country / Area
+Greece,300,greece,300,Country / Area
+Azerbaijan,31,azerbaijan,031,Country / Area
+Argentina,32,argentina,032,Country / Area
+Guatemala,320,guatemala,320,Country / Area
+Guinea,324,guinea,324,Country / Area
+Guyana,328,guyana,328,Country / Area
+Haiti,332,haiti,332,Country / Area
+Southern Asia,34,southern asia,034,Region
+Honduras,340,honduras,340,Country / Area
+Hungary,348,hungary,348,Country / Area
+South-Eastern Asia,35,south-eastern asia,035,Region
+India,356,india,356,Country / Area
+Australia,36,australia,036,Country / Area
+Indonesia,360,indonesia,360,Country / Area
+Iran (Islamic Republic of),364,iran (islamic republic of),364,Country / Area
+Ireland,372,ireland,372,Country / Area
+Israel,376,israel,376,Country / Area
+Italy,380,italy,380,Country / Area
+Côte d'Ivoire,384,côte d'ivoire,384,Unclassified
+Jamaica,388,jamaica,388,Country / Area
+Japan,392,japan,392,Country / Area
+Kazakhstan,398,kazakhstan,398,Country / Area
+Afghanistan,4,afghanistan,004,Country / Area
+Austria,40,austria,040,Country / Area
+Jordan,400,jordan,400,Country / Area
+Kenya,404,kenya,404,Country / Area
+Democratic People's Republic of Korea,408,democratic people's republic of korea,408,Country / Area
+Republic of Korea,410,republic of korea,410,Country / Area
+Kyrgyzstan,417,kyrgyzstan,417,Country / Area
+Lao People's Democratic Republic,418,lao people's democratic republic,418,Country / Area
+Latin America and the Caribbean,419,latin america and the caribbean,419,Region
+Lebanon,422,lebanon,422,Country / Area
+Lesotho,426,lesotho,426,Country / Area
+Latvia,428,latvia,428,Country / Area
+Liberia,430,liberia,430,Country / Area
+Lithuania,440,lithuania,440,Country / Area
+Luxembourg,442,luxembourg,442,Country / Area
+Madagascar,450,madagascar,450,Country / Area
+Malawi,454,malawi,454,Country / Area
+Malaysia,458,malaysia,458,Country / Area
+Mali,466,mali,466,Country / Area
+Mauritania,478,mauritania,478,Country / Area
+Bahrain,48,bahrain,048,Country / Area
+Mauritius,480,mauritius,480,Country / Area
+Mexico,484,mexico,484,Country / Area
+Mongolia,496,mongolia,496,Country / Area
+Bangladesh,50,bangladesh,050,Country / Area
+Morocco,504,morocco,504,Country / Area
+Mozambique,508,mozambique,508,Country / Area
+Armenia,51,armenia,051,Country / Area
+Oman,512,oman,512,Country / Area
+Namibia,516,namibia,516,Country / Area
+Nepal,524,nepal,524,Country / Area
+Netherlands,528,netherlands,528,Unclassified
+Australia and New Zealand,53,australia and new zealand,053,Region
+New Caledonia,540,new caledonia,540,Country / Area
+New Zealand,554,new zealand,554,Country / Area
+Nicaragua,558,nicaragua,558,Country / Area
+Belgium,56,belgium,056,Country / Area
+Niger,562,niger,562,Country / Area
+Nigeria,566,nigeria,566,Country / Area
+Norway,578,norway,578,Country / Area
+Pakistan,586,pakistan,586,Country / Area
+Panama,591,panama,591,Country / Area
+Paraguay,600,paraguay,600,Country / Area
+Peru,604,peru,604,Country / Area
+Philippines,608,philippines,608,Country / Area
+Poland,616,poland,616,Country / Area
+Portugal,620,portugal,620,Country / Area
+Guinea-Bissau,624,guinea-bissau,624,Country / Area
+Timor-Leste,626,timor-leste,626,Country / Area
+Romania,642,romania,642,Country / Area
+Russian Federation,643,russian federation,643,Country / Area
+Rwanda,646,rwanda,646,Country / Area
+Saint Kitts and Nevis,659,saint kitts and nevis,659,Country / Area
+Saint Lucia,662,saint lucia,662,Country / Area
+Bolivia (Plurinational State of),68,bolivia (plurinational state of),068,Country / Area
+Saudi Arabia,682,saudi arabia,682,Country / Area
+Senegal,686,senegal,686,Country / Area
+Serbia,688,serbia,688,Country / Area
+Sierra Leone,694,sierra leone,694,Country / Area
+Slovakia,703,slovakia,703,Country / Area
+Viet Nam,704,viet nam,704,Country / Area
+Somalia,706,somalia,706,Country / Area
+South Africa,710,south africa,710,Country / Area
+Zimbabwe,716,zimbabwe,716,Country / Area
+Botswana,72,botswana,072,Country / Area
+Spain,724,spain,724,Country / Area
+South Sudan,728,south sudan,728,Country / Area
+Sudan,729,sudan,729,Country / Area
+Eswatini,748,eswatini,748,Country / Area
+Sweden,752,sweden,752,Country / Area
+Switzerland,756,switzerland,756,Country / Area
+Brazil,76,brazil,076,Country / Area
+Syrian Arab Republic,760,syrian arab republic,760,Country / Area
+Tajikistan,762,tajikistan,762,Country / Area
+Thailand,764,thailand,764,Country / Area
+Togo,768,togo,768,Country / Area
+Trinidad and Tobago,780,trinidad and tobago,780,Country / Area
+Tunisia,788,tunisia,788,Country / Area
+Turkey,792,turkey,792,Unclassified
+Albania,8,albania,008,Country / Area
+Uganda,800,uganda,800,Country / Area
+Ukraine,804,ukraine,804,Country / Area
+The former Yugoslav Republic of Macedonia,807,the former yugoslav republic of macedonia,807,Unclassified
+Egypt,818,egypt,818,Country / Area
+United Kingdom of Great Britain and Northern Ireland,826,united kingdom of great britain and northern ireland,826,Country / Area
+United Kingdom,826,united kingdom,826,Unclassified
+United Republic of Tanzania,834,united republic of tanzania,834,Country / Area
+United States of America,840,united states of america,840,Country / Area
+Burkina Faso,854,burkina faso,854,Country / Area
+Uzbekistan,860,uzbekistan,860,Country / Area
+Venezuela (Bolivarian Republic of),862,venezuela (bolivarian republic of),862,Country / Area
+Zambia,894,zambia,894,Country / Area
