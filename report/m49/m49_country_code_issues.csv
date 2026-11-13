@@ -1,0 +1,9 @@
+country,m49_code,actual_code,country_name_found,region_name_found,pair_found,status
+"Taiwan, Province of China",158,158,False,False,False,NAME NOT FOUND - REVIEW
+"China,Taiwan",158,158,False,False,False,NAME NOT FOUND - REVIEW
+Palestine,275,275,False,False,False,NAME NOT FOUND - REVIEW
+Côte d'Ivoire,384,384,False,False,False,NAME NOT FOUND - REVIEW
+Netherlands,528,528,False,False,False,NAME NOT FOUND - REVIEW
+Turkey,792,792,False,False,False,NAME NOT FOUND - REVIEW
+The former Yugoslav Republic of Macedonia,807,807,False,False,False,NAME NOT FOUND - REVIEW
+United Kingdom,826,826,False,False,False,NAME NOT FOUND - REVIEW

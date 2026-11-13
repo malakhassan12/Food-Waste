@@ -1,0 +1,158 @@
+﻿m49_code,country,total_rows,missing_regions,missing_percentage
+1,World,29,29,100.0
+2,Africa,4,4,100.0
+4,Afghanistan,30,30,100.0
+8,Albania,2,2,100.0
+11,Western Africa,4,4,100.0
+12,Algeria,1,1,100.0
+15,Northern Africa,5,5,100.0
+21,Northern America,5,5,100.0
+24,Angola,726,726,100.0
+31,Azerbaijan,156,156,100.0
+32,Argentina,19,19,100.0
+34,Southern Asia,5,5,100.0
+35,South-Eastern Asia,6,6,100.0
+36,Australia,43,43,100.0
+40,Austria,306,306,100.0
+48,Bahrain,1,1,100.0
+51,Armenia,158,158,100.0
+56,Belgium,11,11,100.0
+53,Australia and New Zealand,3,3,100.0
+68,Bolivia (Plurinational State of),21,21,100.0
+72,Botswana,418,418,100.0
+124,Canada,327,327,100.0
+104,Myanmar,13,13,100.0
+108,Burundi,509,509,100.0
+112,Belarus,8,8,100.0
+148,Chad,521,521,100.0
+145,Western Asia,5,5,100.0
+143,Central Asia,5,5,100.0
+142,Asia,1,1,100.0
+862,Venezuela (Bolivarian Republic of),347,347,100.0
+854,Burkina Faso,767,767,100.0
+826,United Kingdom of Great Britain and Northern Ireland,129,129,100.0
+804,Ukraine,103,103,100.0
+150,Europe,14,14,100.0
+170,Colombia,5,5,100.0
+158,"Taiwan, Province of China",2,2,100.0
+158,"China,Taiwan",1,1,100.0
+188,Costa Rica,4,4,100.0
+191,Croatia,1,1,100.0
+192,Cuba,101,101,100.0
+180,Democratic Republic of the Congo,421,421,100.0
+202,Sub-Saharan Africa,17,17,100.0
+233,Estonia,44,44,100.0
+222,El Salvador,5,5,100.0
+208,Denmark,107,107,100.0
+270,Gambia,529,529,100.0
+276,Germany,186,186,100.0
+250,France,118,118,100.0
+242,Fiji,48,48,100.0
+268,Georgia,68,68,100.0
+266,Gabon,1,1,100.0
+246,Finland,61,61,100.0
+388,Jamaica,15,15,100.0
+376,Israel,14,14,100.0
+372,Ireland,38,38,100.0
+384,Côte d'Ivoire,419,419,100.0
+348,Hungary,287,287,100.0
+332,Haiti,6,6,100.0
+328,Guyana,6,6,100.0
+324,Guinea,419,419,100.0
+300,Greece,1,1,100.0
+458,Malaysia,10,10,100.0
+450,Madagascar,229,229,100.0
+442,Luxembourg,7,7,100.0
+426,Lesotho,321,321,100.0
+428,Latvia,18,18,100.0
+440,Lithuania,83,83,100.0
+408,Democratic People's Republic of Korea,4,4,100.0
+398,Kazakhstan,100,100,100.0
+417,Kyrgyzstan,10,10,100.0
+392,Japan,147,147,100.0
+380,Italy,19,19,100.0
+419,Latin America and the Caribbean,5,5,100.0
+418,Lao People's Democratic Republic,6,6,100.0
+642,Romania,35,35,100.0
+662,Saint Lucia,10,10,100.0
+682,Saudi Arabia,76,76,100.0
+578,Norway,33,33,100.0
+600,Paraguay,2,2,100.0
+616,Poland,83,83,100.0
+620,Portugal,6,6,100.0
+659,Saint Kitts and Nevis,1,1,100.0
+643,Russian Federation,46,46,100.0
+558,Nicaragua,23,23,100.0
+540,New Caledonia,6,6,100.0
+516,Namibia,352,352,100.0
+528,Netherlands,67,67,100.0
+512,Oman,1,1,100.0
+496,Mongolia,10,10,100.0
+484,Mexico,73,73,100.0
+480,Mauritius,75,75,100.0
+478,Mauritania,484,484,100.0
+466,Mali,647,647,100.0
+724,Spain,3,3,100.0
+728,South Sudan,154,154,100.0
+729,Sudan,282,282,100.0
+624,Guinea-Bissau,529,529,100.0
+807,The former Yugoslav Republic of Macedonia,21,21,100.0
+860,Uzbekistan,12,12,100.0
+826,United Kingdom,48,48,100.0
+768,Togo,536,536,100.0
+762,Tajikistan,3,3,100.0
+792,Turkey,13,13,100.0
+780,Trinidad and Tobago,9,9,100.0
+706,Somalia,396,396,100.0
+703,Slovakia,11,11,100.0
+694,Sierra Leone,314,314,100.0
+688,Serbia,23,23,100.0
+686,Senegal,749,749,100.0
+748,Eswatini,155,155,100.0
+760,Syrian Arab Republic,12,12,100.0
+756,Switzerland,87,87,100.0
+752,Sweden,58,58,100.0
+840,United States of America,1716,1715,99.94
+894,Zambia,766,765,99.87
+204,Benin,684,682,99.71
+232,Eritrea,465,462,99.35
+562,Niger,402,399,99.25
+646,Rwanda,612,604,98.69
+591,Panama,359,354,98.61
+454,Malawi,765,753,98.43
+604,Peru,286,281,98.25
+400,Jordan,52,51,98.08
+508,Mozambique,618,602,97.41
+218,Ecuador,108,105,97.22
+800,Uganda,879,848,96.47
+120,Cameroon,348,331,95.11
+231,Ethiopia,1151,1072,93.14
+144,Sri Lanka,115,107,93.04
+364,Iran (Islamic Republic of),120,111,92.5
+116,Cambodia,53,49,92.45
+320,Guatemala,104,96,92.31
+404,Kenya,1050,969,92.29
+834,United Republic of Tanzania,630,571,90.63
+710,South Africa,491,431,87.78
+566,Nigeria,641,555,86.58
+356,India,1439,1225,85.13
+554,New Zealand,18,15,83.33
+586,Pakistan,153,126,82.35
+716,Zimbabwe,551,447,81.13
+288,Ghana,918,729,79.41
+608,Philippines,114,86,75.44
+152,Chile,3,2,66.67
+524,Nepal,145,96,66.21
+818,Egypt,142,93,65.49
+704,Viet Nam,42,26,61.9
+340,Honduras,14,8,57.14
+430,Liberia,223,118,52.91
+360,Indonesia,137,68,49.64
+764,Thailand,31,15,48.39
+156,China,254,117,46.06
+50,Bangladesh,612,266,43.46
+76,Brazil,43,17,39.53
+504,Morocco,47,12,25.53
+626,Timor-Leste,36,9,25.0
+410,Republic of Korea,40,7,17.5
+275,Palestine,51,4,7.84

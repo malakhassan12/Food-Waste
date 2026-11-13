@@ -1,0 +1,3 @@
+Whether we use Egyptian or global data, we will convert it into a real-time data pipeline.
+
+If we use Egyptian data, we should simulate additional data to increase the dataset size and make it more suitable for our project.

@@ -1,0 +1,16 @@
+﻿commodity,records,misspelled_words,suggested_corrections,spelling_status
+Fonio,968,['fonio'],{'fonio': ['folio']},Possible spelling errors
+"Chillies and peppers, dry (<i>Capsicum</i> spp., <i>Pimenta</i> spp.), raw",70,"['pimenta', 'spp']","{'pimenta': ['pimento'], 'spp': ['sop', 'spy', 'spa', 'sip', 'sup']}",Possible spelling errors
+Triticale,67,['triticale'],{'triticale': ['critical']},Possible spelling errors
+Wheat and meslin flour,50,['meslin'],"{'meslin': ['merlin', 'muslin']}",Possible spelling errors
+"Pepper (<i>Piper</i> spp.), raw",46,['spp'],"{'spp': ['sop', 'spy', 'spa', 'sip', 'sup']}",Possible spelling errors
+"Chillies and peppers, green (<i>Capsicum</i> spp. and <i>Pimenta</i> spp.)",36,"['pimenta', 'spp']","{'pimenta': ['pimento'], 'spp': ['sop', 'spy', 'spa', 'sip', 'sup']}",Possible spelling errors
+"Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw",28,['badian'],"{'badian': ['banian', 'badman', 'radian']}",Possible spelling errors
+"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",21,"['pimenta', 'spp']","{'pimenta': ['pimento'], 'spp': ['sop', 'spy', 'spa', 'sip', 'sup']}",Possible spelling errors
+Quinoa,11,['quinoa'],{'quinoa': ['quinol']},Possible spelling errors
+Cranberries and other fruits of the genus Vaccinium,8,['vaccinium'],"{'vaccinium': ['vaccinia', 'vaccinias', 'actinium']}",Possible spelling errors
+Other berries and fruits of the genus Vaccinium n.e.,8,['vaccinium'],"{'vaccinium': ['vaccinia', 'vaccinias', 'actinium']}",Possible spelling errors
+"Seed cotton, unginned",7,['unginned'],{'unginned': ['unpinned']},Possible spelling errors
+Flour of triticale,6,['triticale'],{'triticale': ['critical']},Possible spelling errors
+Raspeberries,6,['raspeberries'],{'raspeberries': ['raspberries']},Possible spelling errors
+"Cattle fat, unrendered",5,['unrendered'],"{'unrendered': ['surrendered', 'rendered', 'unhindered', 'engendered', 'unrenewed']}",Possible spelling errors
