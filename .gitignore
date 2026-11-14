@@ -43,3 +43,9 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Airflow logs
+logs/
+
+# Database backup
+food_waste_db_backup.sql
