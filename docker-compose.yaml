@@ -105,6 +105,16 @@ services:
       start_period: 5s
     restart: always
 
+  cloudbeaver:
+    image: dbeaver/cloudbeaver:latest
+    restart: unless-stopped
+    ports:
+      - "8978:8978"
+    volumes:
+      - cloudbeaver_data:/opt/cloudbeaver/workspace
+    depends_on:
+      postgres:
+        condition: service_healthy
   redis:
     # Redis is limited to 7.2-bookworm due to licencing change
     # https://redis.io/blog/redis-adopts-dual-source-available-licensing/
@@ -335,3 +345,4 @@ services:
 
 volumes:
   postgres-db-volume:
+  cloudbeaver_data:
