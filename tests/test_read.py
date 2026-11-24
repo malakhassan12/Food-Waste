@@ -2,7 +2,7 @@
 from sqlalchemy import select, func, case, union, union_all, exists
 from sqlalchemy.orm import Session
 
-from db.connection import engine
+from db.config.connection import engine
 from db.models import Observation, Country, Commodity, Activity, ObservationActivity
 
 

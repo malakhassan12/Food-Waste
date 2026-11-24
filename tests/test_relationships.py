@@ -1,7 +1,7 @@
 from sqlalchemy import select
 from sqlalchemy.orm import Session
 
-from db.connection import engine
+from db.config.connection import engine
 from db.models import Country, Commodity, Observation
 
 
