@@ -1,0 +1,16 @@
+activity,stage_group,records,countries,median_loss_pct
+Field,Farm & harvest,145,18,16.5
+Consumption,Consumption,213,22,15.0
+Distribution,Transport & distribution,197,28,11.0
+Cleaning,Post-harvest handling,210,22,10.16
+Retailing,Market & retail,931,36,9.8
+Sorting,Post-harvest handling,256,21,7.92
+Trading,Market & retail,37,8,7.4
+Collection,Transport & distribution,272,24,6.14
+Grading,Post-harvest handling,233,18,5.34
+Milling,Processing,31,14,5.0
+Handling,Post-harvest handling,97,19,4.5
+Harvesting,Farm & harvest,4335,74,4.43
+Drying,Post-harvest handling,4632,62,4.4
+Farm,Farm & harvest,341,36,4.25
+Unloading,Transport & distribution,32,4,3.29

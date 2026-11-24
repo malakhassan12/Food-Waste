@@ -1,0 +1,26 @@
+continent,commodity,product_group,records,avg_loss,median_loss,countries,crop_rank
+Africa,Plantains and cooking bananas,Fruits and nuts,9,28.27,35.0,8,1
+Africa,Papayas,Fruits and nuts,10,24.95,20.38,2,2
+Africa,"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)",Vegetables,7,23.66,16.3,3,3
+Africa,Cabbages,Vegetables,24,20.09,16.13,3,4
+Africa,"Onions and shallots, green",Vegetables,6,19.63,15.5,4,5
+Americas,Grapefruit juice,"Meat, fish, fruit and vegetable products",21,41.89,43.6,1,1
+Americas,Pineapple juice,"Meat, fish, fruit and vegetable products",20,40.02,41.33,1,2
+Americas,Orange juice,"Meat, fish, fruit and vegetable products",20,40.3,40.87,1,3
+Americas,Canned mushrooms,"Meat, fish, fruit and vegetable products",20,34.0,35.0,1,4
+Americas,"Meat of sheep, fresh or chilled","Meat, fish, fruit and vegetable products",9,32.56,35.0,2,5
+Asia,Green garlic,Vegetables,5,24.05,27.43,2,1
+Asia,Plums and sloes,Fruits and nuts,7,22.92,21.51,2,2
+Asia,Pineapples,Fruits and nuts,19,17.81,11.55,3,3
+Asia,Leeks and other alliaceous vegetables,Vegetables,5,16.35,11.44,1,4
+Asia,Pears,Fruits and nuts,13,10.66,10.67,4,5
+Europe,"Cow peas, dry",Pulses,9,17.17,17.0,3,1
+Europe,Carrots and turnips,Vegetables,33,14.66,16.5,7,2
+Europe,Pears,Fruits and nuts,20,13.38,14.06,2,3
+Europe,Plums and sloes,Fruits and nuts,15,14.96,10.43,2,4
+Europe,"Onions and shallots, green",Vegetables,40,11.97,10.0,5,5
+Oceania,Cauliflowers and broccoli,Vegetables,9,23.56,24.0,1,1
+Oceania,Lettuce and chicory,Vegetables,9,15.67,14.0,1,2
+Oceania,"Mangoes, guavas and mangosteens",Fruits and nuts,8,11.75,11.5,2,3
+Oceania,Eggplants (aubergines),Vegetables,8,10.0,10.0,2,4
+Oceania,"Other tropical and subtropical fruits, n.e.c.",Fruits and nuts,6,8.33,8.0,2,5

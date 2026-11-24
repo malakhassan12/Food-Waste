@@ -1,0 +1,6 @@
+continent,crops,records,countries,avg_loss_pct,median_loss_pct,p90_loss_pct
+Oceania,25,115,4,10.8,8.8,26.6
+Americas,142,3466,25,10.57,7.94,26.63
+Asia,108,4204,37,5.82,3.1,15.0
+Africa,83,21330,45,3.48,2.5,5.6
+Europe,83,2049,31,4.06,2.1,11.0

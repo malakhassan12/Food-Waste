@@ -1,0 +1,49 @@
+product_group,stage_group,records,median_loss_pct
+Cereals,Consumption,38,8.46
+Cereals,Farm & harvest,8796,3.5
+Cereals,Market & retail,119,0.65
+Cereals,Post-harvest handling,4632,4.4
+Cereals,Processing,171,1.8
+Cereals,Storage,5843,2.65
+Cereals,Transport & distribution,5279,2.17
+Fruits and nuts,Consumption,61,15.0
+Fruits and nuts,Farm & harvest,211,5.33
+Fruits and nuts,Market & retail,477,9.1
+Fruits and nuts,Post-harvest handling,229,5.0
+Fruits and nuts,Processing,54,5.0
+Fruits and nuts,Storage,276,4.0
+Fruits and nuts,Transport & distribution,196,5.45
+Grain mill and other food products,Storage,20,2.51
+Live animals and animal products,Farm & harvest,29,0.71
+Live animals and animal products,Storage,25,2.2
+Live animals and animal products,Transport & distribution,40,2.29
+"Meat, fish, fruit and vegetable products",Market & retail,34,4.5
+Oilseeds,Farm & harvest,89,1.45
+Oilseeds,Market & retail,32,0.4
+Oilseeds,Post-harvest handling,52,0.24
+Oilseeds,Processing,20,0.55
+Oilseeds,Storage,51,0.25
+Oilseeds,Transport & distribution,40,0.43
+Pulses,Farm & harvest,51,3.2
+Pulses,Market & retail,25,4.2
+Pulses,Post-harvest handling,30,2.35
+Pulses,Storage,138,1.84
+Pulses,Transport & distribution,28,4.19
+Roots and tubers,Consumption,24,4.34
+Roots and tubers,Farm & harvest,83,6.23
+Roots and tubers,Market & retail,93,3.25
+Roots and tubers,Post-harvest handling,87,5.0
+Roots and tubers,Processing,49,3.4
+Roots and tubers,Storage,98,9.65
+Roots and tubers,Transport & distribution,69,7.5
+Spice and stimulant crops,Farm & harvest,38,1.79
+Spice and stimulant crops,Market & retail,28,1.39
+Spice and stimulant crops,Post-harvest handling,41,0.67
+Spice and stimulant crops,Transport & distribution,34,0.96
+Vegetables,Consumption,51,26.0
+Vegetables,Farm & harvest,226,7.01
+Vegetables,Market & retail,444,9.79
+Vegetables,Post-harvest handling,222,7.28
+Vegetables,Processing,49,5.7
+Vegetables,Storage,126,8.95
+Vegetables,Transport & distribution,176,6.11
