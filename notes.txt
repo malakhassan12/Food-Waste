@@ -1,3 +1,11 @@
 Whether we use Egyptian or global data, we will convert it into a real-time data pipeline.
 
 If we use Egyptian data, we should simulate additional data to increase the dataset size and make it more suitable for our project.
+
+
+
+
+
+Now about Malak
+
+- spark should connect with kafka  and the folder of processed by spark will not created  ! 

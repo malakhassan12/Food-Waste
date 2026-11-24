@@ -1,4 +1,4 @@
-"""
+﻿"""
 setup_database.py  (FINAL)
 Put this file in:  waste-food-project/db/config/setup_database.py
 Just run it (no arguments needed):
@@ -29,8 +29,8 @@ from sqlalchemy.engine import make_url
 ROOT = Path(__file__).resolve().parents[2]  # waste-food-project/
 
 DEFAULT_SQL = ROOT / "db" / "queries" / "food_waste_queries.sql"
-DEFAULT_FOOD_CSV = ROOT / "data-set" / "World-food-waste_cleaned_final.csv"
-DEFAULT_ACTIVITY_CSV = ROOT / "report" / "activity" / "World-food-waste_activity_long.csv"
+DEFAULT_FOOD_CSV = ROOT / "data" / "World-food-waste_cleaned_final.csv"
+DEFAULT_ACTIVITY_CSV = ROOT / "data"/ "World-food-waste_activity_long.csv"
 
 # load .env from the project root, or wherever it is found
 if (ROOT / ".env").exists():
@@ -39,12 +39,12 @@ else:
     load_dotenv(find_dotenv())
 
 STAGING_TABLES = {
-    "stg_food_waste": [
+    "staging.stg_food_waste": [
         "m49_code", "country", "cpc_code", "commodity", "year",
         "loss_percentage", "activity", "method_data_collection",
         "reference", "url", "record_id", "activity_count",
     ],
-    "stg_activity_long": ["record_id", "activity"],
+    "staging.stg_activity_long": ["record_id", "activity"],
 }
 
 
@@ -137,7 +137,7 @@ def copy_csv(cur, table: str, csv_path: Path):
         buf.seek(0)
 
     col_names = [c for _, c in keep]
-    cur.execute(f"TRUNCATE {table};")  # safe to re-run
+    cur.execute(f"TRUNCATE TABLE {table};")  # safe to re-run
     cur.copy_expert(
         f"COPY {table} ({', '.join(col_names)}) FROM STDIN WITH (FORMAT csv)",
         buf,
@@ -186,8 +186,8 @@ def main():
         conn.commit()
 
         print("[2/4] Loading CSV files into staging tables...")
-        copy_csv(cur, "stg_food_waste", args.food_waste_csv)
-        copy_csv(cur, "stg_activity_long", args.activity_csv)
+        copy_csv(cur, "staging.stg_food_waste", args.food_waste_csv)
+        copy_csv(cur, "staging.stg_activity_long", args.activity_csv)
         conn.commit()
 
         print("[3/4] Moving data into the real tables...")

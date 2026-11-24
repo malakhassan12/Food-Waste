@@ -1,0 +1,13 @@
+product_group,crops,records,countries,avg_loss_pct,median_loss_pct,p90_loss_pct
+Vegetables,25,2280,62,11.39,8.2,25.21
+"Meat, fish, fruit and vegetable products",31,405,27,15.18,7.0,41.33
+Fruits and nuts,40,2457,68,9.45,5.75,24.0
+Roots and tubers,9,1008,70,8.3,5.1,20.31
+Cereals,15,22896,117,3.19,2.5,5.21
+Pulses,10,498,47,5.83,2.39,15.62
+Dairy and egg products,3,44,10,4.09,1.8,11.0
+Oilseeds,14,584,36,3.64,1.5,8.8
+Spice and stimulant crops,6,184,23,4.8,1.36,12.07
+Sugar crops,2,88,10,2.24,1.33,4.3
+Live animals and animal products,11,435,35,2.54,1.0,6.48
+Grain mill and other food products,20,254,24,2.33,1.0,5.01

@@ -1,0 +1,12 @@
+method_data_collection,method_group,records,avg_loss_pct,median_loss_pct,share_pct
+Modelled Estimates,Modelled estimate,19441,3.08,2.5,62.4
+FAO's annual Agriculture Production Questionnaires,"Measured, surveyed or published",4195,5.61,2.95,13.5
+Survey,"Measured, surveyed or published",3176,5.78,2.7,10.2
+Literature Review,"Measured, surveyed or published",1655,11.21,7.41,5.3
+National Accounts,"Measured, surveyed or published",1136,10.03,8.0,3.6
+Controlled Experiment,"Measured, surveyed or published",628,5.68,2.6,2.0
+Case Study,"Measured, surveyed or published",526,11.83,9.4,1.7
+No Data Collection Specified,Expert opinion or unspecified,238,7.0,3.42,0.8
+Expert Opinion,Expert opinion or unspecified,127,11.97,8.5,0.4
+FLW Protocol,"Measured, surveyed or published",41,5.04,3.0,0.1
+Census,"Measured, surveyed or published",1,25.0,25.0,0.0

@@ -1,0 +1,2 @@
+total_records,countries,commodities,sources,first_year,last_year,avg_loss_pct,median_loss_pct,p90_loss_pct,max_loss_pct,pct_modelled_records
+31164,142,196,320,2000,2026,4.65,2.65,10.0,65.0,62.4
