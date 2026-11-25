@@ -20,6 +20,7 @@ FoodWaste Intelligence provides an interactive platform where users can simulate
 - **Scenario Comparison:** Compare different scenarios and their potential outcomes.
 - **Waste Reduction Insights:** Identify opportunities to reduce waste and financial losses.
 
+
 ## 👥 Team Members
 - **Malak Hassan** — Team Leader
 - Loay
