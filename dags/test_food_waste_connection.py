@@ -7,20 +7,18 @@ from airflow.providers.postgres.hooks.postgres import PostgresHook
 
 
 def test_food_waste_connection():
-    hook = PostgresHook(
-        postgres_conn_id="food_waste_postgres"
-    )
+    hook = PostgresHook(postgres_conn_id="food_waste_postgres")
 
-    result = hook.get_first("""
-        SELECT
-            current_database(),
-            COUNT(*)
-        FROM food_waste.observation;
+    rows = hook.get_records("""
+        SELECT table_schema, table_name
+        FROM information_schema.tables
+        WHERE table_type = 'BASE TABLE'
+        AND table_schema NOT IN ('pg_catalog', 'information_schema')
+        ORDER BY table_schema, table_name;
     """)
 
-    print(f"Database: {result[0]}")
-    print(f"Observation records: {result[1]}")
-
+    for row in rows:
+        print(row)
 
 with DAG(
     dag_id="food_waste_connection_test",
