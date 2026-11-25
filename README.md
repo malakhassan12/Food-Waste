@@ -20,9 +20,6 @@ FoodWaste Intelligence provides an interactive platform where users can simulate
 - **Scenario Comparison:** Compare different scenarios and their potential outcomes.
 - **Waste Reduction Insights:** Identify opportunities to reduce waste and financial losses.
 
-##Athar
-## 💾 Backup & Recovery 
-Setup, backup, and restore instructions for the database are in [db/RECOVERY.md](db/RECOVERY.md). 
 
 ## 👥 Team Members
 - **Malak Hassan** — Team Leader
