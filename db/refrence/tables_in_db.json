@@ -1,0 +1,123 @@
+{
+"SELECT\n    table_schema,\n    table_name,\n    column_name,\n    data_type\nFROM information_schema.columns\nWHERE table_catalog = 'food_waste_db' and table_schema='food_waste'\nORDER BY table_schema, table_name, ordinal_position": [
+	{
+		"table_schema" : "food_waste",
+		"table_name" : "activity",
+		"column_name" : "activity_id",
+		"data_type" : "integer"
+	},
+	{
+		"table_schema" : "food_waste",
+		"table_name" : "activity",
+		"column_name" : "activity_name",
+		"data_type" : "character varying"
+	},
+	{
+		"table_schema" : "food_waste",
+		"table_name" : "commodity",
+		"column_name" : "cpc_code",
+		"data_type" : "character varying"
+	},
+	{
+		"table_schema" : "food_waste",
+		"table_name" : "commodity",
+		"column_name" : "commodity_name",
+		"data_type" : "character varying"
+	},
+	{
+		"table_schema" : "food_waste",
+		"table_name" : "country",
+		"column_name" : "m49_code",
+		"data_type" : "character varying"
+	},
+	{
+		"table_schema" : "food_waste",
+		"table_name" : "country",
+		"column_name" : "country_name",
+		"data_type" : "character varying"
+	},
+	{
+		"table_schema" : "food_waste",
+		"table_name" : "method",
+		"column_name" : "method_id",
+		"data_type" : "integer"
+	},
+	{
+		"table_schema" : "food_waste",
+		"table_name" : "method",
+		"column_name" : "method_name",
+		"data_type" : "character varying"
+	},
+	{
+		"table_schema" : "food_waste",
+		"table_name" : "observation",
+		"column_name" : "record_id",
+		"data_type" : "integer"
+	},
+	{
+		"table_schema" : "food_waste",
+		"table_name" : "observation",
+		"column_name" : "year",
+		"data_type" : "integer"
+	},
+	{
+		"table_schema" : "food_waste",
+		"table_name" : "observation",
+		"column_name" : "loss_percentage",
+		"data_type" : "numeric"
+	},
+	{
+		"table_schema" : "food_waste",
+		"table_name" : "observation",
+		"column_name" : "cpc_code",
+		"data_type" : "character varying"
+	},
+	{
+		"table_schema" : "food_waste",
+		"table_name" : "observation",
+		"column_name" : "method_id",
+		"data_type" : "integer"
+	},
+	{
+		"table_schema" : "food_waste",
+		"table_name" : "observation",
+		"column_name" : "m49_code",
+		"data_type" : "character varying"
+	},
+	{
+		"table_schema" : "food_waste",
+		"table_name" : "observation",
+		"column_name" : "source_id",
+		"data_type" : "integer"
+	},
+	{
+		"table_schema" : "food_waste",
+		"table_name" : "observation_activity",
+		"column_name" : "record_id",
+		"data_type" : "integer"
+	},
+	{
+		"table_schema" : "food_waste",
+		"table_name" : "observation_activity",
+		"column_name" : "activity_id",
+		"data_type" : "integer"
+	},
+	{
+		"table_schema" : "food_waste",
+		"table_name" : "source",
+		"column_name" : "source_id",
+		"data_type" : "integer"
+	},
+	{
+		"table_schema" : "food_waste",
+		"table_name" : "source",
+		"column_name" : "reference",
+		"data_type" : "text"
+	},
+	{
+		"table_schema" : "food_waste",
+		"table_name" : "source",
+		"column_name" : "url",
+		"data_type" : "text"
+	}
+]}

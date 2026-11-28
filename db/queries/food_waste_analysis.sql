@@ -5,8 +5,9 @@
 -- PostgreSQL setup block that creates country/stage lookup tables and shared
 -- observation/dashboard views for any SQL or BI consumers that still need them.
 --
--- Run the Step 5 notebook first to rebuild the lookup tables and export their CSV files.
--- Then run food_waste_processing_main.py; Spark reads those CSV files.
+-- Run notebook 05 first to create the lookup tables and views in PostgreSQL.
+-- Spark consumes observations from food-waste-raw and reads the lookup tables directly through JDBC.
+-- The Kafka consumer stores Spark's Silver, Gold, and Dashboard outputs in PostgreSQL.
 
 -- Rules used by the retained shared views
 --   * Loss is a percentage (0-100) from observation.loss_percentage.

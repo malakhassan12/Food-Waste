@@ -1,51 +1,109 @@
 ﻿"""
 food_waste_processing_main.py  -  Spark job for the Food Waste project
 
-    cleaned CSV  ->  SILVER (typed + validated + enriched)  ->  GOLD (dashboard tables)
+    Kafka raw topic -> SILVER (typed + validated + enriched) -> GOLD (dashboard tables)
 
 Put this file in:  waste-food-project/spark/jobs/food_waste_processing_main.py
 (inside the Spark container it is /opt/spark/jobs, and ./data is /opt/data)
 
 Run from the project root:
-    docker exec spark-master /opt/spark/bin/spark-submit \
+    docker compose exec -e WRITE_TO_KAFKA=1 spark-master \
+        /opt/spark/bin/spark-submit \
+        --packages org.apache.spark:spark-sql-kafka-0-10_2.12:3.5.9,org.postgresql:postgresql:42.7.5 \
         --master spark://spark-master:7077 /opt/spark/jobs/food_waste_processing_main.py
 
-Input files (inside ./data, seen by Spark as /opt/data):
-    World-food-waste_cleaned_final.csv       one row per record
-    World-food-waste_activity_long.csv       record_id, activity (one row per activity)
-    lookup/country_continent.csv             m49_code, country_name, continent
-    lookup/activity_stage_map.csv            activity_name, stage_group
+Input:
+    food-waste-raw Kafka topic (nested observation JSON)
+    food_waste.country_continent and food_waste.activity_stage_map PostgreSQL tables
 
 Output (inside ./data/processed_by_spark):
     silver/observation, silver/observation_activity     parquet
     gold/<table>/part-*.csv                             one folder per dashboard table
     dashboard/food_waste_dashboard.csv                  ONE flat file for the dashboard
-    (optional) PostgreSQL tables gold_<table>           when WRITE_TO_POSTGRES=1
+    Kafka layer topics with metadata envelopes (disable with WRITE_TO_KAFKA=0)
+
+Datasets publish to the food-waste-silver, food-waste-gold, and
+food-waste-dashboard topics by default. Spark reads observation records only
+from Kafka; PostgreSQL lookup tables provide continent and activity-stage enrichment.
 """
 import os
+import uuid
 
 from pyspark.sql import SparkSession, Window
 from pyspark.sql import functions as F
+from pyspark.sql.types import (
+    ArrayType,
+    DoubleType,
+    IntegerType,
+    StringType,
+    StructField,
+    StructType,
+)
 
 # ----------------------------------------------------------------------------
 # Config (paths are inside the Spark container)
 # ----------------------------------------------------------------------------
 DATA = os.getenv("DATA_DIR", "/opt/data")
-FOOD_CSV = f"{DATA}/World-food-waste_cleaned_final.csv"
-ACT_CSV = f"{DATA}/World-food-waste_activity_long.csv"
-CONT_CSV = f"{DATA}/lookup/country_continent.csv"
-STAGE_CSV = f"{DATA}/lookup/activity_stage_map.csv"
 OUT = f"{DATA}/processed_by_spark"
 
-WRITE_TO_POSTGRES = os.getenv("WRITE_TO_POSTGRES", "0") == "1"
-PG_URL = os.getenv("PG_URL", "jdbc:postgresql://postgres:5432/food_waste_db")
-PG_PROPS = {
-    "user": os.getenv("PG_USER", "airflow"),
-    "password": os.getenv("PG_PASSWORD", "airflow"),
-    "driver": "org.postgresql.Driver",
+PG_HOST = os.getenv("PG_HOST", "postgres")
+PG_PORT = os.getenv("PG_PORT", "5432")
+PG_DATABASE = os.getenv("PG_DATABASE", "food_waste_db")
+PG_USER = os.getenv("PG_USER", "airflow")
+PG_PASSWORD = os.getenv("PG_PASSWORD", "airflow")
+PG_JDBC_URL = f"jdbc:postgresql://{PG_HOST}:{PG_PORT}/{PG_DATABASE}"
+
+WRITE_TO_KAFKA = os.getenv("WRITE_TO_KAFKA", "1") == "1"
+KAFKA_BOOTSTRAP = os.getenv("KAFKA_BOOTSTRAP_SERVERS", "kafka:9092")
+RAW_TOPIC = "food-waste-raw"
+PROCESSING_RUN_ID = str(uuid.uuid4())
+LAYER_TOPICS = {
+    "silver": "food-waste-silver",
+    "gold": "food-waste-gold",
+    "dashboard": "food-waste-dashboard",
 }
 
 MIN_COUNTRIES_RELIABLE_YEAR = 30
+
+RAW_RECORD_SCHEMA = StructType([
+    StructField("record_id", IntegerType(), True),
+    StructField("year", IntegerType(), True),
+    StructField("loss_percentage", DoubleType(), True),
+    StructField(
+        "country",
+        StructType([
+            StructField("m49_code", StringType(), True),
+            StructField("country_name", StringType(), True),
+        ]),
+        True,
+    ),
+    StructField(
+        "commodity",
+        StructType([
+            StructField("cpc_code", StringType(), True),
+            StructField("commodity_name", StringType(), True),
+        ]),
+        True,
+    ),
+    StructField(
+        "method",
+        StructType([
+            StructField("method_id", IntegerType(), True),
+            StructField("method_name", StringType(), True),
+        ]),
+        True,
+    ),
+    StructField(
+        "source",
+        StructType([
+            StructField("source_id", IntegerType(), True),
+            StructField("reference", StringType(), True),
+            StructField("url", StringType(), True),
+        ]),
+        True,
+    ),
+    StructField("activities", ArrayType(StringType()), True),
+])
 
 spark = SparkSession.builder.appName("food-waste-processing").getOrCreate()
 spark.conf.set("spark.sql.shuffle.partitions", "8")  # tiny data: default 200 is wasteful
@@ -55,22 +113,26 @@ spark.sparkContext.setLogLevel("WARN")
 # ----------------------------------------------------------------------------
 # Helpers
 # ----------------------------------------------------------------------------
-def read_csv(path):
-    """Read every column as string: keeps cpc_code like 0142 and m49_code like 004."""
-    return (
-        spark.read.option("header", True)
-        .option("multiLine", True)
-        .option("quote", '"')
-        .option("escape", '"')
-        .csv(path)
-    )
-
-
 def clean_strings(df):
     """Trim every column and turn empty strings into NULL."""
-    for c in df.columns:
-        df = df.withColumn(c, F.when(F.trim(F.col(c)) == "", None).otherwise(F.trim(F.col(c))))
+    for field in df.schema.fields:
+        if isinstance(field.dataType, StringType):
+            c = field.name
+            df = df.withColumn(c, F.when(F.trim(F.col(c)) == "", None).otherwise(F.trim(F.col(c))))
     return df
+
+
+def read_postgres_table(table_name):
+    """Read a PostgreSQL table through Spark JDBC (requires the PostgreSQL JDBC jar)."""
+    return (
+        spark.read.format("jdbc")
+        .option("url", PG_JDBC_URL)
+        .option("dbtable", table_name)
+        .option("user", PG_USER)
+        .option("password", PG_PASSWORD)
+        .option("driver", "org.postgresql.Driver")
+        .load()
+    )
 
 
 def pct(p, name):
@@ -90,14 +152,14 @@ def core_stats():
 
 
 def save(df, name):
-    """Write one gold table as CSV (and optionally to PostgreSQL)."""
+    """Write one gold table as CSV and optionally publish it to Kafka."""
     df = df.cache()
     n = df.count()
     df.coalesce(1).write.mode("overwrite").option("header", True).csv(f"{OUT}/gold/{name}")
     msg = f"   gold/{name:<28} {n:>6} rows"
-    if WRITE_TO_POSTGRES:
-        df.write.jdbc(url=PG_URL, table=f"gold_{name}", mode="overwrite", properties=PG_PROPS)
-        msg += "  -> PostgreSQL"
+    if WRITE_TO_KAFKA:
+        send_to_kafka(df, "gold", f"gold_{name}")
+        msg += "  -> Kafka"
     print(msg)
     df.unpersist()
 
@@ -120,29 +182,47 @@ def write_single_csv(df, name):
 
 
 # ============================================================================
-# KAFKA + POSTGRESQL FUNCTIONS
+# KAFKA FUNCTIONS
 # ============================================================================
 
 
 # 1. READ DATA FROM KAFKA
 def read_from_kafka(topic):
     return (
-        spark.readStream
+        spark.read
         .format("kafka")
         .option("kafka.bootstrap.servers", KAFKA_BOOTSTRAP)
         .option("subscribe", topic)
-        .option("startingOffsets", "latest")
+        .option("startingOffsets", "earliest")
+        .option("endingOffsets", "latest")
         .load()
-        .selectExpr("CAST(key AS STRING)", "CAST(value AS STRING)")
+        .selectExpr("CAST(value AS STRING) AS value")
     )
 
 
 # 2. SEND DATA TO KAFKA
-def send_to_kafka(df, topic):
+def send_to_kafka(df, layer, dataset_name):
+    topic = LAYER_TOPICS[layer]
+    record = F.struct(*[F.col(column) for column in df.columns])
+    metadata = F.struct(
+        F.lit(dataset_name).alias("dataset_name"),
+        F.lit(layer).alias("layer"),
+        F.lit(PROCESSING_RUN_ID).alias("run_id"),
+    )
+    key = (
+        F.col("record_id").cast("string")
+        if "record_id" in df.columns
+        else F.sha2(F.to_json(record), 256)
+    )
     (
-        df.selectExpr(
-            "CAST(record_id AS STRING) AS key",
-            "to_json(struct(*)) AS value"
+        df.select(
+            key.alias("key"),
+            F.to_json(
+                F.struct(
+                    metadata.alias("metadata"),
+                    record.alias("record"),
+                )
+            ).alias("value"),
         )
         .write
         .format("kafka")
@@ -152,53 +232,34 @@ def send_to_kafka(df, topic):
     )
 
 
-# 3. READ DATA FROM POSTGRESQL
-def read_from_db(table):
-    return spark.read.jdbc(
-        url=PG_URL,
-        table=table,
-        properties=PG_PROPS
-    )
-
-
-# 4. SEND DATA TO POSTGRESQL
-def send_to_db(df, table):
-    (
-        df.write
-        .jdbc(
-            url=PG_URL,
-            table=table,
-            mode="append",
-            properties=PG_PROPS
-        )
-    )
-
-
-# ============================================================================
-# EXAMPLE USAGE
-# ============================================================================
-
-# # Read reference data from PostgreSQL
-# country_lookup = read_from_db("food_waste.country_lookup")
-
-# # Read incoming records from Kafka
-# kafka_data = read_from_kafka("food-waste-cleaned")
-
-# # After processing, send results to Kafka and PostgreSQL
-# # Use these inside foreachBatch for streaming data:
-# #
-# # def process_batch(batch_df, batch_id):
-# #     processed_df = your_processing_logic(batch_df)
-# #     send_to_kafka(processed_df, "food-waste-processed")
-# #     send_to_db(processed_df, "analytics.food_loss_observations")
-
-
-
 # ----------------------------------------------------------------------------
 # 1. READ + TYPE + VALIDATE
 # ----------------------------------------------------------------------------
 print("[1/5] Reading and validating...")
-raw = clean_strings(read_csv(FOOD_CSV))
+parsed_records = read_from_kafka(RAW_TOPIC).select(
+    F.from_json(F.col("value"), RAW_RECORD_SCHEMA).alias("record")
+).cache()
+activities = parsed_records.select(
+    F.col("record.record_id").alias("record_id"),
+    F.explode(F.col("record.activities")).alias("activity"),
+)
+raw = parsed_records.select(
+    F.col("record.record_id").alias("record_id"),
+    F.col("record.year").alias("year"),
+    F.col("record.loss_percentage").alias("loss_percentage"),
+    F.col("record.country.m49_code").alias("m49_code"),
+    F.col("record.country.country_name").alias("country"),
+    F.col("record.commodity.cpc_code").alias("cpc_code"),
+    F.col("record.commodity.commodity_name").alias("commodity"),
+    F.col("record.method.method_name").alias("method_data_collection"),
+    F.col("record.source.reference").alias("reference"),
+    F.get(F.col("record.activities"), 0).alias("activity"),
+    F.when(
+        F.col("record.activities").isNull(),
+        F.lit(0),
+    ).otherwise(F.size(F.col("record.activities"))).alias("activity_count"),
+)
+raw = clean_strings(raw)
 n_raw = raw.count()
 
 typed = (
@@ -241,7 +302,9 @@ valid = (
 # 2. SILVER: enrich with the columns the dashboard questions need
 # ----------------------------------------------------------------------------
 print("[2/5] Building silver...")
-continent_lookup = clean_strings(read_csv(CONT_CSV)).select(
+continent_lookup = clean_strings(
+    read_postgres_table("food_waste.country_continent")
+).select(
     F.regexp_replace("m49_code", r"^0+", "").alias("m49_key"), F.col("continent")
 )
 
@@ -316,12 +379,16 @@ silver = enriched.filter(F.col("continent").isNotNull()).select(
 n_silver = silver.count()
 assert n_silver == n_raw - n_rejected - n_unmapped, "rows were lost while building silver"
 silver.write.mode("overwrite").parquet(f"{OUT}/silver/observation")
+if WRITE_TO_KAFKA:
+    send_to_kafka(silver, "silver", "silver_observation")
 print(f"   silver/observation: {n_silver} rows")
 
 # one row per record x activity, with the supply chain stage
-stage_map = clean_strings(read_csv(STAGE_CSV))
+stage_map = clean_strings(
+    read_postgres_table("food_waste.activity_stage_map")
+)
 activities = (
-    clean_strings(read_csv(ACT_CSV))
+    clean_strings(activities)
     .withColumn("record_id", F.col("record_id").cast("int"))
     .join(F.broadcast(stage_map), F.col("activity") == F.col("activity_name"), "left")
     .drop("activity_name")
@@ -342,6 +409,8 @@ unmapped_act = (
 if unmapped_act:
     print(f"   WARNING: {unmapped_act} activity labels have no stage mapping")
 silver_act.write.mode("overwrite").parquet(f"{OUT}/silver/observation_activity")
+if WRITE_TO_KAFKA:
+    send_to_kafka(silver_act, "silver", "silver_observation_activity")
 print(f"   silver/observation_activity: {silver_act.count()} rows")
 
 # a record counts once per stage (two activities of one stage must not double count)
@@ -396,10 +465,30 @@ yearly = (
 )
 save(yearly, "yearly")
 
-w_year = Window.orderBy("year")
-yearly_trend = yearly.filter("is_reliable_year").withColumn(
-    "change_vs_previous_reliable_year",
-    F.round(F.col("median_loss_pct") - F.lag("median_loss_pct").over(w_year), 2),
+reliable_years = yearly.filter(F.col("is_reliable_year"))
+current_year = reliable_years.alias("current_year")
+previous_years = reliable_years.select(
+    F.col("year").alias("previous_year"),
+    F.col("median_loss_pct").alias("previous_median_loss_pct"),
+).alias("previous_years")
+yearly_trend = (
+    current_year.join(
+        previous_years,
+        F.col("previous_years.previous_year") < F.col("current_year.year"),
+        "left",
+    )
+    .groupBy(*[F.col(f"current_year.{column}") for column in yearly.columns])
+    .agg(
+        F.max_by(
+            F.col("previous_years.previous_median_loss_pct"),
+            F.col("previous_years.previous_year"),
+        ).alias("_previous_median_loss_pct")
+    )
+    .withColumn(
+        "change_vs_previous_reliable_year",
+        F.round(F.col("median_loss_pct") - F.col("_previous_median_loss_pct"), 2),
+    )
+    .drop("_previous_median_loss_pct")
 )
 save(yearly_trend, "yearly_trend")
 
@@ -632,9 +721,15 @@ assert dashboard.count() == grouped.count(), "the stage / year joins changed the
 assert dashboard.agg(F.sum("count")).first()[0] == n_silver, "some rows were lost in the dashboard table"
 n_no_stage = dashboard.filter(F.col("stage_group") == "Unmapped activity").count()
 if n_no_stage:
-    print(f"   WARNING: {n_no_stage} dashboard rows have an activity that is not in activity_stage_map.csv")
+    print(f"   WARNING: {n_no_stage} dashboard rows have an activity without a row in food_waste.activity_stage_map")
 save(dashboard, "dashboard_grouped")
 write_single_csv(dashboard, "food_waste_dashboard")
+if WRITE_TO_KAFKA:
+    send_to_kafka(
+        dashboard,
+        "dashboard",
+        "dashboard_food_waste_dashboard",
+    )
 
 # ----------------------------------------------------------------------------
 # --- Additional analytical outputs ------------------------------------------
@@ -688,7 +783,26 @@ save(crop_stage_hotspots, "crop_stage_hotspots")
 
 # 7. Observation profile by distinct activity count.
 activity_counts = silver_act.filter(F.col("activity").isNotNull()).groupBy("record_id").agg(F.countDistinct("activity").alias("activity_count"))
-activity_count_profile = (silver.select("record_id").distinct().join(activity_counts, "record_id", "left").fillna({"activity_count": 0}).groupBy("activity_count").agg(F.count("*").alias("observations")).withColumn("percentage", F.round(100 * F.col("observations") / F.sum("observations").over(Window.partitionBy()), 2)).orderBy("activity_count"))
+activity_count_profile = (
+    silver.select("record_id")
+    .distinct()
+    .join(activity_counts, "record_id", "left")
+    .fillna({"activity_count": 0})
+    .groupBy("activity_count")
+    .agg(F.count("*").alias("observations"))
+)
+activity_total = activity_count_profile.agg(
+    F.sum("observations").alias("total_observations")
+)
+activity_count_profile = (
+    activity_count_profile.crossJoin(activity_total)
+    .withColumn(
+        "percentage",
+        F.round(100 * F.col("observations") / F.col("total_observations"), 2),
+    )
+    .drop("total_observations")
+    .orderBy("activity_count")
+)
 save(activity_count_profile, "activity_count_profile")
 
 # 8. Top five crops per country with at least five records.

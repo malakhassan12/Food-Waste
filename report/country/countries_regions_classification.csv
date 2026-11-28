@@ -36,7 +36,7 @@ Chad,148,chad,148,Country / Area
 Europe,150,europe,150,Region
 Chile,152,chile,152,Country / Area
 China,156,china,156,Country / Area
-"China,Taiwan",158,"china,taiwan",158,Country / Area
+"Taiwan, Province of China",158,"taiwan, province of china",158,Country / Area
 Colombia,170,colombia,170,Country / Area
 Democratic Republic of the Congo,180,democratic republic of the congo,180,Country / Area
 Costa Rica,188,costa rica,188,Country / Area
@@ -149,7 +149,7 @@ Uganda,800,uganda,800,Country / Area
 Ukraine,804,ukraine,804,Country / Area
 The former Yugoslav Republic of Macedonia,807,the former yugoslav republic of macedonia,807,Country / Area
 Egypt,818,egypt,818,Country / Area
-United Kingdom,826,united kingdom,826,Country / Area
+United Kingdom of Great Britain and Northern Ireland,826,united kingdom of great britain and northern ireland,826,Country / Area
 United Republic of Tanzania,834,united republic of tanzania,834,Country / Area
 United States of America,840,united states of america,840,Country / Area
 Burkina Faso,854,burkina faso,854,Country / Area

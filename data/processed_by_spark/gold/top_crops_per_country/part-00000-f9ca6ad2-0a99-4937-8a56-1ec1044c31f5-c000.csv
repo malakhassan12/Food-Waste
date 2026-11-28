@@ -1,0 +1,410 @@
+country,m49_code,continent,commodity,product_group,records,avg_loss,median_loss,p90_loss,first_year,last_year,crop_rank
+Afghanistan,4,Asia,Wheat,Cereals,17,14.32,15.0,15.15,2000,2017,1
+Angola,24,Africa,Wheat,Cereals,132,3.03,3.0,5.75,2000,2021,1
+Angola,24,Africa,Sorghum,Cereals,132,2.7,2.74,4.47,2000,2021,2
+Angola,24,Africa,Maize (corn),Cereals,154,3.12,2.65,5.86,2000,2021,3
+Angola,24,Africa,Millet,Cereals,154,1.83,1.75,3.43,2000,2021,4
+Angola,24,Africa,Rice,Cereals,154,2.01,1.3,4.4,2000,2021,5
+Argentina,32,Americas,Soya beans,Oilseeds,13,0.5,0.25,1.26,2019,2019,1
+Armenia,51,Asia,Potatoes,Roots and tubers,24,12.0,13.0,19.2,2001,2017,1
+Armenia,51,Asia,Apples,Fruits and nuts,14,11.55,8.75,21.9,2009,2017,2
+Armenia,51,Asia,Barley,Cereals,9,8.62,8.12,10.27,2009,2017,3
+Armenia,51,Asia,Maize (corn),Cereals,10,7.86,7.98,8.3,2008,2017,4
+Armenia,51,Asia,Tomatoes,Vegetables,10,11.1,7.0,26.1,2009,2013,5
+Australia,36,Oceania,Cauliflowers and broccoli,Vegetables,9,23.56,24.0,42.6,2013,2015,1
+Australia,36,Oceania,Lettuce and chicory,Vegetables,9,15.67,14.0,23.6,2013,2015,2
+Australia,36,Oceania,Tomatoes,Vegetables,5,18.86,10.8,39.68,2017,2017,3
+Austria,40,Europe,Plums and sloes,Fruits and nuts,8,27.33,25.8,35.32,2000,2007,1
+Austria,40,Europe,Pears,Fruits and nuts,14,18.63,18.34,25.47,2000,2013,2
+Austria,40,Europe,Apples,Fruits and nuts,14,15.93,16.56,23.35,2000,2013,3
+Austria,40,Europe,Strawberries,Fruits and nuts,8,10.51,9.69,14.65,2000,2013,4
+Austria,40,Europe,Potatoes,Roots and tubers,18,7.64,7.0,10.8,2000,2017,5
+Azerbaijan,31,Asia,Watermelons,Vegetables,7,8.96,8.88,9.44,2007,2013,1
+Azerbaijan,31,Asia,Rice,Cereals,11,8.34,8.02,12.12,2007,2017,2
+Azerbaijan,31,Asia,Oats,Cereals,10,7.74,6.76,9.41,2014,2020,3
+Azerbaijan,31,Asia,Tomatoes,Vegetables,6,5.69,5.69,5.7,2015,2020,4
+Azerbaijan,31,Asia,"Onions and shallots, green",Vegetables,6,6.44,5.37,8.89,2015,2020,5
+Bangladesh,50,Asia,Papayas,Fruits and nuts,10,15.96,12.2,39.9,2008,2010,1
+Bangladesh,50,Asia,Pineapples,Fruits and nuts,10,17.2,11.55,43.0,2008,2010,2
+Bangladesh,50,Asia,Cauliflowers and broccoli,Vegetables,9,11.47,10.3,15.44,2010,2010,3
+Bangladesh,50,Asia,Okra,Vegetables,13,10.12,9.4,10.62,2010,2010,4
+Bangladesh,50,Asia,Tomatoes,Vegetables,25,11.51,8.9,24.26,2010,2019,5
+Belarus,112,Europe,Raw milk of cattle,Live animals and animal products,8,0.02,0.02,0.03,2000,2007,1
+Belgium,56,Europe,Potatoes,Roots and tubers,6,10.13,11.91,13.78,2002,2007,1
+Benin,204,Africa,"Mangoes, guavas and mangosteens",Fruits and nuts,6,41.48,44.45,49.75,2005,2015,1
+Benin,204,Africa,Tomatoes,Vegetables,15,27.64,27.2,30.32,2009,2015,2
+Benin,204,Africa,Oranges,Fruits and nuts,14,22.6,17.85,39.49,2009,2010,3
+Benin,204,Africa,"Pepper (Piper spp.), raw",Spice and stimulant crops,10,10.22,9.75,15.3,2009,2010,4
+Benin,204,Africa,Maize (corn),Cereals,158,3.7,2.65,6.42,2000,2021,5
+Bolivia,68,Americas,Rice,Cereals,6,4.67,5.0,7.0,2007,2013,1
+Botswana,72,Africa,Maize (corn),Cereals,154,3.0,2.65,4.94,2000,2021,1
+Botswana,72,Africa,Sorghum,Cereals,132,2.31,2.17,3.6,2000,2021,2
+Botswana,72,Africa,Millet,Cereals,132,2.06,2.0,3.35,2000,2021,3
+Burkina Faso,854,Africa,Maize (corn),Cereals,165,3.94,2.65,6.42,2000,2021,1
+Burkina Faso,854,Africa,Fonio,Cereals,154,2.46,2.5,3.5,2000,2021,2
+Burkina Faso,854,Africa,Rice,Cereals,154,2.16,2.5,4.4,2000,2021,2
+Burkina Faso,854,Africa,Sorghum,Cereals,136,2.57,2.17,4.55,2000,2021,3
+Burkina Faso,854,Africa,Millet,Cereals,154,1.98,2.0,3.5,2000,2021,4
+Burundi,108,Africa,Wheat,Cereals,89,3.94,4.43,4.87,2000,2021,1
+Burundi,108,Africa,Maize (corn),Cereals,111,4.0,4.0,6.42,2000,2021,2
+Burundi,108,Africa,Sorghum,Cereals,88,3.25,3.15,4.55,2000,2021,3
+Burundi,108,Africa,Rice,Cereals,111,2.58,2.5,4.4,2000,2021,4
+Burundi,108,Africa,Millet,Cereals,110,2.33,2.5,3.5,2000,2021,5
+Cambodia,116,Asia,Tomatoes,Vegetables,19,8.51,6.0,24.52,2005,2015,1
+Cambodia,116,Asia,Cucumbers and gherkins,Vegetables,14,6.91,5.0,16.0,2005,2008,2
+Cambodia,116,Asia,Cauliflowers and broccoli,Vegetables,14,5.81,4.0,13.0,2005,2008,3
+Cameroon,120,Africa,Bananas,Fruits and nuts,6,17.08,11.75,34.0,2017,2020,1
+Cameroon,120,Africa,Maize (corn),Cereals,110,4.08,4.0,6.42,2000,2021,2
+Cameroon,120,Africa,Rice,Cereals,110,2.34,2.5,4.4,2000,2021,3
+Cameroon,120,Africa,Millet,Cereals,110,1.92,2.0,3.5,2000,2021,4
+Canada,124,Americas,Leeks and other alliaceous vegetables,Vegetables,8,14.13,14.13,14.73,2000,2007,1
+Canada,124,Americas,Cabbages,Vegetables,8,11.97,12.21,12.67,2000,2007,2
+Canada,124,Americas,Watermelons,Vegetables,8,9.8,9.8,9.8,2000,2007,3
+Canada,124,Americas,Cantaloupes and other melons,Vegetables,8,8.85,9.72,9.82,2000,2007,4
+Canada,124,Americas,"Other fruits, n.e.c.",Fruits and nuts,8,10.03,9.35,13.68,2000,2007,5
+Chad,148,Africa,Wheat,Cereals,91,3.55,3.5,4.43,2000,2021,1
+Chad,148,Africa,Sorghum,Cereals,88,2.93,2.88,4.55,2000,2021,2
+Chad,148,Africa,Rice,Cereals,110,2.41,2.5,4.4,2000,2021,3
+Chad,148,Africa,Maize (corn),Cereals,114,3.6,2.4,6.42,2000,2021,4
+Chad,148,Africa,Millet,Cereals,114,2.21,2.0,3.5,2000,2021,5
+China,156,Asia,Cabbages,Vegetables,46,9.7,5.25,23.6,2001,2001,1
+China,156,Asia,Mixed grain,Cereals,5,4.93,5.0,7.96,2012,2014,2
+China,156,Asia,Potatoes,Roots and tubers,7,7.36,3.0,20.0,2009,2016,3
+China,156,Asia,Cauliflowers and broccoli,Vegetables,6,4.25,2.75,9.25,2001,2001,4
+China,156,Asia,"Onions and shallots, green",Vegetables,7,9.18,2.5,23.0,2001,2001,5
+Cuba,192,Americas,Pineapples,Fruits and nuts,7,9.05,10.03,10.1,2002,2011,1
+Cuba,192,Americas,Lemons and limes,Fruits and nuts,6,9.97,9.99,10.06,2002,2007,2
+Cuba,192,Americas,"Onions and shallots, dry (excluding dehydrated)",Vegetables,6,9.94,9.93,10.0,2002,2007,3
+Cuba,192,Americas,Tomatoes,Vegetables,8,6.96,8.85,10.0,2002,2011,4
+Cuba,192,Americas,Bananas,Fruits and nuts,7,10.33,8.69,14.99,2002,2011,5
+DR Congo,180,Africa,Maize (corn),Cereals,155,3.4,2.65,6.42,2000,2021,1
+DR Congo,180,Africa,Rice,Cereals,156,2.42,2.5,4.4,2000,2021,2
+DR Congo,180,Africa,Millet,Cereals,110,2.33,2.5,3.5,2000,2021,3
+Denmark,208,Europe,"Onions and shallots, green",Vegetables,9,17.22,21.0,25.4,2011,2017,1
+Denmark,208,Europe,Potatoes,Roots and tubers,12,14.8,15.0,15.94,2000,2011,2
+Denmark,208,Europe,"Peas, green",Vegetables,5,11.8,14.0,17.6,2017,2017,3
+Denmark,208,Europe,Barley,Cereals,21,3.17,3.01,4.0,2000,2017,4
+Denmark,208,Europe,Rye,Cereals,18,3.01,3.01,3.17,2000,2017,5
+Ecuador,218,Americas,"Beans, dry",Pulses,5,8.16,8.72,10.0,2001,2013,1
+Ecuador,218,Americas,Maize (corn),Cereals,6,10.54,7.15,20.0,2000,2013,2
+Ecuador,218,Americas,Rice,Cereals,8,4.37,4.43,5.14,2000,2008,3
+Ecuador,218,Americas,Potatoes,Roots and tubers,10,5.96,3.17,12.59,2016,2017,4
+Ecuador,218,Americas,Plantains and cooking bananas,Fruits and nuts,5,2.46,2.48,3.36,2002,2008,5
+Egypt,818,Africa,Tomatoes,Vegetables,10,18.45,11.48,40.3,2013,2026,1
+Egypt,818,Africa,Wheat,Cereals,47,7.19,7.51,12.35,2011,2021,2
+Eritrea,232,Africa,Maize (corn),Cereals,110,3.69,4.0,6.42,2000,2021,1
+Eritrea,232,Africa,Sorghum,Cereals,90,3.23,3.6,4.55,2000,2021,2
+Eritrea,232,Africa,Wheat,Cereals,88,3.38,3.3,4.43,2000,2021,3
+Eritrea,232,Africa,Barley,Cereals,88,2.53,3.0,3.5,2000,2021,4
+Eritrea,232,Africa,Millet,Cereals,88,2.18,2.25,3.5,2000,2021,5
+Estonia,233,Europe,Rye,Cereals,17,1.5,1.39,2.54,2000,2016,1
+Estonia,233,Europe,Barley,Cereals,17,0.66,0.61,1.18,2000,2016,2
+Eswatini,748,Africa,Maize (corn),Cereals,155,3.07,2.65,6.42,2000,2021,1
+Ethiopia,231,Africa,Papayas,Fruits and nuts,9,22.17,19.0,38.86,2013,2022,1
+Ethiopia,231,Africa,Bananas,Fruits and nuts,10,20.45,17.39,40.5,2012,2020,2
+Ethiopia,231,Africa,Mixed grain,Cereals,19,13.43,13.2,23.0,2007,2014,3
+Ethiopia,231,Africa,Avocados,Fruits and nuts,10,12.1,4.5,29.7,2013,2022,4
+Ethiopia,231,Africa,Potatoes,Roots and tubers,7,11.99,3.98,31.03,2013,2019,5
+Fiji,242,Oceania,Tomatoes,Vegetables,6,7.2,7.33,11.1,2012,2012,1
+Finland,246,Europe,Carrots and turnips,Vegetables,6,17.57,20.5,26.0,2011,2017,1
+Finland,246,Europe,"Peas, green",Vegetables,5,14.7,17.0,17.36,2011,2017,2
+Finland,246,Europe,Wheat,Cereals,5,9.13,14.0,14.0,2011,2017,3
+Finland,246,Europe,Raw milk of cattle,Live animals and animal products,6,4.25,1.75,10.5,2010,2013,4
+France,250,Europe,Potatoes,Roots and tubers,6,17.66,18.02,21.63,2005,2010,1
+France,250,Europe,Tomatoes,Vegetables,11,14.64,17.0,18.25,2000,2010,2
+France,250,Europe,Rice,Cereals,13,1.05,0.95,1.23,2000,2015,3
+France,250,Europe,Wheat,Cereals,18,1.02,0.9,1.25,2000,2015,4
+France,250,Europe,Maize (corn),Cereals,15,1.14,0.88,1.3,2000,2015,5
+Gambia,270,Africa,Maize (corn),Cereals,110,3.87,4.0,6.42,2000,2021,1
+Gambia,270,Africa,Sorghum,Cereals,88,3.25,3.15,4.55,2000,2021,2
+Gambia,270,Africa,Millet,Cereals,111,2.43,2.5,3.5,2000,2021,3
+Gambia,270,Africa,Fonio,Cereals,110,2.46,2.5,3.5,2000,2021,4
+Gambia,270,Africa,Rice,Cereals,110,2.5,2.5,4.4,2000,2021,4
+Georgia,268,Asia,Maize (corn),Cereals,18,4.72,4.69,5.87,2000,2017,1
+Georgia,268,Asia,Grapes,Fruits and nuts,15,3.36,3.33,3.92,2000,2014,2
+Georgia,268,Asia,Wheat,Cereals,17,2.92,2.91,3.93,2000,2017,3
+Georgia,268,Asia,Potatoes,Roots and tubers,18,2.48,1.92,4.35,2000,2017,4
+Germany,276,Europe,"Rice, Milled (Husked)",Grain mill and other food products,6,3.38,3.37,3.64,2000,2005,1
+Germany,276,Europe,Oats,Cereals,14,3.18,3.12,3.46,2004,2017,2
+Germany,276,Europe,Maize (corn),Cereals,18,2.98,2.99,3.36,2000,2017,3
+Germany,276,Europe,"Rice, Broken",Grain mill and other food products,6,2.46,2.86,3.27,2000,2005,4
+Germany,276,Europe,Rye,Cereals,19,2.73,2.62,3.18,2000,2022,5
+Ghana,288,Africa,Cabbages,Vegetables,14,26.9,28.48,42.9,2009,2010,1
+Ghana,288,Africa,Tomatoes,Vegetables,71,15.66,14.2,32.1,2006,2018,2
+Ghana,288,Africa,Eggplants (aubergines),Vegetables,13,12.13,11.3,19.0,2009,2012,3
+Ghana,288,Africa,"Cow peas, dry",Pulses,7,14.3,10.6,27.0,2006,2017,4
+Ghana,288,Africa,Pineapples,Fruits and nuts,18,12.19,9.71,27.56,2007,2010,5
+Guatemala,320,Americas,Avocados,Fruits and nuts,9,19.49,20.0,20.0,2006,2016,1
+Guatemala,320,Americas,Pineapples,Fruits and nuts,6,19.49,20.0,20.0,2009,2016,2
+Guatemala,320,Americas,Maize (corn),Cereals,10,17.91,17.58,43.25,2012,2017,3
+Guatemala,320,Americas,"Beans, dry",Pulses,18,11.06,15.06,17.81,2005,2017,4
+Guatemala,320,Americas,Tomatoes,Vegetables,9,12.57,11.8,15.0,2006,2016,5
+Guinea,324,Africa,Maize (corn),Cereals,110,3.87,4.0,6.42,2000,2021,1
+Guinea,324,Africa,Sorghum,Cereals,88,3.25,3.15,4.55,2000,2021,2
+Guinea,324,Africa,Fonio,Cereals,110,2.46,2.5,3.5,2000,2021,3
+Guinea,324,Africa,Rice,Cereals,110,2.5,2.5,4.4,2000,2021,3
+Guinea-Bissau,624,Africa,Maize (corn),Cereals,110,3.87,4.0,6.42,2000,2021,1
+Guinea-Bissau,624,Africa,Sorghum,Cereals,88,3.25,3.15,4.55,2000,2021,2
+Guinea-Bissau,624,Africa,Fonio,Cereals,110,2.46,2.5,3.5,2000,2021,3
+Guinea-Bissau,624,Africa,Millet,Cereals,110,2.33,2.5,3.5,2000,2021,3
+Guinea-Bissau,624,Africa,Rice,Cereals,110,2.5,2.5,4.4,2000,2021,3
+Honduras,340,Americas,"Beans, dry",Pulses,5,12.38,13.01,22.53,2016,2017,1
+Honduras,340,Americas,Maize (corn),Cereals,9,9.61,8.1,20.04,2016,2020,2
+Hungary,348,Europe,Potatoes,Roots and tubers,12,3.31,3.42,3.83,2000,2011,1
+Hungary,348,Europe,Watermelons,Vegetables,5,3.21,2.31,5.22,2001,2005,2
+Hungary,348,Europe,Cantaloupes and other melons,Vegetables,6,2.07,1.84,3.24,2000,2005,3
+Hungary,348,Europe,Maize (corn),Cereals,18,1.52,1.51,2.53,2000,2017,4
+Hungary,348,Europe,Wheat,Cereals,17,1.37,1.44,1.99,2000,2017,5
+India,356,Asia,Eggplants (aubergines),Vegetables,17,10.31,6.0,17.68,2009,2022,1
+India,356,Asia,Tomatoes,Vegetables,77,7.15,4.62,15.76,2002,2022,2
+India,356,Asia,Okra,Vegetables,21,6.03,4.25,10.55,2009,2010,3
+India,356,Asia,"Mangoes, guavas and mangosteens",Fruits and nuts,64,5.35,3.89,14.4,2006,2016,4
+India,356,Asia,Other pulses n.e.c.,Pulses,14,5.0,3.87,10.11,2016,2016,5
+Indonesia,360,Asia,Cabbages,Vegetables,18,19.76,16.25,40.1,2023,2023,1
+Indonesia,360,Asia,Bananas,Fruits and nuts,6,8.65,6.6,17.03,2022,2022,2
+Indonesia,360,Asia,"Onions and shallots, green",Vegetables,13,5.21,4.0,9.34,2022,2023,3
+Indonesia,360,Asia,Rice,Cereals,58,5.25,2.41,16.12,2002,2025,4
+Indonesia,360,Asia,"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw",Spice and stimulant crops,18,2.88,2.17,7.45,2022,2023,5
+Iran,364,Asia,Grapes,Fruits and nuts,16,8.39,6.0,16.55,2001,2015,1
+Iran,364,Asia,Figs,Fruits and nuts,10,7.1,5.5,16.0,2001,2001,2
+Iran,364,Asia,Pears,Fruits and nuts,6,7.33,5.0,14.25,2001,2001,3
+Iran,364,Asia,Cherries,Fruits and nuts,10,5.9,4.0,15.5,2001,2001,4
+Iran,364,Asia,Other stone fruits,Fruits and nuts,5,6.2,4.0,11.0,2001,2001,5
+Ireland,372,Europe,Wheat,Cereals,13,3.89,3.5,5.51,2000,2012,1
+Ireland,372,Europe,Barley,Cereals,13,3.07,2.64,4.39,2000,2012,2
+Ireland,372,Europe,Oats,Cereals,12,2.76,2.48,3.93,2000,2011,3
+Italy,380,Europe,Other cereals n.e.c.,Cereals,5,0.0,0.0,0.0,2000,2004,1
+Italy,380,Europe,Rye,Cereals,5,0.0,0.0,0.0,2000,2004,1
+Ivory Coast,384,Africa,Maize (corn),Cereals,110,3.87,4.0,6.42,2000,2021,1
+Ivory Coast,384,Africa,Sorghum,Cereals,88,3.25,3.15,4.55,2000,2021,2
+Ivory Coast,384,Africa,Millet,Cereals,110,2.33,2.5,3.5,2000,2021,3
+Ivory Coast,384,Africa,Rice,Cereals,110,2.5,2.5,4.4,2000,2021,3
+Japan,392,Asia,Potatoes,Roots and tubers,18,7.41,7.28,8.56,2000,2017,1
+Japan,392,Asia,"Meat of cattle with the bone, fresh or chilled","Meat, fish, fruit and vegetable products",16,5.18,4.8,6.31,2000,2017,2
+Japan,392,Asia,"Meat of pig with the bone, fresh or chilled","Meat, fish, fruit and vegetable products",13,3.8,3.78,3.98,2000,2017,3
+Japan,392,Asia,Wheat,Cereals,18,2.57,2.55,2.72,2000,2017,4
+Japan,392,Asia,Husked rice,Grain mill and other food products,14,2.05,2.01,2.21,2000,2013,5
+Jordan,400,Asia,Potatoes,Roots and tubers,5,11.12,12.49,16.01,2009,2013,1
+Jordan,400,Asia,Barley,Cereals,9,5.12,5.22,5.38,2002,2011,2
+Jordan,400,Asia,Wheat,Cereals,16,5.79,3.03,12.02,2002,2022,3
+Jordan,400,Asia,Sesame seed,Oilseeds,7,2.72,2.68,3.12,2005,2011,4
+Jordan,400,Asia,Maize (corn),Cereals,7,3.54,1.53,9.15,2019,2019,5
+Kazakhstan,398,Asia,"Hen eggs in shell, fresh",Live animals and animal products,11,9.94,10.43,11.63,2000,2011,1
+Kazakhstan,398,Asia,Potatoes,Roots and tubers,21,12.25,10.0,22.44,2000,2016,2
+Kazakhstan,398,Asia,"Meat of cattle with the bone, fresh or chilled","Meat, fish, fruit and vegetable products",13,3.46,3.71,4.35,2000,2012,3
+Kazakhstan,398,Asia,Sunflower seed,Oilseeds,16,2.52,2.48,2.91,2000,2016,4
+Kazakhstan,398,Asia,Sugar beet,Sugar crops,16,2.3,1.92,3.19,2000,2016,5
+Kenya,404,Africa,"Mangoes, guavas and mangosteens",Fruits and nuts,12,17.33,14.0,34.0,2010,2021,1
+Kenya,404,Africa,Bananas,Fruits and nuts,16,17.08,10.6,36.0,2010,2015,2
+Kenya,404,Africa,Potatoes,Roots and tubers,40,10.2,7.65,25.0,2012,2021,3
+Kenya,404,Africa,Avocados,Fruits and nuts,6,8.33,6.0,15.0,2021,2021,4
+Kenya,404,Africa,Maize (corn),Cereals,289,5.36,2.65,13.22,2000,2021,5
+Kyrgyzstan,417,Asia,Potatoes,Roots and tubers,9,3.78,4.61,4.74,2004,2013,1
+Lesotho,426,Africa,Wheat,Cereals,79,3.31,3.5,4.43,2000,2021,1
+Lesotho,426,Africa,Sorghum,Cereals,88,3.02,2.88,4.55,2000,2021,2
+Lesotho,426,Africa,Maize (corn),Cereals,154,3.01,2.65,6.42,2000,2021,3
+Liberia,430,Africa,Rice,Cereals,223,4.05,2.5,8.08,2000,2024,1
+Lithuania,440,Europe,Potatoes,Roots and tubers,18,6.98,6.7,9.57,2000,2017,1
+Lithuania,440,Europe,Barley,Cereals,17,2.26,2.21,3.0,2001,2017,2
+Lithuania,440,Europe,Wheat,Cereals,19,1.63,1.48,3.0,2000,2022,3
+Lithuania,440,Europe,"Hen eggs in shell, fresh",Live animals and animal products,8,0.03,0.02,0.04,2000,2007,4
+Madagascar,450,Africa,Maize (corn),Cereals,112,3.75,4.0,6.42,2000,2021,1
+Madagascar,450,Africa,Rice,Cereals,111,2.38,2.5,4.4,2000,2021,2
+Malawi,454,Africa,"Groundnuts, excluding shelled",Oilseeds,8,9.38,8.5,14.3,2015,2015,1
+Malawi,454,Africa,Maize (corn),Cereals,182,4.47,2.65,8.5,2000,2021,2
+Malawi,454,Africa,Sorghum,Cereals,134,2.57,2.65,4.55,2000,2021,3
+Malawi,454,Africa,Wheat,Cereals,132,2.74,2.65,4.43,2000,2021,4
+Malawi,454,Africa,Millet,Cereals,154,2.13,2.5,3.5,2000,2021,5
+Malawi,454,Africa,Rice,Cereals,154,2.21,2.5,4.4,2000,2021,5
+Malaysia,458,Asia,Rice,Cereals,10,5.6,6.0,9.0,2007,2010,1
+Mali,466,Africa,Sorghum,Cereals,91,3.35,3.6,4.55,2000,2021,1
+Mali,466,Africa,Wheat,Cereals,91,3.14,3.5,4.43,2000,2021,2
+Mali,466,Africa,Rice,Cereals,113,2.44,2.5,4.4,2000,2021,3
+Mali,466,Africa,Fonio,Cereals,110,2.43,2.5,3.5,2000,2021,4
+Mali,466,Africa,Maize (corn),Cereals,113,3.63,2.46,6.42,2000,2021,5
+Mauritania,478,Africa,Maize (corn),Cereals,110,3.69,4.0,6.42,2000,2021,1
+Mauritania,478,Africa,Wheat,Cereals,88,3.38,3.3,4.43,2000,2021,2
+Mauritania,478,Africa,Sorghum,Cereals,88,3.2,3.04,4.55,2000,2021,3
+Mauritania,478,Africa,Rice,Cereals,110,2.28,2.5,4.4,2000,2021,4
+Mauritania,478,Africa,Millet,Cereals,88,2.28,2.25,3.5,2000,2021,5
+Mauritius,480,Africa,"Onions and shallots, dry (excluding dehydrated)",Vegetables,6,9.97,9.76,11.18,2006,2011,1
+Mauritius,480,Africa,Potatoes,Roots and tubers,8,4.77,4.43,5.51,2006,2013,2
+Mauritius,480,Africa,Tomatoes,Vegetables,6,2.77,2.53,3.3,2006,2011,3
+Mauritius,480,Africa,Carrots and turnips,Vegetables,6,2.1,2.07,2.22,2006,2011,4
+Mauritius,480,Africa,Cabbages,Vegetables,8,1.96,2.05,2.19,2004,2011,5
+Mexico,484,Americas,Tomatoes,Vegetables,5,15.69,13.9,24.43,2013,2016,1
+Mexico,484,Americas,Maize (corn),Cereals,20,6.53,6.1,10.04,2000,2016,2
+Mexico,484,Americas,Sorghum,Cereals,5,3.7,4.55,4.68,2011,2017,3
+Mexico,484,Americas,"Beans, dry",Pulses,9,7.27,4.05,15.63,2013,2017,4
+Morocco,504,Africa,Wheat,Cereals,41,4.41,1.6,13.5,2015,2018,1
+Mozambique,508,Africa,"Cassava, fresh",Roots and tubers,5,19.0,15.0,33.0,2015,2015,1
+Mozambique,508,Africa,Sorghum,Cereals,133,3.03,2.94,4.54,2000,2021,2
+Mozambique,508,Africa,Maize (corn),Cereals,175,4.7,2.65,9.88,2000,2021,3
+Mozambique,508,Africa,Millet,Cereals,144,2.01,2.0,3.5,2000,2021,4
+Mozambique,508,Africa,Rice,Cereals,159,2.37,1.3,4.4,2000,2021,5
+Myanmar,104,Asia,"Rice, milled",Grain mill and other food products,6,7.67,5.62,14.71,2015,2015,1
+Myanmar,104,Asia,"Groundnuts, excluding shelled",Oilseeds,7,5.24,5.22,5.5,2003,2009,2
+Namibia,516,Africa,Maize (corn),Cereals,154,2.96,2.65,5.09,2000,2021,1
+Namibia,516,Africa,Millet,Cereals,132,1.55,1.65,2.5,2000,2021,2
+Namibia,516,Africa,Sorghum,Cereals,66,1.68,1.3,2.75,2000,2021,3
+Nepal,524,Asia,Apples,Fruits and nuts,8,23.63,24.25,35.6,2000,2003,1
+Nepal,524,Asia,Tomatoes,Vegetables,9,15.18,14.0,27.16,2000,2005,2
+Nepal,524,Asia,Cabbages,Vegetables,6,15.85,12.05,30.12,2000,2015,3
+Nepal,524,Asia,Cauliflowers and broccoli,Vegetables,11,15.23,11.0,34.0,2000,2018,4
+Nepal,524,Asia,Carrots and turnips,Vegetables,7,12.95,10.0,24.8,2003,2019,5
+Netherlands,528,Europe,Triticale,Cereals,6,5.01,5.6,9.44,2000,2005,1
+Netherlands,528,Europe,Wheat,Cereals,13,1.94,2.04,2.3,2000,2022,2
+Netherlands,528,Europe,Barley,Cereals,11,0.92,0.91,1.29,2000,2011,3
+Netherlands,528,Europe,Rye,Cereals,6,0.72,0.71,1.44,2000,2005,4
+Netherlands,528,Europe,Maize (corn),Cereals,12,0.64,0.6,0.79,2000,2011,5
+Nicaragua,558,Americas,Maize (corn),Cereals,8,20.54,21.35,22.53,2000,2013,1
+Nicaragua,558,Americas,Rice,Cereals,8,4.01,2.62,6.71,2000,2013,2
+Nicaragua,558,Americas,Refined sugar,Grain mill and other food products,6,1.06,0.66,1.98,2000,2005,3
+Niger,562,Africa,Maize (corn),Cereals,111,3.76,4.0,6.42,2000,2021,1
+Niger,562,Africa,Sorghum,Cereals,89,3.28,3.6,4.55,2000,2021,2
+Niger,562,Africa,Rice,Cereals,110,2.28,2.5,4.4,2000,2021,3
+Niger,562,Africa,Millet,Cereals,89,2.39,2.5,3.5,2000,2021,4
+Nigeria,566,Africa,Tomatoes,Vegetables,13,21.73,20.0,28.0,2010,2019,1
+Nigeria,566,Africa,Yams,Roots and tubers,7,12.61,12.4,23.42,2010,2015,2
+Nigeria,566,Africa,"Cassava, dry",Roots and tubers,7,10.59,9.5,17.92,2014,2016,3
+Nigeria,566,Africa,"Cassava, fresh",Roots and tubers,40,5.8,4.95,9.73,2010,2016,4
+Nigeria,566,Africa,Maize (corn),Cereals,158,4.71,4.0,6.98,2000,2024,5
+Norway,578,Europe,"Onions and shallots, green",Vegetables,9,8.95,8.0,13.25,2011,2017,1
+Norway,578,Europe,Carrots and turnips,Vegetables,12,9.48,5.7,18.0,2011,2019,2
+Pakistan,586,Asia,Grapes,Fruits and nuts,6,10.1,5.85,21.04,2001,2011,1
+Pakistan,586,Asia,"Mangoes, guavas and mangosteens",Fruits and nuts,61,6.03,4.0,5.5,2005,2015,2
+Pakistan,586,Asia,Wheat,Cereals,35,5.64,3.67,11.08,2007,2021,3
+Pakistan,586,Asia,"Edible roots and tubers with high starch or inulin content, n.e.c., dry",Roots and tubers,5,3.19,2.5,6.2,2021,2021,4
+Pakistan,586,Asia,Sorghum,Cereals,15,1.88,1.57,2.95,2013,2013,5
+Palestine,275,Asia,Grapes,Fruits and nuts,35,9.5,6.14,17.0,2020,2020,1
+Palestine,275,Asia,Cucumbers and gherkins,Vegetables,8,6.66,4.93,12.75,2020,2020,2
+Panama,591,Americas,Lettuce and chicory,Vegetables,5,31.62,33.1,34.1,2013,2017,1
+Panama,591,Americas,Tomatoes,Vegetables,5,13.01,10.01,19.43,2013,2017,2
+Panama,591,Americas,Potatoes,Roots and tubers,18,10.78,10.0,10.0,2000,2017,3
+Panama,591,Americas,Pineapples,Fruits and nuts,10,7.32,6.46,10.21,2007,2017,4
+Panama,591,Americas,"Hen eggs in shell, fresh",Live animals and animal products,17,5.01,5.01,5.01,2000,2017,5
+Peru,604,Americas,Watermelons,Vegetables,8,43.88,45.5,46.23,2000,2007,1
+Peru,604,Americas,Cauliflowers and broccoli,Vegetables,8,36.27,36.3,36.3,2000,2007,2
+Peru,604,Americas,Leeks and other alliaceous vegetables,Vegetables,8,35.22,35.29,35.32,2000,2007,3
+Peru,604,Americas,"Coconuts, in shell",Oilseeds,8,35.0,35.0,35.0,2000,2007,4
+Peru,604,Americas,"Meat of sheep, fresh or chilled","Meat, fish, fruit and vegetable products",8,35.0,35.0,35.0,2000,2007,4
+Peru,604,Americas,Papayas,Fruits and nuts,7,33.74,33.7,33.81,2000,2006,5
+Philippines,608,Asia,Bananas,Fruits and nuts,5,12.96,16.5,19.03,2016,2022,1
+Philippines,608,Asia,Papayas,Fruits and nuts,7,14.29,13.0,23.62,2011,2016,2
+Philippines,608,Asia,"Mangoes, guavas and mangosteens",Fruits and nuts,38,8.34,7.0,16.37,2018,2018,3
+Philippines,608,Asia,Rice,Cereals,17,6.45,4.0,13.8,2000,2022,4
+Philippines,608,Asia,Tomatoes,Vegetables,10,6.66,3.88,14.06,2011,2018,5
+Poland,616,Europe,Potatoes,Roots and tubers,12,9.57,8.93,13.76,2000,2017,1
+Poland,616,Europe,Maize (corn),Cereals,9,3.46,3.84,4.14,2002,2022,2
+Poland,616,Europe,Triticale,Cereals,5,3.84,3.51,4.41,2002,2017,3
+Poland,616,Europe,Rye,Cereals,7,3.26,3.5,4.33,2002,2022,4
+Poland,616,Europe,Wheat,Cereals,6,3.17,3.09,4.69,2010,2022,5
+Portugal,620,Europe,Rye,Cereals,6,3.62,3.69,4.63,2000,2005,1
+Romania,642,Europe,Wheat,Cereals,7,0.36,0.2,0.75,2004,2017,1
+Russian Federation,643,Europe,Potatoes,Roots and tubers,18,4.69,4.4,6.35,2000,2017,1
+Russian Federation,643,Europe,"Hen eggs in shell, fresh",Live animals and animal products,14,0.16,0.17,0.23,2000,2013,2
+Russian Federation,643,Europe,Raw milk of cattle,Live animals and animal products,14,0.08,0.08,0.1,2000,2013,3
+Rwanda,646,Africa,Bananas,Fruits and nuts,14,18.94,16.48,32.9,2009,2010,1
+Rwanda,646,Africa,Pineapples,Fruits and nuts,12,11.07,11.5,19.7,2009,2010,2
+Rwanda,646,Africa,Tomatoes,Vegetables,24,10.7,10.6,20.22,2009,2024,3
+Rwanda,646,Africa,Wheat,Cereals,135,3.59,3.5,4.87,2000,2021,4
+Rwanda,646,Africa,Sorghum,Cereals,89,3.22,2.69,4.55,2000,2021,5
+Saudi Arabia,682,Asia,Cucumbers and gherkins,Vegetables,6,14.97,18.65,23.65,2015,2019,1
+Saudi Arabia,682,Asia,Tomatoes,Vegetables,7,11.4,16.5,19.4,2015,2019,2
+Saudi Arabia,682,Asia,"Other fruits, n.e.c.",Fruits and nuts,6,10.44,10.77,20.35,2019,2019,3
+Saudi Arabia,682,Asia,Watermelons,Vegetables,6,12.18,10.25,21.71,2019,2019,4
+Saudi Arabia,682,Asia,Carrots and turnips,Vegetables,6,7.91,7.95,15.25,2019,2019,5
+Senegal,686,Africa,Maize (corn),Cereals,154,3.23,2.65,6.42,2000,2021,1
+Senegal,686,Africa,Fonio,Cereals,154,2.47,2.5,3.5,2000,2021,2
+Senegal,686,Africa,Rice,Cereals,154,2.26,2.5,4.4,2000,2021,2
+Senegal,686,Africa,Sorghum,Cereals,132,2.63,2.41,4.55,2000,2021,3
+Senegal,686,Africa,Millet,Cereals,154,1.88,2.0,3.5,2000,2021,4
+Sierra Leone,694,Africa,Rice,Cereals,159,2.83,2.5,4.6,2000,2021,1
+Sierra Leone,694,Africa,Maize (corn),Cereals,154,3.42,2.39,6.49,2000,2021,2
+Slovakia,703,Europe,Barley,Cereals,5,4.14,3.17,6.81,2000,2004,1
+Slovakia,703,Europe,Wheat,Cereals,5,1.74,1.9,2.28,2001,2022,2
+Somalia,706,Africa,Rice,Cereals,110,2.28,2.5,4.4,2000,2021,1
+Somalia,706,Africa,Maize (corn),Cereals,154,3.19,2.42,6.42,2000,2021,2
+Somalia,706,Africa,Sorghum,Cereals,132,2.48,2.41,4.55,2000,2021,3
+South Africa,710,Africa,"Other fruits, n.e.c.",Fruits and nuts,18,12.82,10.0,21.85,2017,2021,1
+South Africa,710,Africa,Grapes,Fruits and nuts,75,4.32,3.24,9.11,2017,2018,2
+South Africa,710,Africa,Maize (corn),Cereals,155,3.01,2.65,4.44,2000,2022,3
+South Africa,710,Africa,Wheat,Cereals,88,2.6,1.65,4.42,2000,2021,4
+South Africa,710,Africa,Barley,Cereals,66,1.65,1.3,2.0,2000,2021,5
+South Africa,710,Africa,Sorghum,Cereals,66,1.88,1.3,2.75,2000,2021,5
+South Korea,410,Asia,Maize (corn),Cereals,9,14.96,15.0,18.0,2014,2014,1
+South Korea,410,Asia,Barley,Cereals,8,14.54,14.5,18.65,2014,2014,2
+South Korea,410,Asia,Rice,Cereals,9,11.82,13.0,15.2,2000,2014,3
+South Korea,410,Asia,Wheat,Cereals,12,10.03,12.0,16.22,2000,2014,4
+South Sudan,728,Africa,Maize (corn),Cereals,154,3.19,2.65,5.91,2000,2021,1
+Sri Lanka,144,Asia,Cabbages,Vegetables,6,17.03,13.17,30.65,2002,2023,1
+Sri Lanka,144,Asia,Papayas,Fruits and nuts,6,15.31,12.7,27.85,2002,2023,2
+Sri Lanka,144,Asia,Tomatoes,Vegetables,6,14.46,11.79,25.68,2002,2023,3
+Sri Lanka,144,Asia,Leeks and other alliaceous vegetables,Vegetables,5,16.35,11.44,30.32,2002,2002,4
+Sri Lanka,144,Asia,Eggplants (aubergines),Vegetables,5,13.54,10.75,25.25,2002,2002,5
+Sudan,729,Africa,Sorghum,Cereals,91,3.21,3.6,4.55,2000,2024,1
+Sudan,729,Africa,Wheat,Cereals,92,3.48,3.3,4.43,2000,2024,2
+Sudan,729,Africa,Millet,Cereals,91,2.32,2.5,3.5,2000,2024,3
+Sweden,752,Europe,"Onions and shallots, green",Vegetables,7,20.77,25.0,28.2,2011,2017,1
+Sweden,752,Europe,Wheat,Cereals,5,20.5,23.0,23.0,2011,2017,2
+Sweden,752,Europe,Carrots and turnips,Vegetables,8,18.53,21.0,25.45,2011,2017,3
+Sweden,752,Europe,"Peas, green",Vegetables,10,9.69,6.1,17.44,2011,2017,4
+Sweden,752,Europe,Sugar beet,Sugar crops,6,2.5,2.5,3.5,2011,2013,5
+Switzerland,756,Europe,Wheat,Cereals,15,1.83,1.58,2.51,2000,2022,1
+Switzerland,756,Europe,Barley,Cereals,14,0.99,1.04,1.1,2000,2013,2
+Switzerland,756,Europe,Rye,Cereals,14,1.22,1.02,1.96,2000,2013,3
+Switzerland,756,Europe,Triticale,Cereals,13,1.0,1.02,1.09,2001,2013,4
+Switzerland,756,Europe,Oats,Cereals,14,1.1,0.97,1.23,2000,2013,5
+Tanzania,834,Africa,Sweet potatoes,Roots and tubers,7,23.59,24.0,38.61,2003,2019,1
+Tanzania,834,Africa,"Mangoes, guavas and mangosteens",Fruits and nuts,12,23.68,18.5,43.42,2005,2023,2
+Tanzania,834,Africa,Tomatoes,Vegetables,13,16.11,7.5,43.38,2005,2023,3
+Tanzania,834,Africa,Maize (corn),Cereals,170,6.68,4.0,17.9,2000,2021,4
+Tanzania,834,Africa,Wheat,Cereals,88,3.72,3.82,4.44,2000,2021,5
+Thailand,764,Asia,Rice,Cereals,8,6.68,5.5,11.47,2007,2016,1
+Thailand,764,Asia,"Other tropical and subtropical fruits, n.e.c.",Fruits and nuts,13,5.81,4.47,12.77,2021,2021,2
+Timor-Leste,626,Asia,Rice,Cereals,24,4.21,3.5,10.0,2015,2018,1
+Timor-Leste,626,Asia,Maize (corn),Cereals,12,2.27,1.63,5.5,2015,2015,2
+Togo,768,Africa,Maize (corn),Cereals,112,4.98,4.0,10.53,2000,2021,1
+Togo,768,Africa,Sorghum,Cereals,89,3.97,3.6,4.55,2000,2021,2
+Togo,768,Africa,Millet,Cereals,111,2.47,2.5,3.5,2000,2021,3
+Togo,768,Africa,Rice,Cereals,111,3.08,2.5,4.4,2000,2021,3
+Togo,768,Africa,Fonio,Cereals,110,3.04,2.5,3.5,2000,2021,4
+Turkey,792,Asia,"Other fruits, n.e.c.",Fruits and nuts,5,10.6,10.0,16.0,2013,2013,1
+UK,826,Europe,Apples,Fruits and nuts,14,9.54,5.5,15.0,2011,2018,1
+UK,826,Europe,Potatoes,Roots and tubers,14,8.16,4.0,22.5,2011,2018,2
+UK,826,Europe,Tomatoes,Vegetables,11,4.66,4.0,7.0,2011,2018,3
+UK,826,Europe,Avocados,Fruits and nuts,13,7.9,3.75,25.0,2011,2018,4
+UK,826,Europe,Cauliflowers and broccoli,Vegetables,9,6.19,3.0,12.0,2011,2018,5
+USA,840,Americas,Grapefruit juice,"Meat, fish, fruit and vegetable products",21,41.89,43.6,46.78,2000,2019,1
+USA,840,Americas,Pineapple juice,"Meat, fish, fruit and vegetable products",20,40.02,41.33,41.33,2000,2018,2
+USA,840,Americas,Orange juice,"Meat, fish, fruit and vegetable products",20,40.3,40.87,46.5,2000,2018,3
+USA,840,Americas,Canned mushrooms,"Meat, fish, fruit and vegetable products",20,34.0,35.0,35.0,2000,2018,4
+USA,840,Americas,Apple juice,"Meat, fish, fruit and vegetable products",19,26.67,26.67,26.67,2000,2018,5
+Uganda,800,Africa,"Beans, dry",Pulses,20,3.97,3.1,8.63,2015,2021,1
+Uganda,800,Africa,Maize (corn),Cereals,191,4.28,2.65,6.42,2000,2021,2
+Uganda,800,Africa,Barley,Cereals,110,2.63,2.65,3.5,2000,2021,3
+Uganda,800,Africa,Wheat,Cereals,110,2.82,2.65,4.43,2000,2021,3
+Uganda,800,Africa,Millet,Cereals,154,2.24,2.5,3.5,2000,2021,4
+Uganda,800,Africa,Rice,Cereals,145,2.43,2.5,4.4,2000,2021,5
+Ukraine,804,Europe,Apples,Fruits and nuts,17,12.0,7.5,25.1,2013,2013,1
+Ukraine,804,Europe,Potatoes,Roots and tubers,28,9.2,7.29,20.0,2000,2016,2
+Ukraine,804,Europe,Wheat,Cereals,10,6.69,5.38,11.5,2013,2016,3
+Ukraine,804,Europe,Raw milk of cattle,Live animals and animal products,16,1.21,0.06,4.55,2000,2014,4
+Venezuela,862,Americas,Tomatoes,Vegetables,10,27.47,27.63,28.85,2000,2013,1
+Venezuela,862,Americas,Watermelons,Vegetables,5,18.94,19.6,19.71,2000,2004,2
+Venezuela,862,Americas,Sorghum,Cereals,11,17.15,16.72,18.23,2000,2010,3
+Venezuela,862,Americas,Grapes,Fruits and nuts,9,14.38,14.98,15.15,2000,2013,4
+Venezuela,862,Americas,Pineapples,Fruits and nuts,7,14.55,14.71,14.74,2000,2010,5
+Viet Nam,704,Asia,Rice,Cereals,22,12.36,5.25,22.35,2013,2024,1
+Viet Nam,704,Asia,Maize (corn),Cereals,8,4.11,3.0,8.53,2000,2001,2
+Viet Nam,704,Asia,"Cassava, dry",Roots and tubers,5,1.4,0.5,3.2,2014,2014,3
+Zambia,894,Africa,Sorghum,Cereals,135,3.28,3.6,4.44,2000,2021,1
+Zambia,894,Africa,Maize (corn),Cereals,158,3.22,2.65,5.88,2000,2021,2
+Zambia,894,Africa,Rice,Cereals,158,2.38,2.5,4.4,2000,2021,3
+Zambia,894,Africa,Millet,Cereals,154,2.18,2.5,3.43,2000,2021,4
+Zambia,894,Africa,Wheat,Cereals,88,2.51,1.65,5.75,2000,2021,5
+Zimbabwe,716,Africa,Bananas,Fruits and nuts,13,13.57,14.0,22.7,2018,2022,1
+Zimbabwe,716,Africa,Tomatoes,Vegetables,8,10.78,9.0,17.39,2018,2022,2
+Zimbabwe,716,Africa,Maize (corn),Cereals,174,3.47,2.65,6.13,2000,2021,3
+Zimbabwe,716,Africa,Sorghum,Cereals,132,3.56,2.65,4.55,2000,2021,4
+Zimbabwe,716,Africa,Millet,Cereals,154,1.89,2.0,3.5,2000,2021,5

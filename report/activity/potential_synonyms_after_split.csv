@@ -28,8 +28,8 @@
 26,"Packaging, Processing",21
 27,"Farm, Handling, Storage",19
 28,"Grading, Packaging",19
-29,Loading,18
-30,"Sorting, Storage",18
+29,"Sorting, Storage",18
+30,Loading,18
 31,"Handling, Transportation",17
 32,Exporting,16
 33,Milling,16
@@ -38,145 +38,145 @@
 36,"Marketing, Storage",14
 37,"Handling, Storage",14
 38,"Handling, Storage, Transportation",14
-39,"Harvesting, Threshing",13
-40,Trading,13
-41,"Marketing, Transportation",13
+39,Parboiling,13
+40,"Marketing, Transportation",13
+41,Trading,13
 42,Shelling,13
-43,Parboiling,13
-44,"Packaging, Storage, Transportation",12
-45,Unloading,12
+43,"Harvesting, Threshing",13
+44,Unloading,12
+45,"Packaging, Storage, Transportation",12
 46,"Farm, Manufacturing, Transportation",12
-47,"Assembling, Farm",11
-48,"Retailing, Wholesale",11
-49,"Farm, Retailing, Trading, Wholesale",11
+47,"Farm, Retailing, Trading, Wholesale",11
+48,"Assembling, Farm",11
+49,"Retailing, Wholesale",11
 50,"Bagging, Packaging",10
 51,"Farm, Storage",10
 52,"Drying, Farm",9
-53,Peeling,9
-54,"Storage, Transportation",9
-55,"Handling, Trading, Transportation",9
-56,"Farm, Shelling",9
-57,"Packaging, Transportation",9
+53,"Storage, Transportation",9
+54,"Handling, Trading, Transportation",9
+55,"Packaging, Transportation",9
+56,Peeling,9
+57,"Farm, Shelling",9
 58,"Loading, Unloading",8
 59,"Collection, Farm",7
 60,"Milling, Processing",7
-61,"Cleaning, Farm",6
-62,"Marketing, Storage, Transportation",6
-63,Cleaning,6
+61,Cleaning,6
+62,"Cleaning, Farm",6
+63,"Marketing, Storage, Transportation",6
 64,Stacking,5
-65,Curing,5
+65,"Sorting, Wholesale",5
 66,"Farm, Sorting",5
-67,"Sorting, Wholesale",5
+67,Curing,5
 68,"Marketing, Wholesale",4
 69,Manufacturing,4
 70,Assembling,4
-71,"Farm, Processing, Storage, Transportation",3
-72,"Marketing, Retailing, Wholesale",3
-73,"Collection, Marketing",3
-74,"Harvesting, Sorting",3
-75,"Harvesting, Storage",3
-76,"Loading, Storage, Transportation, Unloading",3
-77,Ripening,3
-78,"Cleaning, Sorting",3
-79,"Cleaning, Drying, Harvesting, Stacking, Threshing, Transportation",3
-80,"Farm, Harvesting, Retailing",3
-81,"Farm, Harvesting",3
-82,"Blanching, Cleaning, Freezing, Sorting",3
-83,Layering,3
+71,"Farm, Harvesting, Retailing",3
+72,"Cleaning, Drying, Harvesting, Stacking, Threshing, Transportation",3
+73,"Loading, Storage, Transportation, Unloading",3
+74,"Cleaning, Sorting",3
+75,Ripening,3
+76,"Harvesting, Storage",3
+77,"Farm, Harvesting",3
+78,"Marketing, Retailing, Wholesale",3
+79,"Harvesting, Sorting",3
+80,"Collection, Marketing",3
+81,"Farm, Processing, Storage, Transportation",3
+82,Layering,3
+83,"Blanching, Cleaning, Freezing, Sorting",3
 84,"Storage, Trading",2
-85,"Collection, Wholesale",2
-86,"Distribution, Marketing, Storage",2
-87,"Collection, Grading, Harvesting, Packaging, Transportation",2
-88,"Assembling, Field",2
-89,"Assembling, Field, Retailing, Wholesale",2
-90,"Packaging, Sorting",2
-91,"Packaging, Peeling",2
+85,"Distribution, Marketing, Storage",2
+86,"Assembling, Field, Retailing, Wholesale",2
+87,"Packaging, Sorting",2
+88,Lifting,2
+89,"Harvesting, Marketing, Storage, Transportation",2
+90,"Collection, Grading, Harvesting, Packaging, Transportation",2
+91,"Assembling, Field",2
 92,"Drying, Threshing",2
-93,Lifting,2
-94,"Consumption, Handling, Harvesting, Processing, Retailing, Storage, Transportation, Wholesale",2
-95,"Harvesting, Marketing, Storage, Transportation",2
-96,"Cleaning, Drying, Field, Harvesting, Ripening, Threshing, Transportation, Winnowing",2
-97,"Collection, Distribution, Marketing, Wholesale",2
-98,"Farm, Threshing, Winnowing",2
-99,"Bulking, Distribution",2
-100,"Farm, Marketing, Storage, Transportation",1
-101,"Processing, Ripening",1
-102,"Handling, Harvesting",1
-103,"Farm, Husking",1
-104,"Retailing, Storage, Transportation, Wholesale",1
-105,"Distribution, Trading",1
-106,"Harvesting, Stacking, Threshing",1
-107,"Farm, Retailing, Wholesale",1
-108,"Distribution, Retailing",1
-109,Preservation,1
-110,Roasting,1
+93,"Collection, Wholesale",2
+94,"Bulking, Distribution",2
+95,"Farm, Threshing, Winnowing",2
+96,"Consumption, Handling, Harvesting, Processing, Retailing, Storage, Transportation, Wholesale",2
+97,"Cleaning, Drying, Field, Harvesting, Ripening, Threshing, Transportation, Winnowing",2
+98,"Collection, Distribution, Marketing, Wholesale",2
+99,"Packaging, Peeling",2
+100,"Processing, Ripening",1
+101,"Distribution, Trading",1
+102,"Retailing, Storage, Transportation, Wholesale",1
+103,"Harvesting, Stacking, Threshing",1
+104,"Farm, Retailing, Wholesale",1
+105,"Handling, Harvesting",1
+106,"Farm, Husking",1
+107,"Farm, Marketing, Storage, Transportation",1
+108,"Storage, Transportation, Unloading",1
+109,"Handling, Marketing, Storage",1
+110,"Loading, Marketing, Transportation, Unloading",1
 111,Dewatering,1
-112,Sifting,1
-113,Grating,1
-114,"Loading, Marketing, Transportation, Unloading",1
-115,Bagging,1
-116,"Assembling, Grading, Harvesting, Loading, Sorting, Storage, Transportation, Unloading",1
-117,"Assembling, Grading, Harvesting, Sorting, Storage, Transportation, Unloading",1
-118,"Farm, Grading, Harvesting, Loading, Sorting, Storage, Trading, Unloading",1
-119,"Grading, Harvesting, Sorting, Storage, Unloading",1
-120,"Farm, Grading, Harvesting, Sorting, Transportation",1
-121,"Farm, Grading, Loading, Sorting, Storage",1
-122,"Assembling, Bagging, Grading, Harvesting, Loading, Packaging, Sorting, Storage, Transportation, Unloading",1
-123,"Grading, Harvesting, Loading, Sorting, Storage, Transportation, Unloading",1
-124,"Storage, Transportation, Unloading",1
-125,"Handling, Marketing, Storage",1
-126,"Farm, Grading, Sorting",1
-127,"Distribution, Marketing",1
-128,"Collection, Grading, Harvesting, Packaging, Retailing, Storage, Transportation, Wholesale",1
-129,"Collection, Harvesting, Packaging, Sorting, Transportation",1
-130,"Collection, Grading, Harvesting, Transportation",1
-131,"Collection, Harvesting, Processing, Retailing, Transportation, Wholesale",1
-132,"Collection, Drying, Farm, Packaging, Winnowing",1
-133,"Collection, Drying, Harvesting, Packaging, Processing, Retailing, Sorting, Transportation, Wholesale",1
-134,"Collection, Drying, Harvesting, Packaging, Sorting, Transportation",1
-135,"Cleaning, Collection, Drying, Harvesting, Packaging, Threshing, Transportation, Winnowing",1
-136,"Collection, Drying, Harvesting, Processing, Retailing, Storage, Threshing, Transportation, Wholesale, Winnowing",1
-137,"Collection, Drying, Harvesting, Packaging, Processing, Retailing, Storage, Threshing, Transportation, Wholesale, Winnowing",1
-138,"Collection, Harvesting, Threshing, Winnowing",1
-139,"Collection, Harvesting, Packaging, Transportation",1
-140,"Collection, Harvesting, Packaging, Retailing, Storage, Transportation, Wholesale",1
-141,"Collection, Grading, Harvesting, Retailing, Storage, Transportation, Wholesale",1
-142,"Collection, Harvesting, Packaging, Processing, Storage, Transportation",1
-143,"Collection, Grading, Packaging, Storage, Transportation",1
-144,"Grading, Harvesting, Transportation",1
-145,"Grading, Harvesting, Sorting",1
-146,"Farm, Grading",1
-147,"Grading, Packaging, Sorting",1
-148,Picking,1
-149,"Curing, Storage",1
-150,"Ripening, Storage",1
-151,"Cleaning, Harvesting, Loading, Packaging, Sorting, Storage, Transportation, Unloading",1
-152,"Handling, Picking",1
-153,"Cleaning, Handling, Harvesting, Packaging, Sorting, Storage, Transportation",1
-154,"Distribution, Packaging",1
-155,"Marketing, Retailing",1
-156,"Bagging, Cleaning, Collection, Distribution, Drying, Field, Handling, Harvesting, Sorting, Storage, Threshing",1
-157,"Drying, Storage",1
-158,"Farm, Transportation",1
-159,"Farm, Handling, Husking",1
-160,"Grading, Transportation",1
-161,"Drying, Processing",1
-162,"Collection, Farm, Marketing, Retailing, Wholesale",1
-163,"Processing, Storage",1
-164,"Farm, Harvesting, Storage, Threshing, Transportation, Winnowing",1
-165,"Drying, Parboiling, Storage",1
-166,"Milling, Storage, Transportation",1
-167,"Milling, Transportation",1
-168,"Grading, Processing, Sorting",1
-169,"Farm, Winnowing",1
-170,Bundling,1
-171,"Cleaning, Handling, Harvesting, Threshing",1
-172,Piling,1
-173,"Drying, Milling, Processing",1
-174,"Drying, Milling, Packaging, Polishing, Sorting, Storage, Transportation",1
+112,"Distribution, Retailing",1
+113,Preservation,1
+114,Grating,1
+115,Roasting,1
+116,Sifting,1
+117,"Farm, Grading",1
+118,"Grading, Harvesting, Sorting",1
+119,"Collection, Harvesting, Packaging, Transportation",1
+120,"Collection, Harvesting, Packaging, Retailing, Storage, Transportation, Wholesale",1
+121,"Collection, Grading, Harvesting, Retailing, Storage, Transportation, Wholesale",1
+122,"Collection, Harvesting, Packaging, Processing, Storage, Transportation",1
+123,"Collection, Grading, Packaging, Storage, Transportation",1
+124,"Grading, Harvesting, Transportation",1
+125,"Collection, Harvesting, Threshing, Winnowing",1
+126,"Collection, Drying, Harvesting, Packaging, Processing, Retailing, Storage, Threshing, Transportation, Wholesale, Winnowing",1
+127,"Collection, Harvesting, Processing, Retailing, Transportation, Wholesale",1
+128,"Collection, Drying, Farm, Packaging, Winnowing",1
+129,"Collection, Drying, Harvesting, Packaging, Processing, Retailing, Sorting, Transportation, Wholesale",1
+130,"Collection, Drying, Harvesting, Packaging, Sorting, Transportation",1
+131,"Cleaning, Collection, Drying, Harvesting, Packaging, Threshing, Transportation, Winnowing",1
+132,"Collection, Drying, Harvesting, Processing, Retailing, Storage, Threshing, Transportation, Wholesale, Winnowing",1
+133,"Distribution, Marketing",1
+134,"Collection, Grading, Harvesting, Packaging, Retailing, Storage, Transportation, Wholesale",1
+135,"Farm, Grading, Sorting",1
+136,"Collection, Harvesting, Packaging, Sorting, Transportation",1
+137,"Collection, Grading, Harvesting, Transportation",1
+138,"Assembling, Grading, Harvesting, Sorting, Storage, Transportation, Unloading",1
+139,Bagging,1
+140,"Assembling, Grading, Harvesting, Loading, Sorting, Storage, Transportation, Unloading",1
+141,"Farm, Grading, Harvesting, Sorting, Transportation",1
+142,"Grading, Harvesting, Sorting, Storage, Unloading",1
+143,"Farm, Grading, Harvesting, Loading, Sorting, Storage, Trading, Unloading",1
+144,"Farm, Grading, Loading, Sorting, Storage",1
+145,"Grading, Harvesting, Loading, Sorting, Storage, Transportation, Unloading",1
+146,"Assembling, Bagging, Grading, Harvesting, Loading, Packaging, Sorting, Storage, Transportation, Unloading",1
+147,"Bagging, Cleaning, Collection, Distribution, Drying, Field, Handling, Harvesting, Sorting, Storage, Threshing",1
+148,"Marketing, Retailing",1
+149,"Collection, Farm, Marketing, Retailing, Wholesale",1
+150,"Drying, Processing",1
+151,"Grading, Transportation",1
+152,"Farm, Handling, Husking",1
+153,"Farm, Transportation",1
+154,"Drying, Storage",1
+155,"Grading, Packaging, Sorting",1
+156,Picking,1
+157,"Ripening, Storage",1
+158,"Curing, Storage",1
+159,"Handling, Picking",1
+160,"Cleaning, Harvesting, Loading, Packaging, Sorting, Storage, Transportation, Unloading",1
+161,"Cleaning, Handling, Harvesting, Packaging, Sorting, Storage, Transportation",1
+162,"Distribution, Packaging",1
+163,"Milling, Storage, Transportation",1
+164,"Processing, Storage",1
+165,"Cleaning, Handling, Harvesting, Threshing",1
+166,Bundling,1
+167,"Grading, Processing, Sorting",1
+168,"Farm, Winnowing",1
+169,"Milling, Transportation",1
+170,"Farm, Harvesting, Storage, Threshing, Transportation, Winnowing",1
+171,"Drying, Parboiling, Storage",1
+172,"Drying, Milling, Processing",1
+173,"Sorting, Washing",1
+174,"Drying, Harvesting, Milling, Sorting, Storage, Threshing, Transportation, Winnowing",1
 175,"Drying, Harvesting, Milling, Storage, Threshing, Transportation, Winnowing",1
-176,"Drying, Harvesting, Milling, Sorting, Storage, Threshing, Transportation, Winnowing",1
-177,"Sorting, Washing",1
+176,"Drying, Milling, Packaging, Polishing, Sorting, Storage, Transportation",1
+177,Piling,1
 178,"Milling, Storage",1
 179,"Harvesting, Packaging, Sorting, Storage",1
 180,"Farm, Milling",1
