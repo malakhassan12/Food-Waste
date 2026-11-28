@@ -1,0 +1,131 @@
+{
+"SELECT\n    tc.table_name,\n    tc.constraint_name,\n    tc.constraint_type,\n    kcu.column_name,\n    ccu.table_name AS referenced_table,\n    ccu.column_name AS referenced_column\nFROM information_schema.table_constraints tc\nLEFT JOIN information_schema.key_column_usage kcu\n    ON tc.constraint_name = kcu.constraint_name\n    AND tc.constraint_schema = kcu.constraint_schema\nLEFT JOIN information_schema.constraint_column_usage ccu\n    ON tc.constraint_name = ccu.constraint_name\n    AND tc.constraint_schema = ccu.constraint_schema\nWHERE tc.constraint_schema = 'food_waste'\n  AND tc.constraint_type IN ('PRIMARY KEY', 'FOREIGN KEY')\nORDER BY tc.table_name, tc.constraint_type": [
+	{
+		"table_name" : "activity",
+		"constraint_name" : "activity_pkey",
+		"constraint_type" : "PRIMARY KEY",
+		"column_name" : "activity_id",
+		"referenced_table" : "activity",
+		"referenced_column" : "activity_id"
+	},
+	{
+		"table_name" : "commodity",
+		"constraint_name" : "commodity_pkey",
+		"constraint_type" : "PRIMARY KEY",
+		"column_name" : "cpc_code",
+		"referenced_table" : "commodity",
+		"referenced_column" : "cpc_code"
+	},
+	{
+		"table_name" : "country",
+		"constraint_name" : "country_pkey",
+		"constraint_type" : "PRIMARY KEY",
+		"column_name" : "m49_code",
+		"referenced_table" : "country",
+		"referenced_column" : "m49_code"
+	},
+	{
+		"table_name" : "method",
+		"constraint_name" : "method_pkey",
+		"constraint_type" : "PRIMARY KEY",
+		"column_name" : "method_id",
+		"referenced_table" : "method",
+		"referenced_column" : "method_id"
+	},
+	{
+		"table_name" : "observation",
+		"constraint_name" : "observation_m49_code_fkey",
+		"constraint_type" : "FOREIGN KEY",
+		"column_name" : "m49_code",
+		"referenced_table" : "country",
+		"referenced_column" : "m49_code"
+	},
+	{
+		"table_name" : "observation",
+		"constraint_name" : "observation_cpc_code_fkey",
+		"constraint_type" : "FOREIGN KEY",
+		"column_name" : "cpc_code",
+		"referenced_table" : "commodity",
+		"referenced_column" : "cpc_code"
+	},
+	{
+		"table_name" : "observation",
+		"constraint_name" : "observation_method_id_fkey",
+		"constraint_type" : "FOREIGN KEY",
+		"column_name" : "method_id",
+		"referenced_table" : "method",
+		"referenced_column" : "method_id"
+	},
+	{
+		"table_name" : "observation",
+		"constraint_name" : "observation_source_id_fkey",
+		"constraint_type" : "FOREIGN KEY",
+		"column_name" : "source_id",
+		"referenced_table" : "source",
+		"referenced_column" : "source_id"
+	},
+	{
+		"table_name" : "observation",
+		"constraint_name" : "observation_pkey",
+		"constraint_type" : "PRIMARY KEY",
+		"column_name" : "record_id",
+		"referenced_table" : "observation",
+		"referenced_column" : "record_id"
+	},
+	{
+		"table_name" : "observation_activity",
+		"constraint_name" : "observation_activity_record_id_fkey",
+		"constraint_type" : "FOREIGN KEY",
+		"column_name" : "record_id",
+		"referenced_table" : "observation",
+		"referenced_column" : "record_id"
+	},
+	{
+		"table_name" : "observation_activity",
+		"constraint_name" : "observation_activity_activity_id_fkey",
+		"constraint_type" : "FOREIGN KEY",
+		"column_name" : "activity_id",
+		"referenced_table" : "activity",
+		"referenced_column" : "activity_id"
+	},
+	{
+		"table_name" : "observation_activity",
+		"constraint_name" : "observation_activity_pkey",
+		"constraint_type" : "PRIMARY KEY",
+		"column_name" : "activity_id",
+		"referenced_table" : "observation_activity",
+		"referenced_column" : "activity_id"
+	},
+	{
+		"table_name" : "observation_activity",
+		"constraint_name" : "observation_activity_pkey",
+		"constraint_type" : "PRIMARY KEY",
+		"column_name" : "activity_id",
+		"referenced_table" : "observation_activity",
+		"referenced_column" : "record_id"
+	},
+	{
+		"table_name" : "observation_activity",
+		"constraint_name" : "observation_activity_pkey",
+		"constraint_type" : "PRIMARY KEY",
+		"column_name" : "record_id",
+		"referenced_table" : "observation_activity",
+		"referenced_column" : "record_id"
+	},
+	{
+		"table_name" : "observation_activity",
+		"constraint_name" : "observation_activity_pkey",
+		"constraint_type" : "PRIMARY KEY",
+		"column_name" : "record_id",
+		"referenced_table" : "observation_activity",
+		"referenced_column" : "activity_id"
+	},
+	{
+		"table_name" : "source",
+		"constraint_name" : "source_pkey",
+		"constraint_type" : "PRIMARY KEY",
+		"column_name" : "source_id",
+		"referenced_table" : "source",
+		"referenced_column" : "source_id"
+	}
+]}

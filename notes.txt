@@ -9,3 +9,32 @@ If we use Egyptian data, we should simulate additional data to increase the data
 Now about Malak
 
 - spark should connect with kafka  and the folder of processed by spark will not created  ! 
+- should handle the security !!!
+
+
+
+shape of data kafka will take it from DB
+
+{
+  "record_id": 1001,
+  "year": 2022,
+  "loss_percentage": 12.5,
+  "country": {
+    "m49_code": "818",
+    "country_name": "Egypt"
+  },
+  "commodity": {
+    "cpc_code": "011",
+    "commodity_name": "Wheat"
+  },
+  "method": {
+    "method_id": 1,
+    "method_name": "Survey"
+  },
+  "source": {
+    "source_id": 10,
+    "reference": "Example",
+    "url": "https://example.com"
+  },
+  "activities": ["Storage", "Processing"]
+}
